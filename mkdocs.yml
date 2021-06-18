@@ -1,2 +1,5 @@
-site_name: My Docs
-site_url: https://example.com/
+site_name: Leynier Gutiérrez González
+site_url: https://rayniel95.github.io
+repo_url: https://github.com/rayniel95
+theme:
+  name: material
