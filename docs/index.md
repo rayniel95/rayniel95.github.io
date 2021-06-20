@@ -1,5 +1,7 @@
 **this page is under construction**
 
+![me](images/me.jpg)
+
 **Contacts:**
 
 [LinkedIn][1] / [GitHub][2] / [DEV][5] / [ResearchGate][6] / [Medium][4] / [YouTube][3]
