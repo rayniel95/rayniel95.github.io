@@ -28,7 +28,9 @@ Email: rainyel.ramos@gmail.com
 # Work experience
 
 **Cargo**
+
 Company name (with link to official page)
+
 *from 1500 to 2000 d.C.*
 location
 
@@ -41,8 +43,8 @@ very good description
 - implemented project CompanyName:ProjectName (see in Projects section)
 
 Co-workers:
-My Friend Name (with linkedin link)
-My Other Friend (this friend is not on linkedin)
+My Friend Name (with linkedin link and researchgate), 
+My Other Friend (with linkedin link and researchgate)
 ... more friends (up to 15)
 
 Usefull links with descriptions:
@@ -58,6 +60,7 @@ Usefull links with descriptions:
     - description
 - Web page X (link to photo or other)
 ...
+
 links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
 
 keywords: creepycomputersciencefield, rarenametechnology, ...
@@ -65,6 +68,7 @@ keywords: creepycomputersciencefield, rarenametechnology, ...
 # Projects
 
 Project name (with link to code or other)
+
 *from 1500 to 2000*
 
 very good description
@@ -76,7 +80,7 @@ very good description
 - research about this
 
 Others creators:
-My Friend Name (with linkedin link)
+My Friend Name (with linkedin link and researchgate), 
 My Other Friend (this friend is not on linkedin)
 ... more friends
 
@@ -97,8 +101,13 @@ Technologies:
 # Education
 
 School Name (link to official website)
-Titulacion, academinc discipline
+
+Titulacion, 
+
+academinc discipline
+
 *from 1500 to 2000*
+
 score/5
 
 Activites and groups:
@@ -119,17 +128,23 @@ Usefull links with descriptions:
     - description
 - Web page X (link to photo or other)
 ...
+
 links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
 
-Some former classmates: My Friend 1 (linkedin profile link), My Friend 2 (linkedin profile link), My Friend 3 (linkedin profile link), My Friend 4 (linkedin profile link), ... up to 15.... best linkedin profiles
+Some former classmates: My Friend 1 (with linkedin link and researchgate), My Friend 2 (with linkedin link and researchgate), My Friend 3 (with linkedin link and researchgate), My Friend 4 (with linkedin link and researchgate), ... up to 15.... best linkedin profiles
 
-Some proffessors: My Proffessor 1 (linkedin profile link), My Proffessor 2 (linkedin profile link), My Proffessor 3 (linkedin profile link), My Proffessor 4 (linkedin profile link), My Proffessor 5 (linkedin profile link), ... up to 15.... best linkedin profiles
+Some proffessors: My Proffessor 1 (with linkedin link and researchgate), My Proffessor 2 (with linkedin link and researchgate), My Proffessor 3 (with linkedin link and researchgate), My Proffessor 4 (with linkedin link and researchgate), My Proffessor 5 (with linkedin link and researchgate), ... up to 15.... best linkedin profiles
 
 ---
 
 School Name (link to official website)
-Titulacion, academinc discipline
+
+Titulacion, 
+
+academinc discipline
+
 *from 1500 to 2000*
+
 score/5
 
 Activites and groups:
@@ -150,30 +165,41 @@ Usefull links with descriptions:
     - description
 - Web page X (link to photo or other)
 ...
+
 links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
 
-Some former classmates: My Friend 1 (linkedin profile link), My Friend 2 (linkedin profile link), My Friend 3 (linkedin profile link), My Friend 4 (linkedin profile link), ... up to 15.... best linkedin profiles
+Some former classmates: My Friend 1 (with linkedin link and researchgate), My Friend 2 (with linkedin link and researchgate), My Friend 3 (with linkedin link and researchgate), My Friend 4 (with linkedin link and researchgate), ... up to 15.... best linkedin profiles
 
-Some proffessors: My Proffessor 1 (linkedin profile link), My Proffessor 2 (linkedin profile link), My Proffessor 3 (linkedin profile link), My Proffessor 4 (linkedin profile link), My Proffessor 5 (linkedin profile link), ... up to 15.... best linkedin profiles
+Some proffessors: My Proffessor 1 (with linkedin link and researchgate), My Proffessor 2 (with linkedin link and researchgate), My Proffessor 3 (linkedin profile link), My Proffessor 4 (with linkedin link and researchgate), My Proffessor 5 (with linkedin link and researchgate), ... up to 15.... best linkedin profiles
 
 # Licences and certifications
 
 Certificate Name (with link to credential photo or other)
+
 Organization (with link to official page)
+
 *from 1500 to 2000*
+
 ID 2345657763434311
 
 Certificate Name (with link to credential photo or other)
+
 Organization (with link to official page)
+
 *from 1500 to 2000*
+
 ID 2345657763434311
+
 ...
 
 # Volunteer experience
 
 **Cargo**
+
 Oranization (with link to official page)
+
 *from 1500 to 2000 d.C.*
+
 benefic cause 
 
 very good description
@@ -185,8 +211,8 @@ very good description
 - implemented a artificial intelligence that cook and wash the dishes
 
 Co-workers:
-My Friend Name (with linkedin link)
-My Other Friend (this friend is not on linkedin)
+My Friend Name (with linkedin link and researchgate),
+My Other Friend (with linkedin link and researchgate)
 ... more friends
 
 Usefull links with descriptions:
@@ -202,6 +228,7 @@ Usefull links with descriptions:
     - description
 - Web page X (link to photo or other)
 ...
+
 links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
 
 Stack: superframework (link to official page), superlanguage (link to official page), ...
@@ -209,8 +236,11 @@ Stack: superframework (link to official page), superlanguage (link to official p
 ---
 
 **Cargo**
+
 Oranization (with link to official page)
+
 *from 1500 to 2000 d.C.*
+
 benefic cause 
 
 very good description
@@ -222,8 +252,8 @@ very good description
 - implemented a artificial intelligence that cook and wash the dishes
 
 Co-workers:
-My Friend Name (with linkedin link)
-My Other Friend (this friend is not on linkedin)
+My Friend Name (with linkedin link and researchgate),
+My Other Friend (with linkedin link and researchgate)
 ... more friends
 
 Usefull links with descriptions:
@@ -239,6 +269,7 @@ Usefull links with descriptions:
     - description
 - Web page X (link to photo or other)
 ...
+
 links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
 
 Stack: superframework (link to official page), superlanguage (link to official page), ...
@@ -256,11 +287,15 @@ Course 2
 # Test scores
 
 Test x
+
 *date*
+
 *score/5*
 
 Test x
+
 *date*
+
 *score/5*
 
 ...
@@ -273,6 +308,7 @@ English
 
 # Publications
 Publication name (with link to publication)
+
 *date* *editorial (with link to editorial)* 
 
 very good description text
@@ -284,8 +320,8 @@ very good description text
 - implemented a artificial intelligence that cook and wash the dishes
 
 Others autors:
-My Friend Name (with linkedin link)
-My Other Friend (this friend is not on linkedin)
+My Friend Name (with linkedin link and researchgate)
+My Other Friend (with linkedin link and researchgate)
 ... more friends
 
 Stack: superframework (link to official page), superlanguage (link to official page), ...
@@ -295,6 +331,7 @@ keywords: creepycomputersciencefield, rarenametechnology, ...
 ---
 
 Publication name (with link to publication)
+
 *date* *editorial (with link to editorial)* 
 
 very good description text
@@ -306,8 +343,8 @@ very good description text
 - implemented a artificial intelligence that cook and wash the dishes
 
 Others autors:
-My Friend Name (with linkedin link)
-My Other Friend (this friend is not on linkedin)
+My Friend Name (with linkedin link and researchgate),
+My Other Friend (with linkedin link and researchgate)
 ... more friends
 
 Stack: superframework (link to official page), superlanguage (link to official page), ...
