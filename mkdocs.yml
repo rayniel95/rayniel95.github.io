@@ -3,7 +3,9 @@ site_url: https://rayniel95.github.io
 repo_url: https://github.com/rayniel95
 theme:
   name: material
-  logo: assets/images/me.jpg
+  logo: assets/images/me2.png
+  favicon: assets/images/me2.png
+
 nav:
   - Home:
     - Intro: index.md
