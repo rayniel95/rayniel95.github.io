@@ -7,6 +7,18 @@ theme:
   name: material
   logo: assets/images/me2.png
   favicon: assets/images/me2.png
+ 
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - meta
+  - toc:
+      permalink: 🔗
+  
+# extra:
+#   manifest: manifest.json
 
 nav:
   - Home:
