@@ -1,6 +1,8 @@
 site_name: Rainyel Ramos González
 site_url: https://rayniel95.github.io
 repo_url: https://github.com/rayniel95
+edit_uri: ""
+
 theme:
   name: material
   logo: assets/images/me2.png
