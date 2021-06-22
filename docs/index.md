@@ -1,6 +1,6 @@
 **this page is under construction**
 
-# :wave: Hi there, my name is Rainyel Ramos González
+# 👋 Hi there, my name is Rainyel Ramos González
 
 ![me](assets/images/me2.png)
 
@@ -14,7 +14,8 @@ Phone: 5353461326
 
 Email: rainyel.ramos@gmail.com
 
-# Summary
+## Summary
+
 I am a young computer scientist graduate in Havana University, Cuba. I graduated in November, 2020. Passionate about machine learning, blockchain technology, distributed systems and cryptography, I have read some interesting books: Distributed Systems written by Andrew S. Tanenbaum, Decentralized Applications written by Siraj Raval, Architecture for Blockchain Applications written by Xiwei Xu, Data mining: Practical machine learning tools and techniques written by Ian H. Witten, and many papers in www.researchgate.net. My interest in distributed systems started when I implemented Chord DHT in a project, I was fascinated with the auto estabilize property of this data structure. I am a hard-working, inquisitive, creative and enthusiastic computer scientist with a strong theoretical background in distributed systems, machine learning, blockchain technology, programming and math. Skilled in collaboration, adaptability and communication. Experience of 1 year in blockchain and more than 4 years of experience in software development. I like to learn new languages and technologies related with machine learning, blockchain, distributed systems and cryptography.
 
 [1]: https://linkedin.com/in/rainyel-ramos
@@ -24,8 +25,7 @@ I am a young computer scientist graduate in Havana University, Cuba. I graduated
 [5]: https://dev.to/rayniel95
 [6]: https://researchgate.net/profile/Rainyel_Gonzalez
 
-# Work experience
-
+## Work experience
 **Cargo**
 
 Company name (with link to official page)
@@ -70,8 +70,7 @@ links to photos (certificates), presentations, code, notebooks, solved exercises
 
 keywords: creepycomputersciencefield, rarenametechnology, ...
 
-# Projects
-
+## Projects
 Project name (with link to code or other)
 
 *from 1500 to 2000*
@@ -93,8 +92,7 @@ Stack: superframework (link to official page), superlanguage (link to official p
 
 keywords: creepycomputersciencefield, rarenametechnology, ...
 
-# Skills
-
+## Skills
 Knowledges: Software Development | Software Design | Software Engineering
 
 Programming Languages: C | C# | Python | Assembly Language | TypeScript | SQL
@@ -103,8 +101,7 @@ Frameworks, libraries and tools:
 
 Technologies:
 
-# Education
-
+## Education
 School Name (link to official website)
 
 Titulacion, 
@@ -177,8 +174,7 @@ Some former classmates: My Friend 1 (with linkedin link and researchgate), My Fr
 
 Some proffessors: My Proffessor 1 (with linkedin link and researchgate), My Proffessor 2 (with linkedin link and researchgate), My Proffessor 3 (linkedin profile link), My Proffessor 4 (with linkedin link and researchgate), My Proffessor 5 (with linkedin link and researchgate), ... up to 15.... best linkedin profiles
 
-# Licences and certifications
-
+## Licences and certifications
 Certificate Name (with link to credential photo or other)
 
 Organization (with link to official page)
@@ -197,8 +193,7 @@ ID 2345657763434311
 
 ...
 
-# Volunteer experience
-
+## Volunteer experience
 **Cargo**
 
 Oranization (with link to official page)
@@ -281,16 +276,14 @@ Stack: superframework (link to official page), superlanguage (link to official p
 
 ...
 
-# Courses
-
+## Courses
 Course 1
 
 Course 2
 
 ...
 
-# Test scores
-
+## Test scores
 Test x
 
 *date*
@@ -305,13 +298,12 @@ Test x
 
 ...
 
-# Languages
-
+## Languages
 Spanish
 
 English
 
-# Publications
+## Publications
 Publication name (with link to publication)
 
 *date* *editorial (with link to editorial)* 
