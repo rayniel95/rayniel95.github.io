@@ -9,7 +9,9 @@ theme:
   favicon: assets/images/me2.png
   features:
     - navigation.top
- 
+  icon:
+    repo: fontawesome/brands/github
+    
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences

@@ -4,19 +4,19 @@
 
 ![me](assets/images/me2.png)
 
-Current location
+*La Habana, Cuba*
 
 **Contacts:**
 
 [LinkedIn][1] / [GitHub][2] / [DEV][5] / [ResearchGate][6] / [Medium][4] / [YouTube][3]
 
-Phone: 5353461326
+:telephone: 5353461326
 
-Email: rainyel.ramos@gmail.com
+:envelope: rainyel.ramos@gmail.com
 
 ## Summary
 
-PI am a young computer scientist graduate in Havana University, Cuba. I graduated in November, 2020. Passionate about machine learning, blockchain technology, distributed systems and cryptography, I have read some interesting books: Distributed Systems written by Andrew S. Tanenbaum, Decentralized Applications written by Siraj Raval, Architecture for Blockchain Applications written by Xiwei Xu, Data mining: Practical machine learning tools and techniques written by Ian H. Witten, and many papers in www.researchgate.net. My interest in distributed systems started when I implemented Chord DHT in a project, I was fascinated with the auto estabilize property of this data structure. I am a hard-working, inquisitive, creative and enthusiastic computer scientist with a strong theoretical background in distributed systems, machine learning, blockchain technology, programming and math. Skilled in collaboration, adaptability and communication. Experience of 1 year in blockchain and more than 4 years of experience in software development. I like to learn new languages and technologies related with machine learning, blockchain, distributed systems and cryptography.
+I am a young computer scientist graduate in Havana University, Cuba. I graduated in November, 2020. Passionate about machine learning, blockchain technology, distributed systems and cryptography, I have read some interesting books: Distributed Systems written by Andrew S. Tanenbaum, Decentralized Applications written by Siraj Raval, Architecture for Blockchain Applications written by Xiwei Xu, Data mining: Practical machine learning tools and techniques written by Ian H. Witten, and many papers in www.researchgate.net. My interest in distributed systems started when I implemented Chord DHT in a project, I was fascinated with the auto estabilize property of this data structure. I am a hard-working, inquisitive, creative and enthusiastic computer scientist with a strong theoretical background in distributed systems, machine learning, blockchain technology, programming and math. Skilled in collaboration, adaptability and communication. Experience of 1 year in blockchain and more than 4 years of experience in software development. I like to learn new languages and technologies related with machine learning, blockchain, distributed systems and cryptography.
 
 [1]: https://linkedin.com/in/rainyel-ramos
 [2]: https://github.com/rayniel95
@@ -92,7 +92,7 @@ Stack: superframework (link to official page), superlanguage (link to official p
 
 keywords: creepycomputersciencefield, rarenametechnology, ...
 
-## Skills
+## 💪 Skills
 Knowledges: Software Development | Software Design | Software Engineering
 
 Programming Languages: C | C# | Python | Assembly Language | TypeScript | SQL
@@ -101,7 +101,7 @@ Frameworks, libraries and tools:
 
 Technologies:
 
-## Education
+## 📝 Education
 School Name (link to official website)
 
 Titulacion, 
@@ -190,10 +190,10 @@ Organization (with link to official page)
 *from 1500 to 2000*
 
 ID 2345657763434311
-
+:books:
 ...
 
-## Volunteer experience
+## ❤️ Volunteer experience
 **Cargo**
 
 Oranization (with link to official page)
@@ -303,49 +303,54 @@ Spanish
 
 English
 
-## Publications
-Publication name (with link to publication)
+## 📚 Publications
 
-*date* *editorial (with link to editorial)* 
+**[Blockchain system for medical records storage.][1]** 
 
-very good description text
+*September 2020* 
 
-- did this
-- made this
-- investigate about this
-- propose a superapproach to solve global contamination
-- implemented a artificial intelligence that cook and wash the dishes
+**[www.researchgate.net][3]**
 
-Others autors:
-My Friend Name (with linkedin link and researchgate)
-My Other Friend (with linkedin link and researchgate)
-... more friends
+Document of my undergraduate thesis project, a simple Hyperledger Fabric network for medical records storage.
 
-Stack: superframework (link to official page), superlanguage (link to official page), ...
+- Investigated the theory behind blockchain technology.
+- Analized some blockchain platforms and techlonogies as: Bitcoin, Ethereum, HashGraph, Hyperledger Fabric, BigChain, Corda, Quorum.
+- Analized in deep the Hyperledger Fabric acrchitecture.
+- Explained differences between private, permissioned and public blockchains.
+- Analized differents blockchains applications as: blockchain in games, blockchain in e-voting, blockchain and artificial intelligence, blockchain in supply chain, etc.
+- Explained most used digital health records standards.
+- 
 
-keywords: creepycomputersciencefield, rarenametechnology, ...
+Advisor:
+: [Yunier Zamora Hernández][2]
+
+Stack: 
+: Node.js, Hyperledger Fabric, Adminbro, Docker, Docker Compose, Convector, TypeScript, Hurley.
+
+*keywords*: 
+: Convector, Hyperledger Fabric, Hyperledger, Blockchain, Docker, Docker Compose, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
 ---
 
-Publication name (with link to publication)
+**[Blockchain-Based Medical Records Storage.][4]**
 
-*date* *editorial (with link to editorial)* 
+*September 2020* 
 
-very good description text
+**[www.researchgate.net][3]**
 
-- did this
-- made this
-- investigate about this
-- propose a superapproach to solve global contamination
-- implemented a artificial intelligence that cook and wash the dishes
+A summary article about my thesis.
 
-Others autors:
-My Friend Name (with linkedin link and researchgate),
-My Other Friend (with linkedin link and researchgate)
-... more friends
+- Investigated the theory behind blockchain technology.
+- Analized in deep the Hyperledger Fabric acrchitecture.
+- Explained differences between private, permissioned and public blockchains.
+- Analized differents blockchains applications as: blockchain in games, blockchain in e-voting, blockchain and artificial intelligence, blockchain in supply chain, etc.
+- Explained most used digital health records standards.
+- 
 
-Stack: superframework (link to official page), superlanguage (link to official page), ...
+*keywords*: 
+: Convector, Hyperledger Fabric, Blockchain, Electronic Health, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
-keywords: creepycomputersciencefield, rarenametechnology, ...
-
-...
+[1]: https://www.researchgate.net/publication/348348902_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
+[2]: https://www.linkedin.com/in/yunier-zamora-681b53191
+[3]: https://www.researchgate.net/
+[4]: https://www.researchgate.net/publication/348348913_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
