@@ -92,6 +92,22 @@ Stack: superframework (link to official page), superlanguage (link to official p
 
 keywords: creepycomputersciencefield, rarenametechnology, ...
 
+### **Blockchain system for medical records storage.**
+
+*March 2020 - August 2020*
+
+- Designed and implemented a two-node Hyperledger Fabric network.
+- Designed digital medical records using the Observational Medical Outcomes Partnership (OMOP) standard as assets to be saved on a blockchain.
+- Designed and implemented a smart contract (chain code) to save, list and modify digital medical records on a Hyperledger Fabric network.
+- Designed and implemented a web server to communicate with the blockchain network.
+- Designed and implemented a web application to interact with the blockchain network.
+
+Stack: 
+: Node.js, Hyperledger Fabric, Adminbro, Docker, Docker Compose, Convector, TypeScript, Hurley.
+
+*keywords*: 
+: Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
+
 ## 💪 Skills
 Knowledges: Software Development | Software Design | Software Engineering
 
@@ -305,34 +321,37 @@ English
 
 ## 📚 Publications
 
-**[Blockchain system for medical records storage.][1]** 
+### **[Blockchain system for medical records storage.][1]** 
 
 *September 2020* 
 
 **[www.researchgate.net][3]**
 
-Document of my undergraduate thesis project, a simple Hyperledger Fabric network for medical records storage.
+Document of my undergraduate thesis project, a Hyperledger Fabric network for medical records storage. In this document is proposed a functional prototype for electronic health record storage.
 
-- Investigated the theory behind blockchain technology.
-- Analized some blockchain platforms and techlonogies as: Bitcoin, Ethereum, HashGraph, Hyperledger Fabric, BigChain, Corda, Quorum.
-- Analized in deep the Hyperledger Fabric acrchitecture.
-- Explained differences between private, permissioned and public blockchains.
-- Analized differents blockchains applications as: blockchain in games, blockchain in e-voting, blockchain and artificial intelligence, blockchain in supply chain, etc.
-- Explained most used digital health records standards.
-- 
+- Researched the theory behind blockchain technology.
+- Analyzed some blockchain platforms and technologies such as: Bitcoin, Ethereum, HashGraph, Hyperledger Fabric, BigChain, Corda, Quorum.
+- Deeply analyzed the Hyperledger Fabric architecture.
+- Explained the differences between private, permissioned and public blockchains.
+- Different applications of blockchains were analyzed such as: blockchain in games, blockchain in electronic voting, blockchain and artificial intelligence, blockchain in supply chain, etc.
+- Analyzed similar projects.
+- Explained the most widely used digital medical record standards.
+- Explained Observational Medical Outcomes Partnership (OMOP) standard.
+- Explained the code structure of the system.
+- Showed and explained the smart contract design.
+- Showed and explained the web application design.
+- Showed and explained the proposed blockchain network architecture.
+- Proposed a decentralized authentication method on Hyperledger Fabric.
 
 Advisor:
-: [Yunier Zamora Hernández][2]
-
-Stack: 
-: Node.js, Hyperledger Fabric, Adminbro, Docker, Docker Compose, Convector, TypeScript, Hurley.
+: [Yunier Zamora Hernández][2] ([ResearchGate][5])
 
 *keywords*: 
-: Convector, Hyperledger Fabric, Hyperledger, Blockchain, Docker, Docker Compose, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
+: Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
 ---
 
-**[Blockchain-Based Medical Records Storage.][4]**
+### **[Blockchain-Based Medical Records Storage.][4]**
 
 *September 2020* 
 
@@ -340,17 +359,19 @@ Stack:
 
 A summary article about my thesis.
 
-- Investigated the theory behind blockchain technology.
-- Analized in deep the Hyperledger Fabric acrchitecture.
-- Explained differences between private, permissioned and public blockchains.
-- Analized differents blockchains applications as: blockchain in games, blockchain in e-voting, blockchain and artificial intelligence, blockchain in supply chain, etc.
-- Explained most used digital health records standards.
-- 
+- Researched the theory behind blockchain technology.
+- Deeply analyzed the Hyperledger Fabric architecture.
+- Explained the differences between private, permissioned and public blockchains.
+- Analyzed similar projects.
+- Showed and explained the smart contract design.
+- Showed and explained the web application design.
+- Showed and explained the proposed blockchain network architecture.
 
 *keywords*: 
-: Convector, Hyperledger Fabric, Blockchain, Electronic Health, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
+: Blockchain, Electronic Health, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
 [1]: https://www.researchgate.net/publication/348348902_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
 [2]: https://www.linkedin.com/in/yunier-zamora-681b53191
 [3]: https://www.researchgate.net/
 [4]: https://www.researchgate.net/publication/348348913_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
+[5]: https://www.researchgate.net/profile/Yunier-Zamora-Hernandez
