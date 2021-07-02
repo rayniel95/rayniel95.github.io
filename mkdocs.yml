@@ -23,3 +23,7 @@ markdown_extensions:
       permalink: true
   - abbr
   - extra
+
+plugins:
+  - git-revision-date-localized:
+      type: date
