@@ -2,7 +2,7 @@
 
 # 👋 Hi there, my name is Rainyel Ramos González
 
-![me](assets/images/me2.png)
+<img src="assets/images/me2.png" alt="me" style="zoom: 15%;" />
 
 *La Habana, Cuba*
 
@@ -26,6 +26,18 @@ I am a young computer scientist graduate in Havana University, Cuba. I graduated
 [6]: https://researchgate.net/profile/Rainyel_Gonzalez
 
 ## Work experience
+
+
+April, 2021 – present
+Blockchain developer and researcher
+Havana University, Havana, Cuba
+        ◦ Researched the feasibility to apply Substrate blockchain framework to create a permissioned blockchain.
+        ◦ Modified the substrate node template to get a permissioned blockchain node to create a permissioned blockchain.
+        ◦ Docker images were created for the modified substrate nodes.
+        ◦ Investigated the feasibility of using Solidity and Ethereum Virtual Machine (EVM) to create smart contracts for a permissioned Substrate node blockchain.
+        ◦ Currently working on a project to create a permissioned blockchain network using a modified Substrate node for issuing certificates. Certificates will be issued by educational institutions to students.
+        ◦ Trained two computer science students in blockchain technology, teaching the theory behind blockchain, the most used blockchain platforms (Ethereum, Hyperledger Fabric, Substrate) and how to work with them.
+
 **Cargo**
 
 Company name (with link to official page)
@@ -92,13 +104,13 @@ Stack: superframework (link to official page), superlanguage (link to official p
 
 keywords: creepycomputersciencefield, rarenametechnology, ...
 
-### **Blockchain system for medical records storage.**
+### **Blockchain system for medical records storage.** {#Blockchain-system-for-medical-records-storage}
 
 *March 2020 - August 2020*
 
-- Designed and implemented a two-node Hyperledger Fabric network.
+- Designed and implemented a Hyperledger Fabric network.
 - Designed digital medical records using the Observational Medical Outcomes Partnership (OMOP) standard as assets to be saved on a blockchain.
-- Designed and implemented a smart contract (chain code) to save, list and modify digital medical records on a Hyperledger Fabric network.
+- Designed and implemented a smart contract (chaincode) to save, list and modify digital medical records on a Hyperledger Fabric network.
 - Designed and implemented a web server to communicate with the blockchain network.
 - Designed and implemented a web application to interact with the blockchain network.
 
@@ -327,7 +339,7 @@ English
 
 **[www.researchgate.net][3]**
 
-Document of my undergraduate thesis project, a Hyperledger Fabric network for medical records storage. In this document is proposed a functional prototype for electronic health record storage.
+Document of my undergraduate thesis project, a Hyperledger Fabric network for medical records storage. In this document is proposed a functional prototype for electronic health record storage. // todo extend
 
 - Researched the theory behind blockchain technology.
 - Analyzed some blockchain platforms and technologies such as: Bitcoin, Ethereum, HashGraph, Hyperledger Fabric, BigChain, Corda, Quorum.
@@ -345,6 +357,10 @@ Document of my undergraduate thesis project, a Hyperledger Fabric network for me
 
 Advisor:
 : [Yunier Zamora Hernández][2] ([ResearchGate][5])
+
+[See project description](#Blockchain-system-for-medical-records-storage)
+
+[Watch video exposition][6]
 
 *keywords*: 
 : Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
@@ -375,3 +391,4 @@ A summary article about my thesis.
 [3]: https://www.researchgate.net/
 [4]: https://www.researchgate.net/publication/348348913_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
 [5]: https://www.researchgate.net/profile/Yunier-Zamora-Hernandez
+[6]: https://youtu.be/YeBG6jEgHcc
