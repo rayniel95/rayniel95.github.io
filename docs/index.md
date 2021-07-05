@@ -333,11 +333,11 @@ English
 
 ## 📚 Publications
 
-### **[Blockchain system for medical records storage.][1]** 
+### **[Blockchain system for medical records storage.][7]** 
 
 *September 2020* 
 
-**[www.researchgate.net][3]**
+**[www.researchgate.net][9]**
 
 Document of my undergraduate thesis project, a Hyperledger Fabric network for medical records storage. In this document is proposed a functional prototype for electronic health record storage. // todo extend
 
@@ -347,31 +347,31 @@ Document of my undergraduate thesis project, a Hyperledger Fabric network for me
 - Explained the differences between private, permissioned and public blockchains.
 - Different applications of blockchains were analyzed such as: blockchain in games, blockchain in electronic voting, blockchain and artificial intelligence, blockchain in supply chain, etc.
 - Analyzed similar projects.
-- Explained the most widely used digital medical record standards.
-- Explained Observational Medical Outcomes Partnership (OMOP) standard.
-- Explained the code structure of the system.
-- Showed and explained the smart contract design.
-- Showed and explained the web application design.
-- Showed and explained the proposed blockchain network architecture.
+- Researched and explained the most widely used digital medical record standards.
+- Researched and explained Observational Medical Outcomes Partnership (OMOP) standard.
+- Create a organized code structure for the system.
+- Proposed, designed and explained a smart contract for store medical records in OMOP format.
+- Proposed, designed and explained a web application for intereact with the blockchain network.
+- Proposed, designed and explained a blockchain network architecture for medical records storage using Hyperledger Fabric.
 - Proposed a decentralized authentication method on Hyperledger Fabric.
 
 Advisor:
-: [Yunier Zamora Hernández][2] ([ResearchGate][5])
+: [Yunier Zamora Hernández][8] ([ResearchGate][11])
 
 [See project description](#Blockchain-system-for-medical-records-storage)
 
-[Watch video exposition][6]
+[Watch video exposition][12]
 
 *keywords*: 
 : Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
 ---
 
-### **[Blockchain-Based Medical Records Storage.][4]**
+### **[Blockchain-Based Medical Records Storage.][10]**
 
 *September 2020* 
 
-**[www.researchgate.net][3]**
+**[www.researchgate.net][9]**
 
 A summary article about my thesis.
 
@@ -386,9 +386,15 @@ A summary article about my thesis.
 *keywords*: 
 : Blockchain, Electronic Health, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
-[1]: https://www.researchgate.net/publication/348348902_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
-[2]: https://www.linkedin.com/in/yunier-zamora-681b53191
-[3]: https://www.researchgate.net/
-[4]: https://www.researchgate.net/publication/348348913_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
-[5]: https://www.researchgate.net/profile/Yunier-Zamora-Hernandez
-[6]: https://youtu.be/YeBG6jEgHcc
+[1]: https://linkedin.com/in/rainyel-ramos
+[2]: https://github.com/rayniel95
+[3]: https://youtube.com/channel/UCLfQBlFqyxWjXTiET5uYtKg
+[4]: https://rainyel-ramos.medium.com/
+[5]: https://dev.to/rayniel95
+[6]: https://researchgate.net/profile/Rainyel_Gonzalez
+[7]: https://www.researchgate.net/publication/348348902_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
+[8]: https://www.linkedin.com/in/yunier-zamora-681b53191
+[9]: https://www.researchgate.net/
+[10]: https://www.researchgate.net/publication/348348913_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
+[11]: https://www.researchgate.net/profile/Yunier-Zamora-Hernandez
+[12]: https://youtu.be/YeBG6jEgHcc
