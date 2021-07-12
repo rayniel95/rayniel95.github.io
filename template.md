@@ -35,19 +35,73 @@ Havana, Cuba
 Co-workers
 :
 
----
+**Cargo**
 
-**Graduate Researcher**
+Company name (with link to official page)
 
-Artemisa University
+*from 1500 to 2000 d.C.*
+location
 
-*December, 2020 – January, 2021*
+very good description
 
-Artemisa, Cuba
+- did this
+- made this
+- investigate about this
+- propose a superapproach to solve global contamination
+- implemented project CompanyName:ProjectName (see in Projects section)
+
+Co-workers:
+My Friend Name (with linkedin link and researchgate), 
+My Other Friend (with linkedin link and researchgate)
+... more friends (up to 15)
+
+Usefull links with descriptions:
+
+- Certificate name (link to photo or other)
+    - description
+
+- Notebook x (link to photo or other)
+    - description
+
+- Code X (link to photo or other)
+    - description
+
+- Letter (link to photo or other)
+    - description
+
+- Document (link to photo or other)
+    - description
+
+- Web page X (link to photo or other)
+...
+
+links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
+
+keywords: creepycomputersciencefield, rarenametechnology, ...
 
 ## 💻 Projects
+Project name (with link to code or other)
 
-**RainyelCert**{#RainyelCert}
+*from 1500 to 2000*
+
+very good description
+
+- implemented this
+- review this
+- help to do this
+- increase time with 10x
+- research about this
+
+Others creators:
+My Friend Name (with linkedin link and researchgate), 
+My Other Friend (this friend is not on linkedin)
+... more friends
+
+Stack: superframework (link to official page), superlanguage (link to official page), ...
+
+keywords: creepycomputersciencefield, rarenametechnology, ...
+
+### **RainyelCert**{#RainyelCert}
 
 *June 2021 - present*
 
@@ -60,9 +114,7 @@ Stack:
 *keywords*:
 : Blockchain, Cryptography, Distributed Systems, Smart Contracts.
 
----
-
-**Blockchain system for medical records storage.**{#Blockchain-system-for-medical-records-storage}
+### **Blockchain system for medical records storage.** {#Blockchain-system-for-medical-records-storage}
 
 *March 2020 - August 2020*
 
@@ -299,7 +351,7 @@ English
 
 ## 📚 Publications
 
-**[Blockchain system for medical records storage.][7]**
+### **[Blockchain system for medical records storage.][7]** 
 
 *September 2020* 
 
@@ -333,7 +385,7 @@ Advisor:
 
 ---
 
-**[Blockchain-Based Medical Records Storage.][10]**
+### **[Blockchain-Based Medical Records Storage.][10]**
 
 *September 2020* 
 
