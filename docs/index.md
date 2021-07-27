@@ -8,7 +8,7 @@
 
 **Contacts:**
 
-[LinkedIn][1] / [GitHub][2] / [DEV][5] / [ResearchGate][6] / [Medium][4] / [YouTube][3] / Twitter[14]
+[LinkedIn][1] / [GitHub][2] / [DEV][5] / [ResearchGate][6] / [Medium][4] / [YouTube][3] / [Twitter][14]
 
 :telephone: 5353461326
 
