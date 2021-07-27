@@ -8,7 +8,7 @@
 
 **Contacts:**
 
-[LinkedIn][1] / [GitHub][2] / [DEV][5] / [ResearchGate][6] / [Medium][4] / [YouTube][3]
+[LinkedIn][1] / [GitHub][2] / [DEV][5] / [ResearchGate][6] / [Medium][4] / [YouTube][3] / Twitter[14]
 
 :telephone: 5353461326
 
@@ -364,4 +364,5 @@ A summary article about my thesis document.
 [10]: https://www.researchgate.net/publication/348348913_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
 [11]: https://www.researchgate.net/profile/Yunier-Zamora-Hernandez
 [12]: https://youtu.be/YeBG6jEgHcc
-[13]: https://www.uh.cu
+[13]: http://www.uh.cu
+[14]: https://twitter.com/rayniel95
