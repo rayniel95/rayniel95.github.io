@@ -8,7 +8,7 @@
 
 **Contacts:**
 
-[LinkedIn][1] / [GitHub][2] / [DEV][5] / [ResearchGate][6] / [Medium][4] / [YouTube][3] / [Twitter][14]
+[LinkedIn][1] / [GitHub][2] / [DEV][5] / [ResearchGate][6] / [Medium][4] / [YouTube][3] / [Twitter][14] / [Telegram][15]
 
 :telephone: 5353461326
 
@@ -35,6 +35,8 @@ Havana, Cuba
 Co-workers
 :
 
+Enterprise public register:
+
 ---
 
 **Graduate Researcher**
@@ -44,6 +46,8 @@ Artemisa University
 *December, 2020 – January, 2021*
 
 Artemisa, Cuba
+
+Enterprise public register:
 
 ## 💻 Projects
 
@@ -271,31 +275,275 @@ Stack: superframework (link to official page), superlanguage (link to official p
 
 ## 📖 Courses
 
-Course 1
+- Advanced Data Structures
 
-Course 2
+- Algebra I
 
-...
+- Algebra II
+
+- Analysis and Design of Algorithms
+
+- Artificial Intelligence
+
+- Compilers Theory I
+
+- Compilers Theory II
+
+- Computer Architecture
+
+- Computer Networking
+
+- Data Structures and Algorithms I
+
+- Data Structures and Algorithms II
+
+- Databases Systems I
+
+- Databases Systems II
+
+- Declarative Programming
+
+- Differential Equations
+
+- Discrete Mathematic I
+
+- Discrete Mathematic II
+
+- Distributed Systems
+
+- English I
+
+- English II
+
+- English III
+
+- English IV
+
+- Geometry
+
+- History of Computer Science
+
+- History of Cuba
+
+- Information Systems
+
+- Introduction to Blockchain
+
+- Introduction to Public Key Infrastructure (PKI)
+
+- Logic
+
+- Machine Programming I
+
+- Machine Programming II
+
+- Mathematical Analysis I
+
+- Mathematical Analysis II
+
+- Numeric Mathematic I
+
+- Numeric Mathematic II
+
+- Numeric Mathematic I
+
+- Numeric Mathematic II
+
+- Operating Systems I
+
+- Operating Systems II
+
+- Optimization Models I
+
+- Optimization Models II
+
+- Philosophy and Society
+
+- Probability Theory
+
+- Programming
+
+- Programming Languages
+
+- Simulation
+
+- Software Engineering
+
+- Statistics
 
 ## 🏆 Test scores
-Test x
+- Artificial Intelligence
 
-*date*
+    *dic 2019*  
 
-*score/5*
+    *5/5*
 
-Test x
+- Compilers Theory I
 
-*date*
+    *jul 2019*  
 
-*score/5*
+    *3/5*
 
-...
+- Declarative Programming
+
+    *jul 2019*  
+        
+    *3/5*
+
+- Optimization Models I
+
+    *dic 2018*  
+    
+    *3/5*
+
+- Probability Theory
+
+    *dic 2018*  
+    
+    *3/5*
+
+- Computer Networking
+
+    *jul 2018*  
+    
+    *3/5*
+
+- Discrete Mathematic II
+
+    *jul 2018*  
+    
+    *3/5*
+
+- Numeric Mathematic II
+
+    *jul 2018*  
+    
+    *4/5*
+
+- Programming Languages
+
+    *jul 2018*  
+    
+    *3/5*
+
+- Discrete Mathematic I
+
+    *dic 2017*  
+    
+    *3/5*
+
+- Numeric Mathematic I
+
+    *dic 2017*  
+    
+    *3/5*
+
+- Operating Systems I
+
+    *dic 2017*  
+    
+    *3/5*
+
+- Data Structures and Algorithms II
+
+    *jul 2017*  
+    
+    *3/5*
+
+- Databases Systems I
+
+    *jul 2017*  
+    
+    *3/5*
+
+- Differential Equations
+
+    *jul 2017*  
+    
+    *5/5*
+
+- English IV
+
+    *jul 2017*  
+    
+    *5/5*
+
+- Data Structures and Algorithms I
+
+    *dic 2016*  
+    
+    *3/5*
+
+- English III
+
+    *dic 2016*  
+    
+    *4/5*
+
+- Mathematical Analysis II
+
+    *dic 2016*  
+    
+    *3/5*
+
+- Algebra II
+
+    *jul 2016*  
+    
+    *3/5*
+
+- English II
+
+    *jul 2016*  
+    
+    *4/5*
+
+- History of Cuba
+
+    *jul 2016*  
+    
+    *5/5*
+
+- Mathematical Analysis I
+
+    *jul 2016*  
+    
+    *4/5*
+
+- Programming
+
+    *jul 2016*  
+    
+    *4/5*
+
+- Algebra I
+
+    *dic 2015*  
+    
+    *3/5*
+
+- English I
+
+    *dic 2015*  
+    
+    *4/5*
+
+- Geometry
+
+    *dic 2015*  
+    
+    *5/5*
+
+- Logic
+
+    *dic 2015*  
+    
+    *4/5*
 
 ## 🇪🇸🇬🇧 Languages
-Spanish
+Spanish: Native
 
-English
+English: Intermediate.
 
 ## 📚 Publications
 
@@ -366,3 +614,4 @@ A summary article about my thesis document.
 [12]: https://youtu.be/YeBG6jEgHcc
 [13]: http://www.uh.cu
 [14]: https://twitter.com/rayniel95
+[15]: https://t.me/rayniel95

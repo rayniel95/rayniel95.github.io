@@ -35,6 +35,8 @@ Havana, Cuba
 Co-workers
 :
 
+Company register: public register, number, country, director, president, etc.
+
 **Cargo**
 
 Company name (with link to official page)
@@ -78,6 +80,9 @@ Usefull links with descriptions:
 links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
 
 keywords: creepycomputersciencefield, rarenametechnology, ...
+
+Company register: public register, number, country, director, president, etc.
+
 
 ## 💻 Projects
 Project name (with link to code or other)
