@@ -13,6 +13,8 @@ theme:
     repo: fontawesome/brands/github
     
 markdown_extensions:
+  - attr_list
+  - pymdownx.progressbar
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.inlinehilite
@@ -20,7 +22,7 @@ markdown_extensions:
   - pymdownx.emoji
   - meta
   - toc:
-      permalink: true
+      permalink: 🔗
   - abbr
   - extra
 

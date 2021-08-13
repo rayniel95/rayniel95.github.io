@@ -94,6 +94,11 @@ Stack:
 **Frameworks, libraries and tools**
 : Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Bokeh, Flask, Django, Scrapy, Docker-Compose, Substrate.
 
+<div class="progress progress-100plus">
+    <div class="progress-bar" style="width:100.00%">
+        <p class="progress-label">100%</p>
+    </div>
+</div>
 **Technologies**
 : Hyperledger Fabric, CouchDB, Docker, SPSS, MySQL, SQLite, Git, Node.js, Ethereum.
 
@@ -272,7 +277,7 @@ links to photos (certificates), presentations, code, notebooks, solved exercises
 Stack: superframework (link to official page), superlanguage (link to official page), ...
 
 ...
-
+<!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
 ## 📖 Courses
 
 - Advanced Data Structures
