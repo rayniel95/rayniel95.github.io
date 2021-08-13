@@ -43,7 +43,7 @@ Enterprise public register:
 
 Artemisa University
 
-*December, 2020 – January, 2021*
+*December, 2020 - January, 2021*
 
 Artemisa, Cuba
 
@@ -94,11 +94,6 @@ Stack:
 **Frameworks, libraries and tools**
 : Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Bokeh, Flask, Django, Scrapy, Docker-Compose, Substrate.
 
-<div class="progress progress-100plus">
-    <div class="progress-bar" style="width:100.00%">
-        <p class="progress-label">100%</p>
-    </div>
-</div>
 **Technologies**
 : Hyperledger Fabric, CouchDB, Docker, SPSS, MySQL, SQLite, Git, Node.js, Ethereum.
 
@@ -200,7 +195,49 @@ ID 2345657763434311
 
 Oranization (with link to official page)
 
-*from 1500 to 2000 d.C.*
+*September, 2019 - January, 2020*
+
+benefic cause 
+
+very good description
+
+- did this
+- made this
+- investigate about this
+- propose a superapproach to solve global contamination
+- implemented a artificial intelligence that cook and wash the dishes
+
+Professors:
+
+: [Maria Elena Garcia-Ochagavia][16]
+
+Usefull links with descriptions:
+- Certificate name (link to photo or other)
+    - description
+- Notebook x (link to photo or other)
+    - description
+- Code X (link to photo or other)
+    - description
+- Letter (link to photo or other)
+    - description
+- Document (link to photo or other)
+    - description
+- Web page X (link to photo or other)
+...
+
+links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
+
+
+Stack:
+:  Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
+
+---
+
+**Cargo**
+
+Oranization (with link to official page)
+
+*February, 2019 - June, 2019*
 
 benefic cause 
 
@@ -239,24 +276,28 @@ Stack: superframework (link to official page), superlanguage (link to official p
 
 **Cargo**
 
-Oranization (with link to official page)
+[Havana University][13]
 
-*from 1500 to 2000 d.C.*
+*October, 2018 - January, 2019*
 
-benefic cause 
+Education
 
-very good description
+I taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. I taught on how to create articles in Word, create PowerPoint presentations, create tables in Excel, bibliography management and SPSS Statistics. I taught about:
 
+Word:
+
+- Bibliography management using EndNote.
+- How to modified font color and size.
+- How to create headers and footer.
 - did this
 - made this
 - investigate about this
 - propose a superapproach to solve global contamination
 - implemented a artificial intelligence that cook and wash the dishes
 
-Co-workers:
-My Friend Name (with linkedin link and researchgate),
-My Other Friend (with linkedin link and researchgate)
-... more friends
+Professors:
+
+: [Maria Elena Garcia-Ochagavia][16]
 
 Usefull links with descriptions:
 - Certificate name (link to photo or other)
@@ -274,10 +315,11 @@ Usefull links with descriptions:
 
 links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
 
-Stack: superframework (link to official page), superlanguage (link to official page), ...
-
-...
+Stack:
+:  Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
 <!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
+<!-- add a progress bar or the percent in the programming languages -->
+<!-- to put correctly abreviations -->
 ## 📖 Courses
 
 - Advanced Data Structures
@@ -620,3 +662,4 @@ A summary article about my thesis document.
 [13]: http://www.uh.cu
 [14]: https://twitter.com/rayniel95
 [15]: https://t.me/rayniel95
+[16]: https://linkedin.com/in/maria-elena-garcia-ochagavia-019482114
