@@ -1,4 +1,4 @@
-**this page is under construction**
+**this page is under construction, most of the text is a template that I created and I am tranforming into a detailed cv :)**
 
 # 👋 Hi there, my name is Rainyel Ramos González
 
@@ -77,6 +77,8 @@ Cuban health care system work with physical health records, some efforts for dig
 - Designed and implemented a smart contract (chaincode) to save, list and modify digital medical records on a Hyperledger Fabric network.
 - Designed and implemented a web server to communicate with the blockchain network.
 - Designed and implemented a web application to interact with the blockchain network.
+
+<!--explain better, add more specific tasks, create a wrapper for fabric sdk for example-->
 
 Stack: 
 : Node.js, Hyperledger Fabric, Adminbro, Docker, Docker Compose, Convector, TypeScript, Hurley.
@@ -191,135 +193,149 @@ ID 2345657763434311
 ...
 
 ## ❤️ Volunteer experience
-**Cargo**
+**Informatics assistant professor**
 
-Oranization (with link to official page)
+[Havana University][13]
 
 *September, 2019 - January, 2020*
 
-benefic cause 
+Charitable cause: Education
 
-very good description
+Taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel, bibliography management in EndNote and SPSS Statistics. The course was designed to teach sociology students the necessary tools for creating articles, managing statistics, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Sociologists use these tools and knowledge for their research.
 
-- did this
-- made this
-- investigate about this
-- propose a superapproach to solve global contamination
-- implemented a artificial intelligence that cook and wash the dishes
+- Designed and reviewed the tests given to the students.
+- Designed and taught the informatic course for the degree in sociology, I focused on the simple explanation of the topics because sociologists do not have a strong informatic background.
+- Informed teachers about the academic development of each student in the course to give a differentiated educational treatment to those students with low performance.
+- Attended meetings with the dean and vice dean of the School of Philosophy and History of Havana University and coordinated the date and time of exams and conferences.
+
+**Main topics**:
+
+- Microsoft Word:
+
+    - Bibliography management using EndNote.
+    - Modification of the color and size of the font for a better appearance of the document.
+    - Headers and footer creation.
+    - Creation of page breaks to get a specific content to be on a new page helping to have a better document format.
+    - Bibliography management using Microsoft Word tools to help automatically cite and format the bibliography.
+    - Generation of the table of content to have better access to the topics of the document.
+    - PDF generation from the Word document.
+
+- SPSS Statistics:
+
+    - Creation, export and import of datasets to save them.
+    - Automatic generation of pie charts, histograms, bar charts, etc. from data sets to gain a better understanding of information through visualization.
+    - Filtering datasets to search for specific data.
+    - Calculation of mean, median and statistical frequencies.
 
 Professors:
-
 : [Maria Elena Garcia-Ochagavia][16]
 
-Usefull links with descriptions:
-- Certificate name (link to photo or other)
-    - description
-- Notebook x (link to photo or other)
-    - description
-- Code X (link to photo or other)
-    - description
-- Letter (link to photo or other)
-    - description
-- Document (link to photo or other)
-    - description
-- Web page X (link to photo or other)
-...
+Vicedean of the School of Philosophy and History of Havana University:
+: [Yulexis Almeida Junco][20] ([SemanticScholar][21])
 
-links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
-
+Dean of the School of Philosophy and History of Havana University:
+: [Ernel Gonzalez Mastrapa][17] ([ResearchGate][18] | [Google Scholar][19])
 
 Stack:
-:  Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
+: Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
 
 ---
 
-**Cargo**
+**Informatics assistant professor**
 
-Oranization (with link to official page)
+[Havana University][13]
 
 *February, 2019 - June, 2019*
 
-benefic cause 
+Charitable cause: Education
 
-very good description
+Taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel, bibliography management in EndNote and SPSS Statistics. The course was designed to teach sociology students the necessary tools for creating articles, managing statistics, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Sociologists use these tools and knowledge for their research.
 
-- did this
-- made this
-- investigate about this
-- propose a superapproach to solve global contamination
-- implemented a artificial intelligence that cook and wash the dishes
+- Designed and reviewed the tests given to the students.
+- Designed and taught the informatic course for the degree in sociology, I focused on the simple explanation of the topics because sociologists do not have a strong informatic background.
+- Informed teachers about the academic development of each student in the course to give a differentiated educational treatment to those students with low performance.
+- Attended meetings with the dean and vice dean of the School of Philosophy and History of Havana University and coordinated the date and time of exams and conferences.
 
-Co-workers:
-My Friend Name (with linkedin link and researchgate),
-My Other Friend (with linkedin link and researchgate)
-... more friends
+**Main topics**:
 
-Usefull links with descriptions:
-- Certificate name (link to photo or other)
-    - description
-- Notebook x (link to photo or other)
-    - description
-- Code X (link to photo or other)
-    - description
-- Letter (link to photo or other)
-    - description
-- Document (link to photo or other)
-    - description
-- Web page X (link to photo or other)
-...
+- Microsoft Word:
 
-links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
+    - Bibliography management using EndNote.
+    - Modification of the color and size of the font for a better appearance of the document.
+    - Headers and footer creation.
+    - Creation of page breaks to get a specific content to be on a new page helping to have a better document format.
+    - Bibliography management using Microsoft Word tools to help automatically cite and format the bibliography.
+    - Generation of the table of content to have better access to the topics of the document.
+    - PDF generation from the Word document.
 
-Stack: superframework (link to official page), superlanguage (link to official page), ...
+- Microsoft Excel:
+
+    - 
+
+Professors:
+: [Dafne García de Armas][22] ([ResearchGate][23])
+
+Vicedean of the School of Philosophy and History of Havana University:
+: [Yulexis Almeida Junco][20] ([SemanticScholar][21])
+
+Dean of the School of Philosophy and History of Havana University:
+: [Ernel Gonzalez Mastrapa][17] ([ResearchGate][18] | [Google Scholar][19])
+
+Stack:
+: Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
 
 ---
 
-**Cargo**
+**Informatics assistant professor**
 
 [Havana University][13]
 
 *October, 2018 - January, 2019*
 
-Education
+Charitable cause: Education
 
-I taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. I taught on how to create articles in Word, create PowerPoint presentations, create tables in Excel, bibliography management and SPSS Statistics. I taught about:
+Taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel, bibliography management in EndNote and SPSS Statistics. The course was designed to teach sociology students the necessary tools for creating articles, managing statistics, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Sociologists use these tools and knowledge for their research.
 
-Word:
+- Designed and reviewed the tests given to the students.
+- Designed and taught the informatic course for the degree in sociology, I focused on the simple explanation of the topics because sociologists do not have a strong informatic background.
+- Informed teachers about the academic development of each student in the course to give a differentiated educational treatment to those students with low performance.
+- Attended meetings with the dean and vice dean of the School of Philosophy and History of Havana University and coordinated the date and time of exams and conferences.
 
-- Bibliography management using EndNote.
-- How to modified font color and size.
-- How to create headers and footer.
-- did this
-- made this
-- investigate about this
-- propose a superapproach to solve global contamination
-- implemented a artificial intelligence that cook and wash the dishes
+**Main topics**:
+
+- Microsoft Word:
+
+    - Bibliography management using EndNote.
+    - Modification of the color and size of the font for a better appearance of the document.
+    - Headers and footer creation.
+    - Creation of page breaks to get a specific content to be on a new page helping to have a better document format.
+    - Bibliography management using Microsoft Word tools to help automatically cite and format the bibliography.
+    - Generation of the table of content to have better access to the topics of the document.
+    - PDF generation from the Word document.
+
+- SPSS Statistics:
+
+    - Creation, export and import of datasets to save them.
+    - Automatic generation of pie charts, histograms, bar charts, etc. from data sets to gain a better understanding of information through visualization.
+    - Filtering datasets to search for specific data.
+    - Calculation of mean, median and statistical frequencies.
 
 Professors:
-
 : [Maria Elena Garcia-Ochagavia][16]
 
-Usefull links with descriptions:
-- Certificate name (link to photo or other)
-    - description
-- Notebook x (link to photo or other)
-    - description
-- Code X (link to photo or other)
-    - description
-- Letter (link to photo or other)
-    - description
-- Document (link to photo or other)
-    - description
-- Web page X (link to photo or other)
-...
+Vicedean of the School of Philosophy and History of Havana University:
+: [Yulexis Almeida Junco][20] ([SemanticScholar][21])
 
-links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
+Dean of the School of Philosophy and History of Havana University:
+: [Ernel Gonzalez Mastrapa][17] ([ResearchGate][18] | [Google Scholar][19])
 
 Stack:
-:  Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
+: Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
 <!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
 <!-- add a progress bar or the percent in the programming languages -->
 <!-- to put correctly abreviations -->
+<!-- to use some program to check broken links and delete it -->
+<!-- maybe write the name of some fields-->
 ## 📖 Courses
 
 - Advanced Data Structures
@@ -615,6 +631,7 @@ Cuban health care system work with physical health records, some efforts for dig
 - Proposed, designed and explained a web application for intereact with the blockchain network.
 - Proposed, designed and explained a blockchain network architecture for medical records storage using Hyperledger Fabric.
 - Proposed a decentralized authentication method on Hyperledger Fabric.
+- Proposed a hybrid encryption method for medical records encryption.
 
 Advisor:
 : [Yunier Zamora Hernández][8] ([ResearchGate][11])
@@ -663,3 +680,10 @@ A summary article about my thesis document.
 [14]: https://twitter.com/rayniel95
 [15]: https://t.me/rayniel95
 [16]: https://linkedin.com/in/maria-elena-garcia-ochagavia-019482114
+[17]: https://cu.linkedin.com/in/ernel-gonz%C3%A1lez-mastrapa-a0553ba5
+[18]: https://www.researchgate.net/profile/Gonzalez-Ernel
+[19]: https://scholar.google.com.cu/citations?user=p9iLjoYAAAAJ&hl=es
+[20]: https://cu.linkedin.com/in/yulexis-almeida-ab30a7191
+[21]: https://www.semanticscholar.org/author/Yulexis-Almeida-Junco/1818694633
+[22]: https://www.linkedin.com/in/dafnegarciadearmas
+[23]: https://www.researchgate.net/profile/Dafne-Garcia-De-Armas-2
