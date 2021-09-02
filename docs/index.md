@@ -53,7 +53,7 @@ Enterprise public register:
 
 **RainyelCert**{#RainyelCert}
 
-*June 2021 - present*
+*April 2021 - present*
 
 - Modified the substrate node template to get a permissioned blockchain node to create a permissioned blockchain.
 - Created a Docker image for Substrate node template with only 3 GB, half of Docker image used by Substrate.
@@ -80,13 +80,14 @@ Cuban health care system work with physical health records, some efforts for dig
 
 <!--explain better, add more specific tasks, create a wrapper for fabric sdk for example-->
 
-Stack: 
+Stack:
 : Node.js, Hyperledger Fabric, Adminbro, Docker, Docker Compose, Convector, TypeScript, Hurley.
 
-*keywords*: 
+*keywords*:
 : Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
 ## 💪 Skills
+
 **Knowledges**
 : Software Development | Software Design | Software Engineering | Distributed Systems | Machine Learning | Artificial Intelligence | Programming | Logic | High Math | Data Structure and Algorithms | Back-end Development | Database Design and Management |
 
@@ -100,9 +101,10 @@ Stack:
 : Hyperledger Fabric, CouchDB, Docker, SPSS, MySQL, SQLite, Git, Node.js, Ethereum.
 
 ## 📝 Education
+
 School Name (link to official website)
 
-Titulacion, 
+Titulacion,
 
 academinc discipline
 
@@ -116,16 +118,17 @@ Member of Superman fans club
 Some usefull description.
 
 Usefull links with descriptions:
+
 - Certificate name (link to photo or other)
-    - description
+  - description
 - Notebook x (link to photo or other)
-    - description
+  - description
 - Code X (link to photo or other)
-    - description
+  - description
 - Letter (link to photo or other)
-    - description
+  - description
 - Document (link to photo or other)
-    - description
+  - description
 - Web page X (link to photo or other)
 ...
 
@@ -193,6 +196,7 @@ ID 2345657763434311
 ...
 
 ## ❤️ Volunteer experience
+
 **Informatics assistant professor**
 
 [Havana University][13]
@@ -201,7 +205,7 @@ ID 2345657763434311
 
 Charitable cause: Education
 
-Taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel, bibliography management in EndNote and SPSS Statistics. The course was designed to teach sociology students the necessary tools for creating articles, managing statistics, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Sociologists use these tools and knowledge for their research.
+At the University of Havana, the student who has finished a course can help the professors to teach that course, this depends on the difficulty of the course. Sometimes the student can help new students to the course by giving them practical exercises, but, if the course is taught in another faculty, the student can teach the entire course with the supervision of a professor. I taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel, bibliography management in EndNote and SPSS Statistics. The course was designed to teach sociology students the necessary tools for creating articles, managing statistics, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Sociologists use these tools and knowledge for their research.
 
 - Designed and reviewed the tests given to the students.
 - Designed and taught the informatic course for the degree in sociology, I focused on the simple explanation of the topics because sociologists do not have a strong informatic background.
@@ -237,7 +241,7 @@ Dean of the School of Philosophy and History of Havana University:
 : [Ernel Gonzalez Mastrapa][17] ([ResearchGate][18] | [Google Scholar][19])
 
 Stack:
-: Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
+: Statistical Package for the Social Sciences (SPSS Statistics), Microsoft PowerPoint, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
 
 ---
 
@@ -249,10 +253,10 @@ Stack:
 
 Charitable cause: Education
 
-Taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel, bibliography management in EndNote and SPSS Statistics. The course was designed to teach sociology students the necessary tools for creating articles, managing statistics, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Sociologists use these tools and knowledge for their research.
+At the University of Havana, the student who has finished a course can help the professors to teach that course, this depends on the difficulty of the course. Sometimes the student can help new students to the course by giving them practical exercises, but, if the course is taught in another faculty, the student can teach the entire course with the supervision of a professor. I taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Philosophy career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel and bibliography management in EndNote. The course was designed to teach philosophy students the necessary tools for creating articles, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Philosophers use these tools and knowledge for their research.
 
 - Designed and reviewed the tests given to the students.
-- Designed and taught the informatic course for the degree in sociology, I focused on the simple explanation of the topics because sociologists do not have a strong informatic background.
+- Designed and taught the informatic course for the degree in philosophy, I focused on the simple explanation of the topics because philosophers do not have a strong informatic background.
 - Informed teachers about the academic development of each student in the course to give a differentiated educational treatment to those students with low performance.
 - Attended meetings with the dean and vice dean of the School of Philosophy and History of Havana University and coordinated the date and time of exams and conferences.
 
@@ -268,9 +272,12 @@ Taught the Informatics course at FFH (Facultad de Filosofia e Historia, School o
     - Generation of the table of content to have better access to the topics of the document.
     - PDF generation from the Word document.
 
-- Microsoft Excel:
+- Microsoft PowerPoint:
 
-    - 
+    - Generation of videos from presentations.
+    - Creation of animated objects for the presentations to make them appear more interactive and attractive.
+    - Creation of slide transitions for a better visual effect in presentations.  
+    - Modification of basic shapes and objects to create more complex ones.
 
 Professors:
 : [Dafne García de Armas][22] ([ResearchGate][23])
@@ -282,7 +289,7 @@ Dean of the School of Philosophy and History of Havana University:
 : [Ernel Gonzalez Mastrapa][17] ([ResearchGate][18] | [Google Scholar][19])
 
 Stack:
-: Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
+: Microsoft PowerPoint, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
 
 ---
 
@@ -294,7 +301,7 @@ Stack:
 
 Charitable cause: Education
 
-Taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel, bibliography management in EndNote and SPSS Statistics. The course was designed to teach sociology students the necessary tools for creating articles, managing statistics, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Sociologists use these tools and knowledge for their research.
+At the University of Havana, the student who has finished a course can help the professors to teach that course, this depends on the difficulty of the course. Sometimes the student can help new students to the course by giving them practical exercises, but, if the course is taught in another faculty, the student can teach the entire course with the supervision of a professor. I taught the Informatics course at FFH (Facultad de Filosofia e Historia, School of Philosophy and History of Havana University) in the Sociology career. Topics were on creating articles in Microsoft Word, Microsoft PowerPoint presentations, Microsoft Excel, bibliography management in EndNote and SPSS Statistics. The course was designed to teach sociology students the necessary tools for creating articles, managing statistics, creating videos, presentations, some notions of cybersecurity, searching the web, compressing digital files, and others. Sociologists use these tools and knowledge for their research.
 
 - Designed and reviewed the tests given to the students.
 - Designed and taught the informatic course for the degree in sociology, I focused on the simple explanation of the topics because sociologists do not have a strong informatic background.
@@ -330,12 +337,8 @@ Dean of the School of Philosophy and History of Havana University:
 : [Ernel Gonzalez Mastrapa][17] ([ResearchGate][18] | [Google Scholar][19])
 
 Stack:
-: Statistical Package for the Social Sciences (SPSS Statistics), Microsoft Power Point, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
-<!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
-<!-- add a progress bar or the percent in the programming languages -->
-<!-- to put correctly abreviations -->
-<!-- to use some program to check broken links and delete it -->
-<!-- maybe write the name of some fields-->
+: Statistical Package for the Social Sciences (SPSS Statistics), Microsoft PowerPoint, Microsoft Word, Microsoft Excel, EndNote Reference Management Tool.
+
 ## 📖 Courses
 
 - Advanced Data Structures
@@ -435,6 +438,7 @@ Stack:
 - Statistics
 
 ## 🏆 Test scores
+
 - Artificial Intelligence
 
     *dic 2019*  
@@ -450,160 +454,161 @@ Stack:
 - Declarative Programming
 
     *jul 2019*  
-        
+
     *3/5*
 
 - Optimization Models I
 
     *dic 2018*  
-    
+
     *3/5*
 
 - Probability Theory
 
     *dic 2018*  
-    
+
     *3/5*
 
 - Computer Networking
 
     *jul 2018*  
-    
+
     *3/5*
 
 - Discrete Mathematic II
 
     *jul 2018*  
-    
+
     *3/5*
 
 - Numeric Mathematic II
 
     *jul 2018*  
-    
+
     *4/5*
 
 - Programming Languages
 
     *jul 2018*  
-    
+
     *3/5*
 
 - Discrete Mathematic I
 
     *dic 2017*  
-    
+
     *3/5*
 
 - Numeric Mathematic I
 
     *dic 2017*  
-    
+
     *3/5*
 
 - Operating Systems I
 
     *dic 2017*  
-    
+
     *3/5*
 
 - Data Structures and Algorithms II
 
     *jul 2017*  
-    
+
     *3/5*
 
 - Databases Systems I
 
     *jul 2017*  
-    
+
     *3/5*
 
 - Differential Equations
 
     *jul 2017*  
-    
+
     *5/5*
 
 - English IV
 
     *jul 2017*  
-    
+
     *5/5*
 
 - Data Structures and Algorithms I
 
     *dic 2016*  
-    
+
     *3/5*
 
 - English III
 
     *dic 2016*  
-    
+
     *4/5*
 
 - Mathematical Analysis II
 
     *dic 2016*  
-    
+
     *3/5*
 
 - Algebra II
 
     *jul 2016*  
-    
+
     *3/5*
 
 - English II
 
     *jul 2016*  
-    
+
     *4/5*
 
 - History of Cuba
 
     *jul 2016*  
-    
+
     *5/5*
 
 - Mathematical Analysis I
 
     *jul 2016*  
-    
+
     *4/5*
 
 - Programming
 
     *jul 2016*  
-    
+
     *4/5*
 
 - Algebra I
 
     *dic 2015*  
-    
+
     *3/5*
 
 - English I
 
     *dic 2015*  
-    
+
     *4/5*
 
 - Geometry
 
     *dic 2015*  
-    
+
     *5/5*
 
 - Logic
 
     *dic 2015*  
-    
+
     *4/5*
 
 ## 🇪🇸🇬🇧 Languages
+
 Spanish: Native
 
 English: Intermediate.
@@ -612,7 +617,7 @@ English: Intermediate.
 
 **[Blockchain system for medical records storage.][7]**
 
-*September 2020* 
+*September 2020*
 
 **[www.researchgate.net][9]**
 
@@ -640,14 +645,14 @@ Advisor:
 
 [Watch video exposition][12]
 
-*keywords*: 
+*keywords*:
 : Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
 ---
 
 **[Blockchain-Based Medical Records Storage.][10]**
 
-*September 2020* 
+*September 2020*
 
 **[www.researchgate.net][9]**
 
@@ -661,7 +666,7 @@ A summary article about my thesis document.
 - Proposed, designed and explained a web application for intereact with the blockchain network.
 - Proposed, designed and explained a blockchain network architecture for medical records storage using Hyperledger Fabric.
 
-*keywords*: 
+*keywords*:
 : Blockchain, Electronic Health, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
 [1]: https://linkedin.com/in/rainyel-ramos
@@ -687,3 +692,23 @@ A summary article about my thesis document.
 [21]: https://www.semanticscholar.org/author/Yulexis-Almeida-Junco/1818694633
 [22]: https://www.linkedin.com/in/dafnegarciadearmas
 [23]: https://www.researchgate.net/profile/Dafne-Garcia-De-Armas-2
+
+<!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
+<!-- add a progress bar or the percent in the programming languages -->
+<!-- to put correctly abreviations -->
+<!-- to use some program to check broken links and delete it -->
+<!-- maybe write the name of some fields-->
+<!-- explicar que en la universidad es posible para los estudiantes que ya pasaron una asignatura ayudar a los profesores a impartirla, ya sea impartiendo clases practicas o de otra forma, y que en mi experiencia de voluntario en la ffh como la asignatura era sencilla yo la di completa con la supervision de los profesores -->
+<!-- explicar como me decante por blockchain luego de hacer mi trabajo de distribuidos contar como busque departamentos especializado en eso pero no encontre y me quede con blockchian en criptografia y despues hice mi tesis, darle contexto a todo el cv para que se conozca lo q hice y por que lo hice -->
+
+<!-- poner al decano y a la vicedecana de la facultad en la seccion de estudios -->
+
+<!-- explicar q existe un concurso para pasar el 12 grado en la universidad y se puede entrar por las cuatro ciencias, explicar que entre por matematicas y que estuve alli un ano pero mi pasion fue cibernetica y me cambie -->
+
+<!-- explicar como en cibernetica el enfoque de las asignaturas es hacia proyectos practicos los cuales la mayoria se hacen en equipo y que muchas asignaturas tiene un lenguaje de programacion establecido para trabajar y que hay que aprender, poner ejemplos, mostrar el enfoque q tiene nuestra carrera -->
+
+<!-- explicar que si bien no soy un experto en ninguna tecnologia soy una persona que me gusta conocer y jugar con nuevas tecnologias ademas de que me gusta escoger la tecnologia correcta para el proyecto y prefiero invertir un tiempo en investigar la mejor tecnologia y aprenderla que tirarle con lo que ya se y q probablemente me sea mas complejo -->
+
+<!-- poner el email intitucional al incio de la pagina y que puede usarse para verificar mi rol como profesor en la uh -->
+
+<!-- en la seccion de trabajo explicar que en la universidad somos un grupo pequeno q intenta introducir la tecnologia blockchain en cuba que tenemos muchos proyectos desde cuba y que somos ingenieros, matematicos cientificos de la computacion, etc. somos muy pocos los que tenemos experiencia de programacion -->
