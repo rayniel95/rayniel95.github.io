@@ -675,7 +675,7 @@ Advisor:
 
 Judges:
 
-- Luis Ramiro Piñeiro Diaz ([ResearchGate][25] | [Articles][27] | [Megazines][26])
+- Luis Ramiro Piñeiro Diaz ([ResearchGate][25] | [Articles][27] | [Magazines][26])
 - [Miguel Katrib Mora][33] ([ResearchGate][28] | [SemanticScholar][29] | [Google Scholar][30] | [Books][32] | [Articles][31])
 - [Alexi Masso Muñoz][34]
 - [Amaury Diaz Caballero][35]
