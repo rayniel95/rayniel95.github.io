@@ -59,7 +59,7 @@ Enterprise public register:
 - Created a Docker image for Substrate node template with only 3 GB, half of Docker image used by Substrate.
 
 Stack:
-: Rust, Substrate, Solidity, OpenZeppelin, Truffle, Ganache
+: Rust, Substrate, ink, Docker
 
 *keywords*:
 : Blockchain, Cryptography, Distributed Systems, Smart Contracts.
@@ -80,6 +80,8 @@ Cuban health care system work with physical health records, some efforts for dig
 
 <!--explain better, add more specific tasks, create a wrapper for fabric sdk for example-->
 
+<!-- poner que es el proyecto de tesis, poner ademas la nota 4/5 y los miembros del jurado con sus respectivos links -->
+
 Stack:
 : Node.js, Hyperledger Fabric, Adminbro, Docker, Docker Compose, Convector, TypeScript, Hurley.
 
@@ -92,7 +94,17 @@ Stack:
 : Software Development | Software Design | Software Engineering | Distributed Systems | Machine Learning | Artificial Intelligence | Programming | Logic | High Math | Data Structure and Algorithms | Back-end Development | Database Design and Management |
 
 **Programming Languages**
-: C | C# | Python | Assembly Language (x86) | TypeScript | SQL | Golang (Go) | Prolog | Haskell | R | Solidity | Rust |
+
+*Most used:*
+
+1. Pyhton
+2. Rust
+3. C#
+4. Go (Golang)
+
+*Others*:
+
+: TypeScript | Prolog | SQL | Assembly Language (x86) | Solidity | C | R | Haskell
 
 **Frameworks, libraries and tools**
 : Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Bokeh, Flask, Django, Scrapy, Docker-Compose, Substrate.
@@ -142,7 +154,7 @@ Some proffessors: My Proffessor 1 (with linkedin link and researchgate), My Prof
 
 School Name (link to official website)
 
-Titulacion, 
+Titulacion,
 
 academinc discipline
 
@@ -179,20 +191,34 @@ Some proffessors: My Proffessor 1 (with linkedin link and researchgate), My Prof
 
 Certificate Name (with link to credential photo or other)
 
-Organization (with link to official page)
+Issued by: Organization (with link to official page)
 
 *from 1500 to 2000*
 
 ID 2345657763434311
+
+Signed by:
+
+- Role: Some professor name (Linkedin | ResearchGate | Others)
+- Role: Other professor name (Linkedin | ResearchGate | Others)
+- Role: More professor names ...
+
+---
 
 Certificate Name (with link to credential photo or other)
 
-Organization (with link to official page)
+Issued by: Organization (with link to official page)
 
 *from 1500 to 2000*
 
 ID 2345657763434311
-:books:
+
+Signed by:
+
+- Role: Some professor name (Linkedin | ResearchGate | Others)
+- Role: Other professor name (Linkedin | ResearchGate | Others)
+- Role: More professor names ...
+
 ...
 
 ## ❤️ Volunteer experience
@@ -232,7 +258,7 @@ At the University of Havana, the student who has finished a course can help the 
     - Calculation of mean, median and statistical frequencies.
 
 Professors:
-: [Maria Elena Garcia-Ochagavia][16]
+: [Maria Elena Garcia-Ochagavia][16] ([Articles][24])
 
 Vicedean of the School of Philosophy and History of Havana University:
 : [Yulexis Almeida Junco][20] ([SemanticScholar][21])
@@ -328,7 +354,7 @@ At the University of Havana, the student who has finished a course can help the 
     - Calculation of mean, median and statistical frequencies.
 
 Professors:
-: [Maria Elena Garcia-Ochagavia][16]
+: [Maria Elena Garcia-Ochagavia][16] ([Articles][24])
 
 Vicedean of the School of Philosophy and History of Havana University:
 : [Yulexis Almeida Junco][20] ([SemanticScholar][21])
@@ -621,7 +647,7 @@ English: Intermediate.
 
 **[www.researchgate.net][9]**
 
-Cuban health care system work with physical health records, some efforts for digitalize health records has been realized but using centralized databases. In this thesis document is proposed a functional prototype for electronic health record storage using Hyerledger Fabric. This system is a solution baseline for the electronic health record storage problem in Cuba. The final solution will be a national blockchain network with encrypted data for privacy.
+Cuban health care system work with physical health records, some efforts for digitalize health records has been realized but using centralized databases. In my undergraduate thesis project I implemented a functional prototype for electronic health record storage using Hyperledger Fabric. In this document are explained the details about this project. This system is a solution baseline for the electronic health record storage problem in Cuba. The final solution will be a national blockchain network with encrypted data for privacy.
 
 - Researched the theory behind blockchain technology.
 - Analyzed some blockchain platforms and technologies such as: Bitcoin, Ethereum, HashGraph, Hyperledger Fabric, BigChain, Corda, Quorum.
@@ -644,6 +670,15 @@ Advisor:
 [See project description](#Blockchain-system-for-medical-records-storage)
 
 [Watch video exposition][12]
+
+**This project was rated:** *4/5*
+
+Judges:
+
+- Luis Ramiro Piñeiro Diaz ([ResearchGate][25] | [Articles][27] | [Megazines][26])
+- [Miguel Katrib Mora][33] ([ResearchGate][28] | [SemanticScholar][29] | [Google Scholar][30] | [Books][32] | [Articles][31])
+- [Alexi Masso Muñoz][34]
+- [Amaury Diaz Caballero][35]
 
 *keywords*:
 : Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
@@ -692,13 +727,23 @@ A summary article about my thesis document.
 [21]: https://www.semanticscholar.org/author/Yulexis-Almeida-Junco/1818694633
 [22]: https://www.linkedin.com/in/dafnegarciadearmas
 [23]: https://www.researchgate.net/profile/Dafne-Garcia-De-Armas-2
+[24]: https://redib.org/Record/oai_articulo2462523-overlapping-community-detection-a-graph-chemicals-diseases-genes-drug-repositioning-adverse-reactions-prediction
+[25]: https://www.researchgate.net/profile/Luis-Diaz-105
+[26]: https://1library.co/document/qo37ndmq-vol-num-abril.html
+[27]: https://www.mdpi.com/2073-8994/13/5/777
+[28]: https://www.researchgate.net/profile/Miguel-Katrib-2
+[29]: https://www.semanticscholar.org/author/Miguel-Katrib-Mora/2053337934
+[30]: https://scholar.google.com/citations?user=-s5mRPkAAAAJ&hl=es
+[31]: http://toc.proceedings.com/21425webtoc.pdf
+[32]: http://worldcat.org/identities/lccn-no2011161030/
+[33]: https://www.linkedin.com/in/miguel-katrib-3a5529aa/
+[34]: https://www.linkedin.com/in/alexi-mass%C3%B3-mu%C3%B1oz-697393150/
+[35]: https://cu.linkedin.com/in/amaury95
 
 <!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
-<!-- add a progress bar or the percent in the programming languages -->
 <!-- to put correctly abreviations -->
 <!-- to use some program to check broken links and delete it -->
 <!-- maybe write the name of some fields-->
-<!-- explicar que en la universidad es posible para los estudiantes que ya pasaron una asignatura ayudar a los profesores a impartirla, ya sea impartiendo clases practicas o de otra forma, y que en mi experiencia de voluntario en la ffh como la asignatura era sencilla yo la di completa con la supervision de los profesores -->
 <!-- explicar como me decante por blockchain luego de hacer mi trabajo de distribuidos contar como busque departamentos especializado en eso pero no encontre y me quede con blockchian en criptografia y despues hice mi tesis, darle contexto a todo el cv para que se conozca lo q hice y por que lo hice -->
 
 <!-- poner al decano y a la vicedecana de la facultad en la seccion de estudios -->
