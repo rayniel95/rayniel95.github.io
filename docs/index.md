@@ -29,13 +29,19 @@ Havana, Cuba
 
 - Researched the feasibility to apply Substrate blockchain framework to create a permissioned blockchain.
 - Investigated the feasibility of using Solidity and Ethereum Virtual Machine (EVM) to create smart contracts for a permissioned Substrate node blockchain.
-- Trained two computer science students, Sergio Perez Pantoja and Bryan Machin Garcia, in blockchain technology, teaching the theory behind blockchain, the most used blockchain platforms (Ethereum, Hyperledger Fabric, Substrate) and how to work with them.
-- Designed and implemented RainyelCert ([see project description](#RainyelCert)) project, a permissioned blockchain using Substrate framework for certificates signing and storage. 
+- Trained two computer science students teaching the theory behind blockchain, the most used blockchain platforms (Ethereum, Hyperledger Fabric, Substrate) and how to work with them.
+- Designed and implemented [RainyelCert](#RainyelCert) project, a permissioned blockchain using Substrate framework for certificates signing and storage.
 
-Co-workers
-:
+Co-workers:
 
-Enterprise public register:
+: Lab Head: Luis Ramiro Piñeiro Diaz ([ResearchGate][25] | [Articles][27] | [Magazines][26])
+
+- [Miguel Katrib Mora][33] ([ResearchGate][28] | [SemanticScholar][29] | [Google Scholar][30] | [Books][32] | [Articles][31])
+- [Alexi Masso Muñoz][34]
+- [Amaury Diaz Caballero][35]
+- [Ariel Diaz Perez][37]
+- [Yessica Caridad Castaño Sainz][39] ([ResearchGate][40])
+- [Kamilo Denis Gonzalez][38]
 
 ---
 
@@ -51,15 +57,20 @@ Enterprise public register:
 
 ## 💻 Projects
 
-**RainyelCert**{#RainyelCert}
+[**RainyelCert-Node**][36]{#RainyelCert}
 
 *April 2021 - present*
 
-- Modified the substrate node template to get a permissioned blockchain node to create a permissioned blockchain.
+Modified the substrate node template to get a permissioned blockchain node to create a permissioned blockchain.
+
 - Created a Docker image for Substrate node template with only 3 GB, half of Docker image used by Substrate.
+- Added and configured contract pallet to the node to execute smart contracts using ink!.
+- Added and configured node authorization pallet to give access to the network to specific nodes creating a permissioned network.
+- Implemented RPC calls to contracts adding the functionality of query the contract storage.
+- Added and configured a custom pallet that use the sudo pallet and the contract pallet to give access to sudo origin for contract instantiation.
 
 Stack:
-: Rust, Substrate, ink, Docker
+: Rust, Substrate, ink!, Docker
 
 *keywords*:
 : Blockchain, Cryptography, Distributed Systems, Smart Contracts.
@@ -70,7 +81,8 @@ Stack:
 
 *March 2020 - August 2020*
 
-Cuban health care system work with physical health records, some efforts for digitalize health records has been realized but using centralized databases. In this project is implemented a functional prototype for electronic health record storage using Hyerledger Fabric. // todo explain how it work
+Cuban health care system work with physical health records, some efforts for digitalize health records has been realized but using centralized databases. In this project is implemented a functional prototype for electronic health record storage using Hyerledger Fabric.
+<!-- // todo explain how it work -->
 
 - Designed and implemented a Hyperledger Fabric network.
 - Designed digital medical records using the Observational Medical Outcomes Partnership (OMOP) standard as assets to be saved on a blockchain.
@@ -79,8 +91,6 @@ Cuban health care system work with physical health records, some efforts for dig
 - Designed and implemented a web application to interact with the blockchain network.
 
 <!--explain better, add more specific tasks, create a wrapper for fabric sdk for example-->
-
-<!-- poner que es el proyecto de tesis, poner ademas la nota 4/5 y los miembros del jurado con sus respectivos links -->
 
 Stack:
 : Node.js, Hyperledger Fabric, Adminbro, Docker, Docker Compose, Convector, TypeScript, Hurley.
@@ -739,6 +749,11 @@ A summary article about my thesis document.
 [33]: https://www.linkedin.com/in/miguel-katrib-3a5529aa/
 [34]: https://www.linkedin.com/in/alexi-mass%C3%B3-mu%C3%B1oz-697393150/
 [35]: https://cu.linkedin.com/in/amaury95
+[36]: https://github.com/rayniel95/rainyelcert-node
+[37]: https://www.linkedin.com/in/ariel-diaz-perez-21a752121
+[38]: https://www.linkedin.com/in/kmilodenisglez
+[39]: https://www.linkedin.com/in/yessica-caridad-casta%C3%B1o-sainz-943107205
+[40]: https://www.researchgate.net/profile/Yessica-Caridad-Sainz-2
 
 <!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
 <!-- to put correctly abreviations -->
@@ -757,3 +772,5 @@ A summary article about my thesis document.
 <!-- poner el email intitucional al incio de la pagina y que puede usarse para verificar mi rol como profesor en la uh -->
 
 <!-- en la seccion de trabajo explicar que en la universidad somos un grupo pequeno q intenta introducir la tecnologia blockchain en cuba que tenemos muchos proyectos desde cuba y que somos ingenieros, matematicos cientificos de la computacion, etc. somos muy pocos los que tenemos experiencia de programacion -->
+
+<!-- dividir en varias paginas pq ya hay bastantes links y es demasiado largo -->
