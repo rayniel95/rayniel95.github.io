@@ -10,7 +10,7 @@ Havana, Cuba
 
 - Researched the feasibility to apply Substrate blockchain framework to create a permissioned blockchain.
 - Investigated the feasibility of using Solidity and Ethereum Virtual Machine (EVM) to create smart contracts for a permissioned Substrate node blockchain.
-- Trained two computer science students teaching the theory behind blockchain, the most used blockchain platforms (Ethereum, Hyperledger Fabric, Substrate) and how to work with them.
+- Trained computer science students teaching the theory behind blockchain, the most used blockchain platforms (Ethereum, Hyperledger Fabric, Substrate) and how to work with them.
 - Work directly in seminars provided by the University with the objective of divulgate Blockchain venefits for the Economy.
 - Attended to Masters courses of "Introduction to Blockchain" and "Advanced Blockchain Topics" from foreign universities.
 - Designed and implemented RainyelCert project, a permissioned blockchain network using Substrate framework for certificates signing and storage.

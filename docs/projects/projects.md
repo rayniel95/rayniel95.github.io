@@ -10,7 +10,7 @@ contracts programmed with ink!. The request to the contract storage is made via 
 - Added and configured node authorization pallet to give access to the network to specific nodes creating a permissioned network.
 - Implemented RPC calls to contracts adding the functionality of query the contract storage.
 - Added and configured a custom pallet that use the sudo pallet and the contract pallet to give access to sudo origin for contract instantiation.
-- Modified the contract pallet to create feelees smart contract execution.
+- Modified the contract pallet to create feeless smart contract execution.
 
 Stack:
 : Rust, Substrate, ink!, Docker, Polkadot
