@@ -227,11 +227,17 @@ Some proffessors: My Proffessor 1 (with linkedin link and researchgate), My Prof
 
 Certificate Name (with link to credential photo or other)
 
-Organization (with link to official page)
+Issued by: Organization (with link to official page)
 
 *from 1500 to 2000*
 
 ID 2345657763434311
+
+Signed by:
+
+- Role: Some professor name (Linkedin | ResearchGate | Others)
+- Role: Other professor name (Linkedin | ResearchGate | Others)
+- Role: More professor names ...
 
 Certificate Name (with link to credential photo or other)
 

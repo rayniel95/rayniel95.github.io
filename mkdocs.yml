@@ -29,3 +29,16 @@ markdown_extensions:
 plugins:
   - git-revision-date-localized:
       type: date
+
+nav: 
+  - 😃 About me: index.md
+  - 🏢 Work experience: ./work_experience/work_experience.md
+  - 💻 Projects: ./projects/projects.md
+  - 💪 Skills: ./skills/skills.md
+  - 📝 Education: ./education/education.md
+  - 📜 Licences and certifications: ./licences_and_certifications/licences_and_certifications.md
+  - ❤️ Volunteer experience: ./volunteer_experience/volunteer_experience.md
+  - 📖 Courses: ./courses/courses.md
+  - 🏆Test scores: ./test_scores/test_scores.md
+  - 🇪🇸🇬🇧 Languages: ./languages/languages.md
+  - 📚 Publications: ./publications/publications.md
