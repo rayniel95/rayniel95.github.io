@@ -1,17 +1,19 @@
-## [**RainyelLedger**][36]
+## [**RainyelLedger**][13905224447409724230]
 
-*April 2021 - present*
+*April 2021 - November 2021*
 
-Modified the substrate node template to get a permissioned blockchain node to create a permissioned blockchain.
+RainyelLedger is a permissioned blockchain platform that is capable of execute smart 
+contracts programmed with ink!. The request to the contract storage is made via RPC and authorization of administrators is necessary to join the network. Instantiation of the smart contracts on the network is only authorized to administrators.
 
 - Created a Docker image for Substrate node template with only 3 GB, half of Docker image used by Substrate.
 - Added and configured contract pallet to the node to execute smart contracts using ink!.
 - Added and configured node authorization pallet to give access to the network to specific nodes creating a permissioned network.
 - Implemented RPC calls to contracts adding the functionality of query the contract storage.
 - Added and configured a custom pallet that use the sudo pallet and the contract pallet to give access to sudo origin for contract instantiation.
+- Modified the contract pallet to create feelees smart contract execution.
 
 Stack:
-: Rust, Substrate, ink!, Docker
+: Rust, Substrate, ink!, Docker, Polkadot
 
 *keywords*:
 : Blockchain, Cryptography, Distributed Systems, Smart Contracts.
@@ -41,35 +43,55 @@ Stack:
 *keywords*:
 : Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
-[1]: https://linkedin.com/in/rainyel-ramos
-[2]: https://github.com/rayniel95
-[3]: https://youtube.com/channel/UCLfQBlFqyxWjXTiET5uYtKg
-[4]: https://rainyel-ramos.medium.com/
-[5]: https://dev.to/rayniel95
-[6]: https://researchgate.net/profile/Rainyel_Gonzalez
-[7]: https://www.researchgate.net/publication/348348902_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
-[8]: https://www.linkedin.com/in/yunier-zamora-681b53191
-[9]: https://www.researchgate.net/
-[10]: https://www.researchgate.net/publication/348348913_Sistema_para_el_almacenamiento_de_historias_clinicas_utilizando_tecnologia_blockchain
-[11]: https://www.researchgate.net/profile/Yunier-Zamora-Hernandez
-[12]: https://youtu.be/YeBG6jEgHcc
-[10501492827982229945]: http://www.uh.cu
-[14]: https://twitter.com/rayniel95
-[15]: https://t.me/rayniel95
+---
 
-[17137592762943306412]: https://www.researchgate.net/profile/Luis-Diaz-105
-[26]: https://1library.co/document/qo37ndmq-vol-num-abril.html
-[27]: https://www.mdpi.com/2073-8994/13/5/777
-[28]: https://www.researchgate.net/profile/Miguel-Katrib-2
-[29]: https://www.semanticscholar.org/author/Miguel-Katrib-Mora/2053337934
-[30]: https://scholar.google.com/citations?user=-s5mRPkAAAAJ&hl=es
-[31]: http://toc.proceedings.com/21425webtoc.pdf
-[32]: http://worldcat.org/identities/lccn-no2011161030/
-[33]: https://www.linkedin.com/in/miguel-katrib-3a5529aa/
-[34]: https://www.linkedin.com/in/alexi-mass%C3%B3-mu%C3%B1oz-697393150/
-[35]: https://cu.linkedin.com/in/amaury95
-[36]: https://github.com/rayniel95/rainyelcert-node
-[37]: https://www.linkedin.com/in/ariel-diaz-perez-21a752121
-[38]: https://www.linkedin.com/in/kmilodenisglez
-[39]: https://www.linkedin.com/in/yessica-caridad-casta%C3%B1o-sainz-943107205
-[40]: https://www.researchgate.net/profile/Yessica-Caridad-Sainz-2
+## **C Web Server**
+
+November 2017 - November 2017
+
+- Used fork function for create new process.
+- Used send function to send files.
+- Used socket to communicate with browser.
+
+*Others creators*:
+
+- [Frank Elier][3328656759977950433]
+
+Stack:
+: C
+
+*keywords*:
+: Web Server, Low-Level Programming.
+
+---
+
+## [**SnakASM**][12842347626545791369]
+
+*November 2016 - December 2016*
+
+Implemented a very funny snake game in x86 assembly.
+
+Stack:
+: Assembly (x86), SASM, NASM, Quemu
+
+*keywords*:
+: Low Level Programming, Snake Game, Games, Ascii Art, Virtualization, Assembler.
+
+---
+
+## [**C# Little Projects**][8791188603468496344]
+
+*September 2015 - July 2016*
+
+TODO - Write description
+
+Stack:
+: C# (C Sharp)
+
+*keywords*:
+: Programming, Algorithms, Object Oriented Programming (OOP), Backtracking, Recursivity.
+
+[13905224447409724230]: https://github.com/rayniel95/rainyelcert-node
+[8791188603468496344]: https://github.com/rayniel95/c-sharp-little-projects
+[12842347626545791369]: https://github.com/rayniel95/SnakAsm-Rayniel-Ramos-Gonzalez-C212
+[3328656759977950433]: https://www.linkedin.com/in/frank-elier-71b744189/

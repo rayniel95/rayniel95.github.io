@@ -1,4 +1,4 @@
-**Blockchain developer, researcher and professor**
+## **Blockchain developer, researcher and professor**
 
 [Havana University][10501492827982229945]
 
@@ -28,7 +28,7 @@ Co-workers:
 
 ---
 
-**Graduate Researcher**
+## **Graduate Researcher**
 
 Artemisa University
 
