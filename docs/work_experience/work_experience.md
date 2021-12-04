@@ -11,7 +11,7 @@ Havana, Cuba
 - Researched the feasibility to apply Substrate blockchain framework to create a permissioned blockchain.
 - Investigated the feasibility of using Solidity and Ethereum Virtual Machine (EVM) to create smart contracts for a permissioned Substrate node blockchain.
 - Trained computer science students teaching the theory behind blockchain, the most used blockchain platforms (Ethereum, Hyperledger Fabric, Substrate) and how to work with them.
-- Work directly in seminars provided by the University with the objective of divulgate Blockchain venefits for the Economy.
+- Work directly in seminars provided by the University with the objective of divulge Blockchain benefits for the Economy.
 - Attended to Masters courses of "Introduction to Blockchain" and "Advanced Blockchain Topics" from foreign universities.
 - Designed and implemented RainyelCert project, a permissioned blockchain network using Substrate framework for certificates signing and storage.
 
@@ -21,11 +21,15 @@ Co-workers:
 
 - [Miguel Katrib Mora][2718954530875636670] ([ResearchGate][9838377359291522781] | [SemanticScholar][8179683280008850749] | [Google Scholar][7002261701407992645] | [Books][4563679684286092907] | [Articles][6686877601431166890])
 - [Alexi Masso Muñoz][6005828514837597583]
-- [Amaury Diaz Caballero][10046178460804603328]
-- [Ariel Diaz Perez][16379277098091383057]
+- [Amaury Diaz Caballero][10046178460804603328] ([Github][6989384081882760709])
+- [Ariel Diaz Perez][16379277098091383057] ([Github][17715180797249903301])
 - [Yessica Caridad Castaño Sainz][2444704373763869055] ([ResearchGate][14416748475173451428])
-- [Kamilo Denis Gonzalez][2444704373763869055]
+- [Kamilo Denis Gonzalez][2444704373763869055] ([Github][16945575433379891358] | [StackOverflow][3099919609106716666])
 
+[16945575433379891358]: https://github.com/kmilodenisglez
+[3099919609106716666]: https://stackoverflow.com/users/14446491/kmilo-denis-gonzalez
+[17715180797249903301]: https://github.com/krafugo
+[6989384081882760709]: https://github.com/amaury95
 ---
 
 ## **Graduate Researcher**

@@ -35,10 +35,12 @@ Judges:
 - Luis Ramiro Piñeiro Diaz ([ResearchGate][17137592762943306412] | [Articles][9838377359291522781] | [Magazines][2138024335952641761])
 - [Miguel Katrib Mora][2718954530875636670] ([ResearchGate][16801529439425332354] | [SemanticScholar][8179683280008850749] | [Google Scholar][7002261701407992645] | [Books][4563679684286092907] | [Articles][6686877601431166890])
 - [Alexi Masso Muñoz][6005828514837597583]
-- [Amaury Diaz Caballero][10046178460804603328]
+- [Amaury Diaz Caballero][10046178460804603328] ([Github][6989384081882760709])
 
 *keywords*:
 : Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
+
+[6989384081882760709]: https://github.com/amaury95
 
 ---
 
