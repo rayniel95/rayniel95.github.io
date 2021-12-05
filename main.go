@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	url := "https://github.com/masiiie"
+	url := "https://rayniel95.github.io/projects/projects/#blockchain-system-for-medical-records-storage"
 	result := make([]byte, 0)
 	for index := 0; index < len(md5.Sum([]byte(url))); index++ {
 		result = append(result, md5.Sum([]byte(url))[index])

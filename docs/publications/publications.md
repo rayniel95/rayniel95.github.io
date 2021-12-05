@@ -24,7 +24,7 @@ Cuban health care system work with physical health records, some efforts for dig
 Advisor:
 : [Yunier Zamora Hernández][11220537839561247595] ([ResearchGate][6260194580826464206])
 
-[See project description](#Blockchain-system-for-medical-records-storage)
+[See project description][6206635285711140745]
 <!-- TODO - Fix project description -->
 [Watch video exposition][4666275141468924663]
 
@@ -41,7 +41,7 @@ Judges:
 : Blockchain, eHealth, Healthcare, Cryptography, Distributed Systems, Smart Contracts, Electronic Health Records.
 
 [6989384081882760709]: https://github.com/amaury95
-
+[6206635285711140745]: https://rayniel95.github.io/projects/projects/#blockchain-system-for-medical-records-storage
 ---
 
 ## **[Blockchain-Based Medical Records Storage.][1057914764649022727]**

@@ -23,7 +23,7 @@ Co-workers:
 - [Alexi Masso Muñoz][6005828514837597583]
 - [Amaury Diaz Caballero][10046178460804603328] ([Github][6989384081882760709])
 - [Ariel Diaz Perez][16379277098091383057] ([Github][17715180797249903301])
-- [Yessica Caridad Castaño Sainz][2444704373763869055] ([ResearchGate][14416748475173451428])
+- [Yessica Caridad Castaño Sainz][6035990843617390936] ([ResearchGate][14416748475173451428])
 - [Kamilo Denis Gonzalez][2444704373763869055] ([Github][16945575433379891358] | [StackOverflow][3099919609106716666])
 
 [16945575433379891358]: https://github.com/kmilodenisglez
