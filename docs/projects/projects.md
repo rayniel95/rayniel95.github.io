@@ -143,6 +143,16 @@ Stack:
 
 Implemented a COOL (Classroom Object Oriented Language) interpreter with type inference functionality.
 
+- Created the regular expressions used by the lexer to tokenize (parse) the program string.
+- Implemented functions to analyse the token priority to help to the lexer to disambiguate the program string.
+- Designed and implemented the nodes of the Abstract Syntax Tree (AST) and the hierarchy between them.
+- Designed the Attributed Grammar and its methods to parse the program string and create the AST.
+- Designed and implemented the semantic checker to check the correctness of the semantic in the AST.
+- Used the visitor pattern to move between the nodes of the AST and apply the necessary functions to analyse the program string.
+- Designed and implemented an object that can be used to define the differents scopes inside the program string, helping to keep the necessary data in a structured and organized way while visiting the nodes of the AST.
+- Designed and implemented an object that using a mixture of top down and bottom up approach and some heuristics it can infer the static type of variables, methods, parameters, etc. in the AST of COOL.
+- Designed and implemented an object to execute the COOL program using Python instructions and expressions.
+
 Stack:
 : Python, PLY
 
