@@ -224,7 +224,7 @@ Stack:
 
 ---
 
-## [**Distributed CMS**][3978595422289680791]
+## [**Distributed Content Management System**][3978595422289680791]
 
 *October 2018 - December 2018*
 
