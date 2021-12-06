@@ -246,7 +246,7 @@ Implemented a Chord DHT (distributed hash table) adding crash fault tolerance (C
 - Developed a node discovery system, using broadcast, to automatically find all nodes on a local network.
 - Used multiprocessing and multithreading to parallelize services execution inside a single node, speeding up the program execution.
 - Implemented a cache service inside the node to improve the time of data delivered and decreased the network traffic.
-- Implemented a service that connect to the database and can be used to avoid the direct manipulation of the database decreasing the amount of errors related to direct manipulation.
+- Implemented a service that connect to the node database and can be used to avoid the direct manipulation of the database decreasing the amount of errors related to direct manipulation.
 - Used Python type hints to decreased the runtime errors in the program related to dynamic typing.
 
 *Others creators*:
