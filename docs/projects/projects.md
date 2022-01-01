@@ -251,7 +251,7 @@ Implemented a Chord DHT (distributed hash table) adding crash fault tolerance (C
 
 *Others creators*:
 
-- [Masiel Villalba][16494533844550368994] ([Github][12138863129980219061])
+- [Massiel Villalba][16494533844550368994] ([Github][12138863129980219061] | [Twitter][17762246747112427201]) 
 <!-- TODO - it is possible to add more info in the other creators section -->
 Stack:
 : Jinja2, Pyro4, Python, Flask, Docker, Docker-Compose, Ansible, SQLite3
@@ -361,3 +361,4 @@ Stack:
 [4918301301168041084]: https://www.linkedin.com/in/dcastillo41/
 [15163401513986729425]: https://github.com/rayniel95/Primer-Proyecto-de-Compilacion-GrammarAnalyzer-Rayniel-Ramos-Gonzalez-c412
 [3141550080493653788]: https://github.com/rayniel95/COOL-Interpreter
+[17762246747112427201]: https://twitter.com/masiiie17
