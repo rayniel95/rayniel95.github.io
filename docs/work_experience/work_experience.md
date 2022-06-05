@@ -22,7 +22,7 @@ Havana, Cuba
 <!-- extend this -->
 
 Stack:
-: Solana, Amazon Web Services (AWS), Python, TypeScript, Rust, Anchor, Serverless Framework, XState, React, BitBucket, GraphQl, Boto3, GQL (GraphQl client), AnchorPy, PyTest.
+: Solana, Amazon Web Services (AWS), Python, TypeScript, Rust, Anchor, Serverless Framework, XState, React, BitBucket, GraphQl, Boto3, GQL (GraphQl client), AnchorPy, PyTest, Node.js.
 <!-- extend the keywords section -->
 *keywords*:
 : Blockchain, Cryptography, Asymmetric Cryptography, AWS Lambda Functions, AWS Step Functions, AWS AppSync, State Machines, AWS DynamoDB, AWS CloudFormation, Hash, Asymetric Encryption, AWS ApiGateway.
