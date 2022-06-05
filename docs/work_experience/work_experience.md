@@ -8,8 +8,8 @@ Havana, Cuba
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 
-- Attended to daily meetings with the team to coordinate tasks and potentials problems in the develompent of the solution.
-- Proposed the use of cryptography techniques (e.g. password salting) to store the user data on the contract improving security.
+- Attended to daily meetings with the team to coordinate tasks and find potentials problems in the develompent of the solution.
+- Proposed the use of cryptographic techniques (e.g. password salting) to store the user data on the smart contract improving security.
 - Designed, implemented and deployed the smart contract.
 - Designed and implemented a state machine for the smart contract to guarantee a correct information flow improving security.
 - Implemented a simple technique to serialize floating point numbers in Anchor, helping to add new functionalities to the smart contract.
@@ -51,7 +51,7 @@ AgTrace is a Brazilian startup that proposes a blockchain traceability solution 
 - Created, and reviewed with the client, examples about the tokenization in permissioned blockchain networks using an information flow based in Hyperledger Fabric.
 
 Stack:
-: Corda, Kotlin, Java, AWS EC2, AWS, Docker, Docker-compose, Thunder, Api Rest.
+: Corda, Kotlin, Java, AWS EC2, AWS, Docker, Docker-compose, Thunder Client, Api Rest.
 
 *keywords*:
 : Blockchain, Cryptography, Public Key Infrastructure, Cryptographic Certificates, Asymmetric Cryptography, X509 Certificates.
