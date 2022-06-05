@@ -60,6 +60,30 @@ Stack:
 
 ---
 
+## [**RayTok**][922089755782360350]
+
+*January 2021 - January 2021*
+
+RayTok is a simple smart contract implemented using Solidity that follow the 
+ERC721 token (Non Fungible Token, NFT) interface. It has the special capability to 
+store the hash of the NFT data, this avoid modification of the data on the offchain 
+storage.
+
+- Tested the smart contract using Ganache to find bugs prior to instantiation on the network.
+- Deployed the smart contract on Ropsten testnet to test it on a realistic environment.
+- Used OpenZeppelin contracts to create a more secure and error prune implementation.
+- Modified the mint function to store the hash of the data onchain for avoid modifications of the NFT offchain.
+
+Stack:
+: Truffle, Solidity, Ganache, OpenZeppelin, Metamask, NodeJS, Geth, Etherscan.
+
+*keywords*:
+: Blockchain, Cryptography, Asymmetric Cryptography, Hash, Asymetric Encryption.
+
+[922089755782360350]: https://github.com/rayniel95/RayTok-Project
+
+---
+
 ## **Blockchain system for medical records storage.**
 
 *Undergraduate thesis project*

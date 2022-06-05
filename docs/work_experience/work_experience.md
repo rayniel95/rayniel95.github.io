@@ -19,6 +19,7 @@ Havana, Cuba
 <!-- - Fixed aws step functions code, improve readability of this -->
 - Implemented an AWS Lambda function to query the blockchain to know the different status of the sended transactions.
 - Used AWS Lambda functions to implement the backend functionalities.
+<!-- add the solend and jupiter work, xstate -->
 <!-- extend this -->
 
 Stack:
