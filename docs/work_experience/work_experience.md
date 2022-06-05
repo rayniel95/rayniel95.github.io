@@ -6,13 +6,15 @@
 
 Havana, Cuba
 
+Elasbit is a Chilean company that had the idea to create a NFT collection and some games based in this collection. The basic idea was to sell the NFTs to users and give special rewards in the games to the NFTs owners. The client already had the solution to mint the NFTs using Metaplex but he had not the necessary smart contracts for the games. Using my experience in Rust, smart contracts and blockchain I was capable to quickly learn about Solana blockchain and create the smart contract for the games. I reviewed dozens of smart contracts deployed in Solana and this help me to learn about common architectural patterns, this patterns was applied to the implemented smart contract improving performance, readability, code quality, genericity, user trust and security.
 <!-- small description about the client and its requirements or problems, how I solve it -->
 
 - Attended to daily meetings with the team to coordinate tasks and find potentials problems in the develompent of the solution.
 - Proposed the use of cryptographic techniques (e.g. password salting) to store the user data on the smart contract improving security.
-- Designed, implemented and deployed the smart contract.
+- Designed, in coordination with the Product Manager, the smart contract.
+- Implemented and deployed the smart contract.
 - Designed and implemented a state machine for the smart contract to guarantee a correct information flow improving security.
-- Implemented a simple technique to serialize floating point numbers in Anchor, helping to add new functionalities to the smart contract.
+- Implemented a technique to serialize floating point numbers in Anchor, helping to add new functionalities to the smart contract.
 - Tested the smart contract to guarantee the correctness of the solution.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Attended to meetings with the Product Manager to propose or define the features (improvement to features) of the smart contract.
@@ -47,7 +49,7 @@ AgTrace is a Brazilian startup that proposes a blockchain traceability solution 
 - Created a decentralized Corda network using AWS EC2 instances and Docker.
 - Deploy the Corda nodes in Docker containers inside AWS EC2 instances.
 - Fixed, modified and improved Corda open source tools to create the necessary crypto artifacts used for the network (e.g. [Network parameter signer][11758297596384249371]).
-- Deployed the client Crodapp to the created network.
+- Deployed the client Cordapp to the created network.
 - Tested the Cordapp endpoints to guarantee the correctness of the solution.
 - Created, and reviewed with the client, examples about the tokenization in permissioned blockchain networks using an information flow based in Hyperledger Fabric.
 
