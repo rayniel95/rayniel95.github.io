@@ -1,3 +1,67 @@
+## **Blockchain developer | Backend developer**
+
+[Elasbit][13867795755687497761]
+
+*January, 2022 – May, 2022*
+
+Havana, Cuba
+
+<!-- small description about the client and its requirements or problems, how I solve it -->
+
+- Attended to daily meetings with the team to coordinate tasks and potentials problems in the develompent of the solution.
+- Proposed the use of cryptography techniques (e.g. password salting) to store the user data on the contract improving security.
+- Designed, implemented and deployed the smart contract.
+- Designed and implemented a state machine for the smart contract to guarantee a correct information flow improving security.
+- Implemented a simple technique to serialize floating point numbers in Anchor, helping to add new functionalities to the smart contract.
+- Tested the smart contract to guarantee the correctness of the solution.
+- Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
+- Attended to meetings with the Product Manager to propose or define the features (improvement to features) of the smart contract.
+<!-- - Fixed aws step functions code, improve readability of this -->
+- Implemented an AWS Lambda function to query the blockchain to know the different status of the sended transactions.
+- Used AWS Lambda functions to implement the backend functionalities.
+<!-- extend this -->
+
+Stack:
+: Solana, Amazon Web Services (AWS), Python, TypeScript, Rust, Anchor, Serverless Framework, XState, React, BitBucket, GraphQl, Boto3, GQL (GraphQl client), AnchorPy, PyTest.
+<!-- extend the keywords section -->
+*keywords*:
+: Blockchain, Cryptography, Asymmetric Cryptography, AWS Lambda Functions, AWS Step Functions, AWS AppSync, State Machines, AWS DynamoDB, AWS CloudFormation, Hash, Asymetric Encryption, AWS ApiGateway.
+
+[13867795755687497761]: https://www.linkedin.com/company/elasbit/
+
+---
+
+## **Blockchain developer**
+
+[AgTrace][13179854458968804319] ([Web page][12149870873725910779])
+
+*October, 2021 – November, 2021*
+
+Havana, Cuba
+
+AgTrace is a Brazilian startup that proposes a blockchain traceability solution to track all stages of the food chain. The client already had a Crodapp (Corda smart contracts definition) implemented, but he had not the necessary permissioned network to get the cordapp up and running. Because Corda is a permissioned blockchain the idea was to create a network to deploy the cordapp. Using my previous experience with permissioned blockchains (e.g. Hyperledger Fabric) I was capable to implement a Corda network with all the necessary components to deploy the client solution.
+<!-- small description about the client and its requirements or problems, how I solve it -->
+
+- Proposed, and analyzed with the client, multiples blockchain architectures to deploy the client solution.
+- Created a decentralized Corda network using AWS EC2 instances and Docker.
+- Deploy the Corda nodes in Docker containers inside AWS EC2 instances.
+- Fixed, modified and improved Corda open source tools to create the necessary crypto artifacts used for the network (e.g. [Network parameter signer][11758297596384249371]).
+- Deployed the client Crodapp to the created network.
+- Tested the Cordapp endpoints to guarantee the correctness of the solution.
+- Created, and reviewed with the client, examples about the tokenization in permissioned blockchain networks using an information flow based in Hyperledger Fabric.
+
+Stack:
+: Corda, Kotlin, Java, AWS EC2, AWS, Docker, Docker-compose, Thunder, Api Rest.
+
+*keywords*:
+: Blockchain, Cryptography, Public Key Infrastructure, Cryptographic Certificates, Asymmetric Cryptography, X509 Certificates.
+
+[13179854458968804319]: https://www.linkedin.com/company/agtrace/
+[12149870873725910779]: https://agtrace.ag/
+[11758297596384249371]: https://rayniel95.github.io/projects/projects/#network-parameters-signer
+
+---
+
 ## **Blockchain developer, researcher and professor**
 
 [Havana University][10501492827982229945]

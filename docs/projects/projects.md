@@ -1,6 +1,8 @@
 
 ## [**Network Parameters Signer**][16722939611573859034]
 
+[AgTrace][13179854458968804319] ([Web page][12149870873725910779])
+
 *October 2021 - November 2021*
 
 It is very difficult to create a blockchain project with Corda Open Source blockchain due that some crypto artifacts are very difficult to create. One of the most important artifacts are the network parameters. The Network Parameters is a crypto artifact that established the value of some network parameters, this crypto artifact should be accepted by all the nodes on a Corda Network, creating a consensus about the proposed parameters. The Network Parameters file should be signed by the network administrator and spread across all nodes. The R3 team was developing an experimental tool to create and sign this artifact but this tool was incomplete. I fixed some bugs and completed the most important functionalities of this tool and now it is completely functional. The Corda Network Parameters Signer is a tool that can be used for create the network parameter. This tool automates the creation of this artifact using a simple command line where you can pass the configuration.
@@ -17,7 +19,8 @@ Stack:
 : Blockchain, Cryptography, Public Key Infrastructure, Cryptographic Certificates, Asymmetric Cryptography, X509 Certificates, Command Line Application.
 
 [16722939611573859034]: https://github.com/rayniel95/corda
-
+[13179854458968804319]: https://www.linkedin.com/company/agtrace/
+[12149870873725910779]: https://agtrace.ag/
 ---
 <!-- TODO - add github profile of people related with me -->
 ## [**RainyelLedger**][13905224447409724230]
@@ -136,7 +139,7 @@ Stack:
 [17437010825980564200]: https://github.com/rayniel95/Enog
 
 ---
-<!-- NOTE - poner los links en las parted donde hacen falta de forma tal que no se tenga que meter uno a buscarlos entre un bulto si es necesario pasar el texto con el link a otra pagina -->
+<!-- NOTE - poner los links en las parted donde hacen falta de forma tal que no se tenga que meter uno a buscarlos entre un bulto si es necesario pasar el texto con el link a otra pagina, this mean to put the links in the same section where are necessary -->
 ## [**COOL Interpreter**][3141550080493653788]
 
 *July 2019 - August 2019*

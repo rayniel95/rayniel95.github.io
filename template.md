@@ -86,7 +86,7 @@ Company register: public register, number, country, director, president, etc.
 
 ## 💻 Projects
 Project name (with link to code or other)
-
+*Company if was for a company* (with link to the company website or linkedin profile)
 *from 1500 to 2000*
 
 very good description
