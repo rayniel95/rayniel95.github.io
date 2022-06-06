@@ -23,10 +23,10 @@ Elasbit is a Chilean company that had the idea to create a NFT collection and so
 - Used AWS Lambda functions to implement the backend functionalities.
 <!-- add the solend and jupiter work, xstate -->
 <!-- extend this -->
-<!-- proposed a trusless architecture for the smart contract, helping to delete the user trust on the backend, extend this -->
+<!-- proposed a trusless architecture for the smart contract, helping to delete the user trust on the backend, extend this, add actor model etc. -->
 
 Stack:
-: Solana, Amazon Web Services (AWS), Python, TypeScript, Rust, Anchor, Serverless Framework, XState, React, BitBucket, GraphQl, Boto3, GQL (GraphQl client), AnchorPy, PyTest, Node.js.
+: Solana, Amazon Web Services (AWS), Python, TypeScript, Rust, Anchor, Serverless Framework, XState, React, BitBucket, GraphQl, Boto3, GQL (GraphQl client), AnchorPy, PyTest, Node.js, Mocha, Chai, Solana Web3.
 <!-- extend the keywords section -->
 *keywords*:
 : Blockchain, Cryptography, Asymmetric Cryptography, AWS Lambda Functions, AWS Step Functions, AWS AppSync, State Machines, AWS DynamoDB, AWS CloudFormation, Hash, Asymmetric Encryption, AWS ApiGateway.
