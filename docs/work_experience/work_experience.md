@@ -18,20 +18,40 @@ Elasbit is a Chilean company that had the idea to create a NFT collection and so
 - Tested the smart contract to guarantee the correctness of the solution.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Attended to meetings with the Product Manager to propose or define the features (improvement to features) of the smart contract.
-<!-- - Fixed aws step functions code, improve readability of this -->
 - Implemented an AWS Lambda function to query the blockchain to know the different status of the sent transactions.
 - Used AWS Lambda functions to implement the backend functionalities.
-<!-- add the solend and jupiter work, xstate -->
-<!-- extend this -->
-<!-- proposed a trusless architecture for the smart contract, helping to delete the user trust on the backend, extend this, add actor model etc. -->
+- Designed, implemented and tested the frontend state machines using XState, guaranteeing a correct information flow in the frontend, improving code quality and readability, improving security and helping to separate the frontend logic from the components.
+- Helped to design the frontend state machines to get a visual representation of the frontend information flow.
+- Used the pattern of actor model in the state machines of the frontend improving code quality.
+- Researched about Solend (lending/borrow platform in Solana) and Jupiter (swap aggregator platform in Solana) and how to use its APIs.
+- Fixed AWS Step Functions using Serverless Framework.
+- Used the branching model of git flow to get a better organization in the project development.
+- Proposed a trustless architecture for the smart contract using economics incentives, helping to delete the user trust on the backend.
+- Helped to integrate frontend and backend services using subscription pattern.
+- Integrated the backend with the smart contract.
+
+*Others team members*:
+<!-- maybe extend this with more public profiles? -->
+- [Alexei Zubizarreta Perez][13534660307270064242] (Client | Product Manager | Software Architect)
+- [Yunier Saborit Ramirez][4717740148338514572] (Software Engineer | Cloud Engineer | Cloud Architect)
+- [Raúl Adolfo Borrego Marqués][6791920054263918469] (FrontEnd Developer)
+- [Yosdany Blanco Miranda][14043378700231257559] (Frontend Engineer)
+- [Yadisnel Galvez Velázquez][17304740910670422272] (Backend Developer | Cloud Engineer)
+- [Adrian Páez Ruiz][2392998612686244556] (Backed Developer)
 
 Stack:
-: Solana, Amazon Web Services (AWS), Python, TypeScript, Rust, Anchor, Serverless Framework, XState, React, BitBucket, GraphQl, Boto3, GQL (GraphQl client), AnchorPy, PyTest, Node.js, Mocha, Chai, Solana Web3.
+: Solana, Amazon Web Services (AWS), Python, TypeScript, Rust, Anchor Framework, Serverless Framework, XState, React, BitBucket, GraphQL, Boto3, GQL (GraphQL client), AnchorPy, PyTest, Node.js, Mocha, Chai, Solana Web3.
 <!-- extend the keywords section -->
 *keywords*:
-: Blockchain, Cryptography, Asymmetric Cryptography, AWS Lambda Functions, AWS Step Functions, AWS AppSync, State Machines, AWS DynamoDB, AWS CloudFormation, Hash, Asymmetric Encryption, AWS ApiGateway.
+: Blockchain, Cryptography, Asymmetric Cryptography, AWS Lambda Functions, AWS Step Functions, AWS AppSync, State Machines, AWS DynamoDB, AWS CloudFormation, Hash, Asymmetric Encryption, AWS ApiGateway, WebSockets.
 
 [13867795755687497761]: https://www.linkedin.com/company/elasbit/
+[4717740148338514572]: https://www.linkedin.com/in/yunier-saborit-ram%C3%ADrez-52133a84/
+[13534660307270064242]: https://www.linkedin.com/in/alexei-zubizarreta-p%C3%A9rez-906ba68/
+[6791920054263918469]: https://www.linkedin.com/in/ra%C3%BAl-adolfo-borrego-marqu%C3%A9s-85940019b/
+[14043378700231257559]: https://www.linkedin.com/in/yosdanybm/
+[17304740910670422272]: https://www.linkedin.com/in/yadisnel/
+[2392998612686244556]: https://www.linkedin.com/in/adrianpaez/
 
 ---
 
@@ -54,6 +74,10 @@ AgTrace is a Brazilian startup that proposes a blockchain traceability solution 
 - Tested the Cordapp endpoints to guarantee the correctness of the solution.
 - Created, and reviewed with the client, examples about the tokenization in permissioned blockchain networks using an information flow based in Hyperledger Fabric.
 <!-- add that was established a constant communication between the client and me, i continuosly propose new features and improvements to my proposed solution and to the client solution -->
+*Others team members*:
+
+- [Andre Maltz Turkienicz][11922009634060010792] (Client)
+- [Alberto Tormos Leiva][15324297663112323547] (Client)
 
 Stack:
 : Corda, Kotlin, Java, AWS EC2, AWS, Docker, Docker-compose, Thunder Client, Api Rest.
@@ -64,6 +88,8 @@ Stack:
 [13179854458968804319]: https://www.linkedin.com/company/agtrace/
 [12149870873725910779]: https://agtrace.ag/
 [11758297596384249371]: https://rayniel95.github.io/projects/projects/#network-parameters-signer
+[11922009634060010792]: https://www.linkedin.com/in/andre-maltz-turkienicz-9a486523/
+[15324297663112323547]: https://www.linkedin.com/in/alberto-tormos-leiva-376055138/
 
 ---
 

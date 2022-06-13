@@ -79,10 +79,11 @@ Usefull links with descriptions:
 
 links to photos (certificates), presentations, code, notebooks, solved exercises,  documents to show my education
 
+Stack: superframework (link to official page), superlanguage (link to official page), ...
+
 keywords: creepycomputersciencefield, rarenametechnology, ...
 
 Company register: public register, number, country, director, president, etc.
-
 
 ## 💻 Projects
 Project name (with link to code or other)
