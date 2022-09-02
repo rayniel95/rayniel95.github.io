@@ -1,4 +1,4 @@
-
+<!-- TODO - add the topics, the most important topic, example: sql, heap, recursion, loops, iterators, etc. take a look to the plan tematico or plan e of computer science -->
 - Advanced Data Structures
 
 - Algebra I

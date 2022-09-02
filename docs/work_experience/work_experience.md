@@ -121,6 +121,8 @@ Co-workers:
 - [Yessica Caridad Castaño Sainz][6035990843617390936] ([ResearchGate][14416748475173451428])
 - [Kamilo Denis Gonzalez][2444704373763869055] ([Github][16945575433379891358] | [StackOverflow][3099919609106716666])
 
+<!-- TODO - where is mustelier and magdiel? -->
+
 [16945575433379891358]: https://github.com/kmilodenisglez
 [3099919609106716666]: https://stackoverflow.com/users/14446491/kmilo-denis-gonzalez
 [17715180797249903301]: https://github.com/krafugo

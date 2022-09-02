@@ -2,7 +2,7 @@
 
 # 👋 Hi there, my name is Rainyel Ramos González
 
-<img src="assets/images/me2.png" alt="me" style="zoom: 15%;" />
+<img src="assets/images/me3.jpg" alt="me" style="zoom: 15%;" />
 
 *La Habana, Cuba*
 
