@@ -43,6 +43,4 @@ I am a young computer scientist graduate in Havana University, Cuba. I graduated
 
 <!-- explicar que si bien no soy un experto en ninguna tecnologia soy una persona que me gusta conocer y jugar con nuevas tecnologias ademas de que me gusta escoger la tecnologia correcta para el proyecto y prefiero invertir un tiempo en investigar la mejor tecnologia y aprenderla que tirarle con lo que ya se y q probablemente me sea mas complejo -->
 
-<!-- poner el email intitucional al incio de la pagina y que puede usarse para verificar mi rol como profesor en la uh -->
-
 <!-- en la seccion de trabajo explicar que en la universidad somos un grupo pequeno q intenta introducir la tecnologia blockchain en cuba que tenemos muchos proyectos desde cuba y que somos ingenieros, matematicos cientificos de la computacion, etc. somos muy pocos los que tenemos experiencia de programacion -->

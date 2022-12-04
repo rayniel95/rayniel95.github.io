@@ -5,8 +5,8 @@ edit_uri: ""
 
 theme:
   name: material
-  logo: assets/images/me2.png
-  favicon: assets/images/me2.png
+  logo: assets/images/me3.png
+  favicon: assets/images/me3.png
   features:
     - navigation.top
   icon:
