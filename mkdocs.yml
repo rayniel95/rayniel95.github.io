@@ -5,8 +5,8 @@ edit_uri: ""
 
 theme:
   name: material
-  logo: assets/images/me3.png
-  favicon: assets/images/me3.png
+  logo: assets/images/me3-modified.png
+  favicon: assets/images/me3-modified.png
   features:
     - navigation.top
   icon:
@@ -32,7 +32,14 @@ plugins:
 
 nav: 
   - 😃 About me: index.md
-  - 🏢 Work experience: ./work_experience/work_experience.md
+  - 🏢 Work experience: 
+    - Connect Improvement: ./work_experience/datamart/connect.md 
+    - Onboarding: ./work_experience/datamart/onboarding.md  
+    - Solana LadyBugs: ./work_experience/solana_ladybugs.md
+    - AgTrace Blockchain: ./work_experience/agtrace_blockchain.md
+    - Havana University: ./work_experience/havana_university.md
+    - Artemisa University: ./work_experience/artemisa_university.md
+    
   - 💻 Projects: ./projects/projects.md
   - 💪 Skills: ./skills/skills.md
   - 📝 Education: ./education/education.md
