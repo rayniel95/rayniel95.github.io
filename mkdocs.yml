@@ -33,8 +33,9 @@ plugins:
 nav: 
   - 😃 About me: index.md
   - 🏢 Work experience: 
-    - Connect Improvement: ./work_experience/datamart/connect.md 
-    - Onboarding: ./work_experience/datamart/onboarding.md  
+    - datamart: 
+      - Connect Improvement: ./work_experience/datamart/connect.md 
+      - Onboarding: ./work_experience/datamart/onboarding.md  
     - Solana LadyBugs: ./work_experience/solana_ladybugs.md
     - AgTrace Blockchain: ./work_experience/agtrace_blockchain.md
     - Havana University: ./work_experience/havana_university.md

@@ -15,7 +15,10 @@
 
 Havana, Cuba
 
-<!-- Elasbit is a Chilean company that had the idea to create a NFT collection and some games based in this collection. The basic idea was to sell the NFTs to users and give special rewards in the games to the NFTs owners. The client already had the solution to mint the NFTs using Metaplex but he had not the necessary smart contracts for the games. Using my experience in Rust, smart contracts and blockchain I was capable to quickly learn about Solana blockchain and create the smart contract for the games. I reviewed dozens of smart contracts deployed in Solana and this help me to learn about common architectural patterns, this patterns was applied to the implemented smart contract improving performance, readability, code quality, genericity, user trust and security. -->
+<!-- who is the client, what the client have, what the client want, what i can do -->
+
+This project is related to increase the systems functionalities of datamart clients. The basic idea of this project is to improve a SaaS platform that could be used by datamart clients employees. This platform offer multiple information (generally financial information) about people, most of this information is public but Connect offer it in a single place and in a easy to access, easy to consume way. My work was about to help in the platform's improvement process proposing and implementing ideas to reduce the system response time or refactoring the code to gain readability. The platform was already created. I had not many experience about how to implement the tasks requested but thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the platform code, to propose ideas to reduce the platform response time, to migrate part of the codebase of the platform from one technology to another one, to learn about AWS Lambda functions, AWS Aurora MySql database AWS Appsync, Velocity Template Language (VTL), Serverless Framework and others AWS and cloud technologies to implement all the necessary tasks.
+
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
@@ -44,7 +47,7 @@ Havana, Cuba
 - Asked the details about the system architecture/information flow/microservices integration to others more experienced developers to have a better understanding of the system.
 - Exposed in the daily meetings the progress of my tasks, helping to others to understand my progress and the implementation of my tasks.
 - Proposed the use of SQL Functions and Procedures to implement some backend functionalities to help to reduce the system's response time.
-- Tested the new system capabilities with Scrum Master and Product Owner.
+- Tested the new system capabilities with the Scrum Master and Product Owner.
 - Received questions and help request from others developers and helped to fix their issues making suggestions about how to test/implement a specific functionality.
 
 *Others team members*:
