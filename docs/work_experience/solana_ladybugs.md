@@ -41,7 +41,7 @@ Elasbit is a Chilean company that had the idea to create a NFT collection and so
 - Attended to daily meetings with the team to coordinate tasks and find potentials problems in the development of the solution.
 - Attended to meetings with the Product Manager to propose or define the features (improvement to features) of the smart contract.
 - Shared blockchain knowledge with others developers to help them to build the solution.
-- Introduced the system solution to newcomers team members.
+- Introduced the system solution to newcomers team members onboarding they in less than three days.
 - Helped to install the necessary frameworks/libraries/tools to newcomers team members increasing the incorporation speed of the new teammates to the project.
 - Explained the code/implementation of the solution to newcomers team members increasing the incorporation speed of the new teammates to the project.
 - Asked for help to others more experienced developers to solve difficult issues in my implementation/code.
