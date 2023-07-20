@@ -21,24 +21,25 @@ systems and employees can interact with the platform. My work was about to creat
 ### Hard / Technical achievements
 
 - Added the functionality to use a email custom template, that was store in AWS S3, to an AWS Lambda that send OTPs (One Time Password) to employees email. This help to add genericity to this microservice open the possibility to be used in others datamart products.
-- Implemented an AWS API Gateway (Rest API) with more than 15 endpoints that act as a proxy to an AWS Appsync (GraphQl) microservice and where the Rankmi
-system could communicate with datamart system.
+- Implemented multiples AWS API Gateway (Rest API) with more than 20 endpoints that act as a proxy to an AWS Appsync (GraphQl) (or others microservices) and where the Rankmi system could communicate with datamart system.
 - Added AWS API Gateway natives validators to check the correctness of the request parameters sent by Rankmi systems. Reducing the numbers of errors in more than 80%.
-- Wrote multiple data transformation in AWS Api Gateway using VTL prior to resend the request to a AWS Appsync.
-- Migrated more than 5k of lines of code (undocumented) in Python to Velocity Template Language (VTL) in AWS Appsync.
-- Transformed AWS Lambdas code in AWS Appsync pipelines, migrating the code logic from lambdas to appsync endpoints. This help to delete the lambdas cold start and reduce the response time from 6-5 seconds to 3-2 seconds.
-- Researched about the possibility of use SQL Functions and Procedures to implement the AWS Lambdas functionalities in the AWS Aurora MySql database. The idea of this research was to migrate the lambdas code to SQL and reduce the system's response time.
-- Integrated AWS Appsync with AWS Aurora RDS MySql database using VTL.
+- Wrote multiple data transformation in AWS Api Gateway (AWS Appsync) using VTL prior to resend the request to a AWS Appsync (or other microservices).
+- Added AWS Cloud Watch Log Groups to all the microservices to monitor the system and trace the errors.
+- Implemented a AWS Step Function to manage the workflow of multiple api calls to different microservice and data manipulation in a serverless way. Reducing the cost and execution time of the microservice.
+- Used AWS Lambda PowerTools to parse, check and validate the request sent to AWS Lambdas resources improving code readability, maintainability, quality, scalability and reutilization.
+- Designed and implemented a GraphQl Shema with more than 20 endpoints that include mutations, queries and subscriptions (communication through websockets with the frontend) and was used by an AWS Appsync to manage most of the logic of the system.
+- Used best security practice for users authentication with JWT (Json Web Tokens) through AWS Cognito. Allowing to communicate with the system to just the users that were authenticated in Rankmi.
+- Created and fixed multiples endpoints using Django Rest Framework.
+- Implemented complex SQL queries to create pagination in paginate endpoints.
+- Integrated AWS Appsync with AWS Step Functions using VTL.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
-- Open hotfixes to directly patch bugs in production code (on Fridays :grin:).
 - Used AWS SSM to read and store parameter to guarantee parameters passing between AWS Stacks.
 - Used the branching model of git flow to get a better organization in the project development.
-- Extended the system capabilities adding new Python classes to a class hierarchy following Object Oriented Programming best practices and helping to encapsulate, extend and reutilize the new code in the future.
-- Periodically monitored AWS SQS queues to alert about possible issues in the system helping to solve errors before users reported them.
 - Tested VTL AWS Appsync templates using AWS SDK to guarantee the correctness of the solution and to improve code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Received issues found by others team members to be fixed for me before users reported them.
-- Used Postman to make queries to AWS Appsync endpoints.
+- Used Postman to make queries to AWS Appsync and AWS API Gateways endpoints.
+- Proposed architecture changes to hard code fixed data in VTL code instead of store it in database. Helping to reduce costs associates with databases and complexity in the system implementation.
 
 ### Soft achievements
 
@@ -58,9 +59,10 @@ system could communicate with datamart system.
 - [Alena][17304740910670422272] (Scrum Master)
 - [Yosdany][2392998612686244556] (Senior Frontend Developer)
 - [Adalberto][] (DevOps | SecOps | FinOps Engineer)
+- [Eder Despaigne Herrera](https://cu.linkedin.com/in/eder-despaigne-herrera-4185501b6) (DevOps | SecOps | FinOps Engineer)
 
 Stack:
-: Amazon Web Services (AWS), Python, Velocity Template Language (VTL), Serverless Framework, GraphQL, Boto3, GQL (GraphQL client), AWS Appsync, Postman, JSON Schema Draft 4, Yaml, AWS Lambda, AWS S3, AWS API Gateway (Rest API).
+: Amazon Web Services (AWS), Python, Velocity Template Language (VTL), Serverless Framework, GraphQL, Boto3, GQL (GraphQL client), AWS Appsync, Postman, JSON Schema Draft 4, Yaml, AWS Lambda, AWS S3, AWS API Gateway (Rest API), AWS Step Function, Django Rest Framework (DRF), AWS Lambda PowerTools, SQL.
 <!-- extend the keywords section -->
 *keywords*:
-: Architecture Diagrams, AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC).
+: Architecture Diagrams, AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), AWS Native (Serverless Infrastructure).
