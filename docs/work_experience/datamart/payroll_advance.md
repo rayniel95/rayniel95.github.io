@@ -29,9 +29,9 @@ systems and employees can interact with the platform. My work was about to creat
 - Used AWS Lambda PowerTools to parse, check and validate the request sent to AWS Lambdas resources improving code readability, maintainability, quality, scalability and reutilization.
 - Designed and implemented a GraphQl Shema with more than 20 endpoints that include mutations, queries and subscriptions (communication through websockets with the frontend) and was used by an AWS Appsync to manage most of the logic of the system.
 - Used best security practice for users authentication with JWT (Json Web Tokens) through AWS Cognito. Allowing to communicate with the system to just the users that were authenticated in Rankmi.
-- Created and fixed multiples endpoints using Django Rest Framework.
-- Implemented complex SQL queries to create pagination in paginate endpoints.
-- Integrated AWS Appsync with AWS Step Functions using VTL.
+- Created and fixed multiples endpoints using Django Rest Framework improving code readability.
+- Implemented complex SQL queries to create pagination in paginate endpoints improving system performance.
+- Integrated AWS Appsync with AWS Step Functions using VTL (AWS Native/Serverless programming) to improve system performance and reduce costs.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Used AWS SSM to read and store parameter to guarantee parameters passing between AWS Stacks.
 - Used the branching model of git flow to get a better organization in the project development.
