@@ -34,10 +34,13 @@ nav:
   - 😃 About me: index.md
   - 🏢 Work experience: 
     - datamart: 
+      - Payroll Advance: ./work_experience/datamart/payroll_advance.md 
       - Connect Improvement: ./work_experience/datamart/connect.md 
       - Onboarding: ./work_experience/datamart/onboarding.md  
-    - Solana LadyBugs: ./work_experience/solana_ladybugs.md
-    - AgTrace Blockchain: ./work_experience/agtrace_blockchain.md
+    - elasbit:
+      - Solana LadyBugs: ./work_experience/solana_ladybugs.md
+    - agTrace:
+      - AgTrace Blockchain: ./work_experience/agtrace_blockchain.md
     - Havana University: ./work_experience/havana_university.md
     - Artemisa University: ./work_experience/artemisa_university.md
     
