@@ -15,13 +15,16 @@ Havana, Cuba
 <!-- who is the client, what the client have, what the client want, what i can do -->
 
 This project is related to increase the systems functionalities of Rankmi. The basic idea of this project was to create a SaaS platform that could be used by Rankmi employees to create payroll advance requests. This platform offer the functionality to manage (create, list, view status, delete, etc.) the payroll advance requested by employees to them employers through Rankmi. A widget is offered by datamart, this widget can be embed into Rankmi web
-systems and employees can interact with the platform. My work was about to create the functionalities of this SaaS platform. The architecture of the system was already created. I had some experience thanks to my previous work in datamart and thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the system architecture, to implement the different subsystems and microservices needed and to learn about AWS Lambda functions, AWS Step Functions, AWS Appsync (GraphQl), Velocity Template Language (VTL), AWS API Gateway (Rest API), Serverless Framework and others AWS and cloud technologies implementing all the necessary tasks using Infrastructure as Code (IaC).
+systems and employees can interact with the platform. My work was about to create the functionalities of this SaaS platform. The architecture of the system was already created. I had some experience thanks to my previous work in datamart and thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the system architecture, to implement the different subsystems and microservices needed and to learn about AWS Lambda functions, AWS Step Functions, AWS Appsync (GraphQl), Velocity Template Language (VTL), AWS API Gateway (Rest API), Serverless Framework and others AWS and cloud technologies implementing all the necessary tasks using Infrastructure as Code (IaC) and AWS native (serverless) programming.
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
 - Added the functionality to use a email custom template, that was store in AWS S3, to an AWS Lambda that send OTPs (One Time Password) to employees email. This help to add genericity to this microservice open the possibility to be used in others datamart products.
-- Analyzed more than 10k lines of code (undocumented) in Python to created a base architecture diagram of the system. This help to newcomers teammates to understand the microservices of the system, the interactions between them and the information flow between them.
+- Implemented an AWS API Gateway (Rest API) with more than 15 endpoints that act as a proxy to an AWS Appsync (GraphQl) microservice and where the Rankmi
+system could communicate with datamart system.
+- Added AWS API Gateway natives validators to check the correctness of the request parameters sent by Rankmi systems. Reducing the numbers of errors in more than 80%.
+- Wrote multiple data transformation in AWS Api Gateway using VTL prior to resend the request to a AWS Appsync.
 - Migrated more than 5k of lines of code (undocumented) in Python to Velocity Template Language (VTL) in AWS Appsync.
 - Transformed AWS Lambdas code in AWS Appsync pipelines, migrating the code logic from lambdas to appsync endpoints. This help to delete the lambdas cold start and reduce the response time from 6-5 seconds to 3-2 seconds.
 - Researched about the possibility of use SQL Functions and Procedures to implement the AWS Lambdas functionalities in the AWS Aurora MySql database. The idea of this research was to migrate the lambdas code to SQL and reduce the system's response time.
@@ -57,7 +60,7 @@ systems and employees can interact with the platform. My work was about to creat
 - [Adalberto][] (DevOps | SecOps | FinOps Engineer)
 
 Stack:
-: Draw.io, Amazon Web Services (AWS), Python, Velocity Template Language (VTL), Serverless Framework, BitBucket, GraphQL, Boto3, GQL (GraphQL client), PyTest, AWS Appsync, Postman.
+: Amazon Web Services (AWS), Python, Velocity Template Language (VTL), Serverless Framework, GraphQL, Boto3, GQL (GraphQL client), AWS Appsync, Postman, JSON Schema Draft 4, Yaml, AWS Lambda, AWS S3, AWS API Gateway (Rest API).
 <!-- extend the keywords section -->
 *keywords*:
 : Architecture Diagrams, AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC).
