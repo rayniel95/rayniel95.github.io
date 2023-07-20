@@ -1,5 +1,3 @@
-**this page is under construction, most of the text is a template that I created and I am tranforming into a detailed cv :)**
-
 # 👋 Hi there, my name is Rainyel Ramos González
 
 <img src="assets/images/me3.jpg" alt="me" style="zoom: 15%;" />
@@ -17,6 +15,8 @@
 ## Summary
 I am a young computer scientist graduate in Havana University, Cuba. I graduated in November, 2020. Passionate about machine learning, blockchain technology, distributed systems and cryptography, I have read some interesting books: Distributed Systems written by Andrew S. Tanenbaum, Decentralized Applications written by Siraj Raval, Architecture for Blockchain Applications written by Xiwei Xu, Data mining: Practical machine learning tools and techniques written by Ian H. Witten, and many papers in www.researchgate.net. My interest in distributed systems started when I implemented Chord DHT in a project, I was fascinated with the auto estabilize property of this data structure. I am a hard-working, inquisitive, creative and enthusiastic computer scientist with a strong theoretical background in distributed systems, machine learning, blockchain technology, programming and math. Skilled in collaboration, adaptability and communication. Experience of more than a year in blockchain and more than 4 years of experience in software development. I like to learn new languages and technologies related with machine learning, blockchain, distributed systems and cryptography.
 
+**Actually looking for a job blockchain related** Minimum monthly: 1k USD
+
 [4645735809913269750]: https://linkedin.com/in/rainyel-ramos
 [3501107990439883582]: https://github.com/rayniel95
 [1452774931573403772]: https://youtube.com/channel/UCLfQBlFqyxWjXTiET5uYtKg
@@ -31,9 +31,7 @@ I am a young computer scientist graduate in Havana University, Cuba. I graduated
 <!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
 <!-- si la persona que voy a poner no tiene informacion publica como researchgate, linkedin, etc. trato de poner algun articulo publico donde haya una foto de la misma -->
 <!-- to put correctly abreviations -->
-<!-- to use some program to check broken links and delete it, implement it on golang -->
 <!-- maybe write the name of some fields-->
-<!-- explicar como me decante por blockchain luego de hacer mi trabajo de distribuidos contar como busque departamentos especializado en eso pero no encontre y me quede con blockchian en criptografia y despues hice mi tesis, darle contexto a todo el cv para que se conozca lo q hice y por que lo hice -->
 
 <!-- poner al decano y a la vicedecana de la facultad en la seccion de estudios -->
 
