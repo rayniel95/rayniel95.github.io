@@ -17,7 +17,7 @@ Havana, Cuba
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
 
-This project is related to increase the systems functionalities of datamart clients. The basic idea of this project is to improve a SaaS platform that could be used by datamart clients employees. This platform offer multiple information (generally financial information) about people, most of this information is public but Connect offer it in a single place and in a easy to access, easy to consume way. My work was about to help in the platform's improvement process proposing and implementing ideas to reduce the system response time or refactoring the code to gain readability and stability. The platform was already created. I had not many experience about how to implement the tasks requested but thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the platform code, to propose ideas to reduce the platform response time, to migrate part of the codebase of the platform from one technology to another one, to learn about AWS Lambda functions, AWS Aurora MySql database AWS Appsync, Velocity Template Language (VTL) used in AWS Appsync functions, Serverless Framework and others AWS and cloud technologies to implement all the necessary tasks.
+This project is related to increase the systems functionalities of datamart clients. The basic idea of this project is to improve a SaaS platform that could be used by datamart clients employees. This platform offer multiple information (generally financial information) about people, most of this information is public but Connect offer it in a single place and in a easy to access, easy to consume way. My work was about to help in the platform's improvement process proposing and implementing ideas to reduce the system response time or refactoring the code to gain readability and stability. The platform was already created. I had not many experience about how to implement the tasks requested but thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the platform code, to propose ideas to reduce the platform response time, to migrate part of the codebase of the platform from one technology to another one, to learn about AWS Lambda functions, AWS Aurora MySql database AWS Appsync, Velocity Template Language (VTL) used in AWS Appsync functions, Serverless Framework and others AWS and cloud technologies to implement all the necessary tasks using Infrastructure as Code (IaC).
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
@@ -52,21 +52,18 @@ This project is related to increase the systems functionalities of datamart clie
 
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
-- [Felipe Maiz][13534660307270064242] (Product Owner)
-- [Pedro Torres][4717740148338514572] (Technical Project Lead | Software Engineer | Cloud Engineer | Backend Developer)
-- [Joaquin Milanes Shelton][6791920054263918469] (Cloud Developer | Backend Developer)
-- [Tania Barroso][14043378700231257559] (Frontend Developer)
-- [Daisy Gonzalez][17304740910670422272] (Scrum Master)
-- [Eduardo Luzua Gomez][2392998612686244556] (Frontend Developer)
-- [Yahima Vigo][2392998612686244556] (Scrum Master Lead)
-- [Eder Despaigne Herrera][] (DevOps | SecOps | FinOps Engineer)
-- [Rubiel Gonzalez Labarta][3404595272640824021] (Scrum Master)
+- [Felipe Maiz](https://cl.linkedin.com/in/felipe-maiz-astaburuaga-40670a66) (Product Owner)
+- [Pedro Torres](https://cu.linkedin.com/in/pedris11s) (Technical Project Lead | Software Engineer | Cloud Engineer | Backend Developer)
+- Joaquin Milanes Shelton (Cloud Developer | Backend Developer)
+- [Tania Barroso](https://cu.linkedin.com/in/tbarrosolopez) (Frontend Developer)
+- Daisy Gonzalez (Scrum Master)
+- Eduardo Luzua Gomez (Frontend Developer)
+- [Yahima Vigo](https://cl.linkedin.com/in/yahima-vigo) (Scrum Master Lead)
+- [Eder Despaigne Herrera](https://cu.linkedin.com/in/eder-despaigne-herrera-4185501b6) (DevOps | SecOps | FinOps Engineer)
+- [Rubiel Gonzalez Labarta](https://cu.linkedin.com/in/rubiel-gonzalez-labarta) (Scrum Master)
 
 Stack:
 : Draw.io, Amazon Web Services (AWS), Python, Velocity Template Language (VTL), Serverless Framework, BitBucket, GraphQL, Boto3, GQL (GraphQL client), PyTest, AWS Appsync, Postman.
 <!-- extend the keywords section -->
 *keywords*:
-: Architecture Diagrams, AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration.
-
-[11638806455083003844]: https://datamart.cl/
-[18371540063288679951]: https://www.linkedin.com/company/datamartcl/
+: Architecture Diagrams, AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC).
