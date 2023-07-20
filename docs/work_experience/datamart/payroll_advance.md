@@ -1,26 +1,26 @@
 ## **Project name: Payroll Advance**
 
-[Datamart][18371540063288679951] ([Web page][11638806455083003844])
+[Datamart](https://www.linkedin.com/company/datamartcl/) ([Web page](https://datamart.cl/))
 
 ##### Client:
-: [Rankmi][18371540063288679951] ([Web page][11638806455083003844])
+: [Rankmi](https://www.linkedin.com/company/rankmi/) ([Web page](https://www.rankmi.com/es/))
 
 ##### Role:
 : Backend developer | Cloud developer
 
-*August, 2022 - present*
+*August, 2022 - January, 2023*
 
 Havana, Cuba
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
 
-This project is related to increase the systems functionalities of Rankmi. The basic idea of this project was to create a SaaS platform that could be used by Rankmi employees to create payroll advance requests. This platform offer the functionality to manage (create, list, view status, delete, etc.) the payroll advance requested by employees. A widget is offered by datamart, this widget can be embed into Rankmi web
-systems and employees can interact with the platform. My work was about to create the functionalities of this SaaS platform. The architecture of the system was already created. I had some experience thanks to my previous work in datamart and thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the system architecture, to implement the different subsystems and microservices needed and to learn about AWS Lambda functions, AWS Step Functions, AWS Appsync, Velocity Template Language (VTL), AWS API Gateway, Serverless Framework and others AWS and cloud technologies implementing all the necessary tasks.
+This project is related to increase the systems functionalities of Rankmi. The basic idea of this project was to create a SaaS platform that could be used by Rankmi employees to create payroll advance requests. This platform offer the functionality to manage (create, list, view status, delete, etc.) the payroll advance requested by employees to them employers through Rankmi. A widget is offered by datamart, this widget can be embed into Rankmi web
+systems and employees can interact with the platform. My work was about to create the functionalities of this SaaS platform. The architecture of the system was already created. I had some experience thanks to my previous work in datamart and thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the system architecture, to implement the different subsystems and microservices needed and to learn about AWS Lambda functions, AWS Step Functions, AWS Appsync (GraphQl), Velocity Template Language (VTL), AWS API Gateway (Rest API), Serverless Framework and others AWS and cloud technologies implementing all the necessary tasks using Infrastructure as Code (IaC).
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Added the functionality to use a email custom template, that was store in AWS S3, to an AWS Lambda that send OTPs (One Token Password) to employees email. This help to add genericity to this microservice open the posibility to be used in others datamart products.
+- Added the functionality to use a email custom template, that was store in AWS S3, to an AWS Lambda that send OTPs (One Time Password) to employees email. This help to add genericity to this microservice open the possibility to be used in others datamart products.
 - Analyzed more than 10k lines of code (undocumented) in Python to created a base architecture diagram of the system. This help to newcomers teammates to understand the microservices of the system, the interactions between them and the information flow between them.
 - Migrated more than 5k of lines of code (undocumented) in Python to Velocity Template Language (VTL) in AWS Appsync.
 - Transformed AWS Lambdas code in AWS Appsync pipelines, migrating the code logic from lambdas to appsync endpoints. This help to delete the lambdas cold start and reduce the response time from 6-5 seconds to 3-2 seconds.
@@ -53,14 +53,11 @@ systems and employees can interact with the platform. My work was about to creat
 <!-- maybe extend this with more public profiles? -->
 - [Daniel de la Osa][4717740148338514572] (Technical Project Lead | Software Architect | Cloud Engineer | Backend Developer)
 - [Alena][17304740910670422272] (Scrum Master)
-- [Yosdany][2392998612686244556] (Frontend Developer)
+- [Yosdany][2392998612686244556] (Senior Frontend Developer)
 - [Adalberto][] (DevOps | SecOps | FinOps Engineer)
 
 Stack:
 : Draw.io, Amazon Web Services (AWS), Python, Velocity Template Language (VTL), Serverless Framework, BitBucket, GraphQL, Boto3, GQL (GraphQL client), PyTest, AWS Appsync, Postman.
 <!-- extend the keywords section -->
 *keywords*:
-: Architecture Diagrams, AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration.
-
-[11638806455083003844]: https://datamart.cl/
-[18371540063288679951]: https://www.linkedin.com/company/datamartcl/
+: Architecture Diagrams, AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC).
