@@ -52,7 +52,7 @@ This project is related to increase the system functionalities of Falabella Bank
 - [Isaac Vega Rodriguez][13539130981833666946] (Frontend Developer)
 - [Adalberto Orta Pozo][3404595272640824021] (DevOps | SysAdmin)
 - Manuel Majmud (Frontend Developer)
-- [Eder Despaigne Herrera][] (DevOps | SecOps | FinOps Engineer)
+- [Eder Despaigne Herrera](https://www.linkedin.com/in/eder-despaigne-herrera-4185501b6/) (DevOps | SecOps | FinOps Engineer)
 
 Stack:
 : Amazon Web Services (AWS), Python, Serverless Framework, BitBucket, Boto3, PyTest, GraphQL, Boto3, GQL (GraphQL Python client), Jira.
