@@ -44,12 +44,12 @@ systems and employees can interact with the platform. My work was about to creat
 ### Soft achievements
 
 - Attended to daily meetings with the team to coordinate tasks and find potentials problems in the development of the solution.
+- Attended to meetings with the System Architect to propose or define the features (improvement to features) and the architecture of the system.
 - Used Jira to organize and track the assignee tasks.
 - Followed the scrum methodology guaranteeing an agile development process.
 - Asked for help to others more experienced developers to solve difficult issues in my implementation/code.
 - Asked the details about the system architecture/information flow/microservices integration to others more experienced developers to have a better understanding of the system.
 - Exposed in the daily meetings the progress of my tasks, helping to others to understand my progress and the implementation of my tasks.
-- Proposed the use of SQL Functions and Procedures to implement some backend functionalities to help to reduce the system's response time.
 - Tested the new system capabilities with the Scrum Master and Product Owner.
 - Received questions and help request from others developers and helped to fix their issues making suggestions about how to test/implement a specific functionality.
 
