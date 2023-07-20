@@ -1,12 +1,12 @@
 ## **Project name: Connect Improvement**
 
-[Datamart][18371540063288679951] ([Web page][11638806455083003844])
+[Datamart](https://www.linkedin.com/company/datamartcl/) ([Web page](https://datamart.cl/))
 
 ##### Team:
 : Connect
 
 ##### Client:
-: [Datamart][18371540063288679951] ([Web page][11638806455083003844])
+: [Datamart](https://www.linkedin.com/company/datamartcl/) ([Web page](https://datamart.cl/))
 
 ##### Role:
 : Backend developer | Cloud developer
@@ -17,7 +17,7 @@ Havana, Cuba
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
 
-This project is related to increase the systems functionalities of datamart clients. The basic idea of this project is to improve a SaaS platform that could be used by datamart clients employees. This platform offer multiple information (generally financial information) about people, most of this information is public but Connect offer it in a single place and in a easy to access, easy to consume way. My work was about to help in the platform's improvement process proposing and implementing ideas to reduce the system response time or refactoring the code to gain readability. The platform was already created. I had not many experience about how to implement the tasks requested but thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the platform code, to propose ideas to reduce the platform response time, to migrate part of the codebase of the platform from one technology to another one, to learn about AWS Lambda functions, AWS Aurora MySql database AWS Appsync, Velocity Template Language (VTL), Serverless Framework and others AWS and cloud technologies to implement all the necessary tasks.
+This project is related to increase the systems functionalities of datamart clients. The basic idea of this project is to improve a SaaS platform that could be used by datamart clients employees. This platform offer multiple information (generally financial information) about people, most of this information is public but Connect offer it in a single place and in a easy to access, easy to consume way. My work was about to help in the platform's improvement process proposing and implementing ideas to reduce the system response time or refactoring the code to gain readability and stability. The platform was already created. I had not many experience about how to implement the tasks requested but thanks to my excellent education in Havana University and my quick learner skills I was able: to understand the platform code, to propose ideas to reduce the platform response time, to migrate part of the codebase of the platform from one technology to another one, to learn about AWS Lambda functions, AWS Aurora MySql database AWS Appsync, Velocity Template Language (VTL) used in AWS Appsync functions, Serverless Framework and others AWS and cloud technologies to implement all the necessary tasks.
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
