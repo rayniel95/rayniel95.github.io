@@ -54,8 +54,8 @@ Elasbit is a Chilean company that had the idea to create a NFT collection and so
 - [Yosdany Blanco Miranda][14043378700231257559] (Frontend Engineer)
 - [Yadisnel Galvez Velázquez][17304740910670422272] (Backend Developer | Cloud Engineer)
 - [Adrian Páez Ruiz][2392998612686244556] (Backed Developer)
-- [Eder][3404595272640824021] (DevOps | SysAdmin)
-- [Julio Cesar Sanchez Garcia][3404595272640824021] (DevOps | SysAdmin)
+- [Eder Despaigne Herrera](https://cu.linkedin.com/in/eder-despaigne-herrera-4185501b6) (DevOps | SysAdmin)
+- [Julio Cesar Sanchez Garcia](https://www.linkedin.com/in/jcsanch/) (DevOps | SysAdmin | AWS Cloud Developer)
 
 Stack:
 : Solana, Amazon Web Services (AWS), Python, TypeScript, Rust, Anchor Framework, Serverless Framework, XState, React, BitBucket, GraphQL, Boto3, GQL (GraphQL client), AnchorPy, PyTest, Node.js, Mocha, Chai, Solana Web3.
