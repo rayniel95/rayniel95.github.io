@@ -55,10 +55,10 @@ systems and employees can interact with the platform. My work was about to creat
 
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
-- [Daniel de la Osa][4717740148338514572] (Technical Project Lead | Software Architect | Cloud Engineer | Backend Developer)
-- [Alena][17304740910670422272] (Scrum Master)
-- [Yosdany][2392998612686244556] (Senior Frontend Developer)
-- [Adalberto][] (DevOps | SecOps | FinOps Engineer)
+- [Daniel de la Osa](https://cu.linkedin.com/in/daniel-de-la-osa-24a6271b5/) (Technical Project Lead | Software Architect | Cloud Engineer | Backend Developer)
+- [Alena Gonzalez Reyes](https://cu.linkedin.com/in/alena-gonz%C3%A1lez-reyes-34529b152) (Scrum Master)
+- [Yosdany Blanco Miranda](https://www.linkedin.com/in/yosdanybm/) (Senior Frontend Developer)
+- [Adalberto Orta Pozo](https://cu.linkedin.com/in/adalberto-orta-370b8796/) (DevOps | SecOps | FinOps Engineer)
 - [Eder Despaigne Herrera](https://cu.linkedin.com/in/eder-despaigne-herrera-4185501b6) (DevOps | SecOps | FinOps Engineer)
 
 Stack:
