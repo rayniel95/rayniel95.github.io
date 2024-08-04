@@ -6,9 +6,7 @@
 
 **Contacts:**
 
-[LinkedIn][4645735809913269750] / [GitHub][3501107990439883582] / [Dev.to][17961277350055325647] / [Codersrank][1097890777609527835] / [ResearchGate][12282103381254827543] / [Medium][12555484707309721380] / [YouTube][1452774931573403772] / [Twitter][8237254865795313300] / [Telegram][11949359265179372136]
-
-:telephone: 5353461326
+[LinkedIn][4645735809913269750] / [GitHub][3501107990439883582] / [Dev.to][17961277350055325647] / [Codersrank][1097890777609527835] / [ResearchGate][12282103381254827543] / [Medium][12555484707309721380] / [YouTube][1452774931573403772] / [Twitter][8237254865795313300] / [Telegram](https://t.me/rainyel_ramos)
 
 :envelope: rainyel.ramos@gmail.com
 
@@ -25,21 +23,16 @@ I am a young computer scientist graduate in Havana University, Cuba. I graduated
 [17961277350055325647]: https://dev.to/rayniel95
 [12282103381254827543]: https://researchgate.net/profile/Rainyel_Gonzalez
 [10501492827982229945]: http://www.uh.cu
-[8237254865795313300]: https://twitter.com/rayniel95
+[8237254865795313300]: https://twitter.com/rainyel_ramos
 [11949359265179372136]: https://t.me/rayniel95
 [1097890777609527835]: https://profile.codersrank.io/user/rayniel95
 
-<!-- put a photo with my name inside notebook, practical excercises, etc. photos -->
 <!-- si la persona que voy a poner no tiene informacion publica como researchgate, linkedin, etc. trato de poner algun articulo publico donde haya una foto de la misma -->
 <!-- to put correctly abreviations -->
 <!-- maybe write the name of some fields-->
 
 <!-- poner al decano y a la vicedecana de la facultad en la seccion de estudios -->
 
-<!-- explicar q existe un concurso para pasar el 12 grado en la universidad y se puede entrar por las cuatro ciencias, explicar que entre por matematicas y que estuve alli un ano pero mi pasion fue cibernetica y me cambie -->
-
 <!-- explicar como en cibernetica el enfoque de las asignaturas es hacia proyectos practicos los cuales la mayoria se hacen en equipo y que muchas asignaturas tiene un lenguaje de programacion establecido para trabajar y que hay que aprender, poner ejemplos, mostrar el enfoque q tiene nuestra carrera -->
 
 <!-- explicar que si bien no soy un experto en ninguna tecnologia soy una persona que me gusta conocer y jugar con nuevas tecnologias ademas de que me gusta escoger la tecnologia correcta para el proyecto y prefiero invertir un tiempo en investigar la mejor tecnologia y aprenderla que tirarle con lo que ya se y q probablemente me sea mas complejo -->
-
-<!-- en la seccion de trabajo explicar que en la universidad somos un grupo pequeno q intenta introducir la tecnologia blockchain en cuba que tenemos muchos proyectos desde cuba y que somos ingenieros, matematicos cientificos de la computacion, etc. somos muy pocos los que tenemos experiencia de programacion -->
