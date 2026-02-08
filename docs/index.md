@@ -2,7 +2,7 @@
 
 <img src="assets/images/me3.jpg" alt="me" style="zoom: 15%;" />
 
-*La Habana, Cuba*
+*Galicia, España*
 
 **Contacts:**
 
@@ -11,9 +11,11 @@
 :envelope: rainyel.ramos@gmail.com
 
 ## Summary
-I am a young computer scientist graduate in Havana University, Cuba. I graduated in November, 2020. Passionate about machine learning, blockchain technology, distributed systems and cryptography, I have read some interesting books: Distributed Systems written by Andrew S. Tanenbaum, Decentralized Applications written by Siraj Raval, Architecture for Blockchain Applications written by Xiwei Xu, Data mining: Practical machine learning tools and techniques written by Ian H. Witten, and many papers in www.researchgate.net. My interest in distributed systems started when I implemented Chord DHT in a project, I was fascinated with the auto estabilize property of this data structure. I am a hard-working, inquisitive, creative and enthusiastic computer scientist with a strong theoretical background in distributed systems, machine learning, blockchain technology, programming and math. Skilled in collaboration, adaptability and communication. Experience of more than a year in blockchain and more than 4 years of experience in software development. I like to learn new languages and technologies related with machine learning, blockchain, distributed systems and cryptography.
+I am a Spanish computer scientist who graduated from the University of Havana, Cuba, and currently live in Spain. I completed my degree in November 2020. I am passionate about building software and exploring different technologies. While I am not an expert in any single technology, I prefer to research and select the best tool for each problem. That said, in previous roles I have often used the same technology repeatedly due to client requirements.
 
-**Actually I am not looking for a job.** 
+I am a hard-working, inquisitive, creative, and enthusiastic professional with a strong theoretical background in distributed systems, machine learning, blockchain technology, programming, and mathematics. I bring over four years of experience in software development, with skills in collaboration, adaptability, and communication. I enjoy building software-based products from scratch into polished solutions that clients can use daily.
+
+**Actually I am looking for a job in Spain.**
 
 
 [4645735809913269750]: https://linkedin.com/in/rainyel-ramos
@@ -24,7 +26,7 @@ I am a young computer scientist graduate in Havana University, Cuba. I graduated
 [12282103381254827543]: https://researchgate.net/profile/Rainyel_Gonzalez
 [10501492827982229945]: http://www.uh.cu
 [8237254865795313300]: https://twitter.com/rainyel_ramos
-[11949359265179372136]: https://t.me/rayniel95
+[11949359265179372136]: https://t.me/ranyel_ramos
 [1097890777609527835]: https://profile.codersrank.io/user/rayniel95
 
 <!-- si la persona que voy a poner no tiene informacion publica como researchgate, linkedin, etc. trato de poner algun articulo publico donde haya una foto de la misma -->
