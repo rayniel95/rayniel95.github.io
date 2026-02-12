@@ -32,7 +32,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - Implemented multiple workflows and data passing using AWS Step Functions.
 - Implemented multiple data and big json manipulations using AWS Lambda functions.
 - Implemented multiple AWS Cloudwatch Alarms for Step Functions fails to help system monitoring.
-- Used AWS SSM to read and store parameter to guarantee parameters passing between AWS Stacks.
+- Used AWS SSM Parameter Store to read and store parameters to enable parameter sharing between CloudFormation stacks.
 - Used AWS EventBridge to connect CloudWatch Alarms to AWS Systems Manager Automation runbooks to help automatically recover the system after known, predictable errors.
 - Designed the architecture of state machine (frontend flow) using Xstate.
 - Implemented multiple state machines to guarantee the correct frontend flow and encapsulate frontend logic improving maintainability and reducing edge-case errors.
