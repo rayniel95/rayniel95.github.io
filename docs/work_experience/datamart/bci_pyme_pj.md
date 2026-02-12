@@ -28,7 +28,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - Used the branching model of git flow to get a better organization in the project development.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Received issues found by others team members to be fixed for me before users reported them.
-- Use Postman to test REST endpoints.
+- Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
 - Implemented multiple state machines and data orchestration using AWS Step Functions.
 - Implemented AWS Lambda functions to process and manipulate large JSON payloads and structured datasets, enabling scalable serverless data processing.
 - Implemented multiple AWS CloudWatch Alarms for Step Functions to enable proactive monitoring and rapid detection of workflow failures.
