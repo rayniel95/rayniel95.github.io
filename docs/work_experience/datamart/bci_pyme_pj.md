@@ -31,7 +31,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - Use Postman to test REST endpoints.
 - Implemented multiple workflows and data passing using AWS Step Functions.
 - Implemented multiple data and big json manipulations using AWS Lambda functions.
-- Implemented multiple AWS Cloudwatch Alarms for Step Functions fails to help system monitoring.
+- Implemented multiple AWS CloudWatch Alarms for Step Functions to enable proactive monitoring and rapid detection of workflow failures.
 - Used AWS SSM Parameter Store to read and store parameters to enable parameter sharing between CloudFormation stacks.
 - Used AWS EventBridge to connect CloudWatch Alarms to AWS Systems Manager Automation runbooks to help automatically recover the system after known, predictable errors.
 - Designed the architecture of state machine (frontend flow) using Xstate.
