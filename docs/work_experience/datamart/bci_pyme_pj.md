@@ -1,5 +1,65 @@
-también les quería compartir algunos datos de interés:
-1- Cerramos esta semana con casi 40 cuentas creadas que pasaron el flujo de manera orgánica. Este número se piensa aumentar con publicidad y sacando casos que se quedaron parados por temas de firma y otros issues no invalidantes.
-2- BCI bajó a menos de un 6% los rechazos por giro no permitido.
-3- También bajaron considerablemente los casos que se quedaban parados por FaceID (en lo que intervino el equipo de Accord)
-En resumen fue muy buena semana, el cliente nos felicitó y quería extender a todos esa felicitación:slightly_smiling_face:. Buen fin de semana!
+## **Project name: BCI PymePj**
+
+[Datamart](https://www.linkedin.com/company/datamartcl/) ([Web page](https://datamart.cl/))
+
+##### Team:
+: LendbotBCI
+
+##### Client:
+: [BCI](https://www.bci.cl)
+
+##### Role:
+: Backend developer | Cloud developer
+
+*September, 2022 – June, 2023*
+
+Havana, Cuba
+
+<!-- who is the client, what the client have, what the client want, what i can do -->
+
+This project is related to create a SaaS platform for chilean bank BCI. The basic idea of this project is to create a SaaS platform that could be used by BCI clients to open pyme (pequeñas y medianas empresas) accounts. The platform allow bank clients to follow a simple guided process from their phones to introduce their data and open the account. By the bank side there is another platform that communicate with the first, it us used to accept the client requests. My work was about to help to implement the two platforms. I implemented infrastructure as code using AWS, programmed backend logic and implemented most of the frontend logic in an encapsulate way using XState.
+
+<!-- small description about the client and its requirements or problems, how I solve it -->
+### Hard / Technical achievements
+
+- Created and modified more than 10 endpoints in a Django REST Api server to implement the system functionalities.
+- Implemented a simple OTP (One Time Token) service to send the OTPs via email using Lambda functions and DynamoDb.
+- Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
+- Used the branching model of git flow to get a better organization in the project development.
+- Reported found bugs to front end developers to be fixed before users reported them.
+- Received issues found by others team members to be fixed for me before users reported them.
+- Use Postman to test REST endpoints.
+- Implemented multiple workflows and data passing using AWS Step Functions.
+- Implemented multiple data and big json manipulations using AWS Lambda functions.
+- Implemented multiple AWS Cloudwatch Alarms for Step Functions fails to help system monitoring.
+- Used AWS SSM to read and store parameter to guarantee parameters passing between AWS Stacks.
+- Used AWS EventBridge to connect CloudWatch Alarms to AWS Systems Manager Automation runbooks to help automatically recover the system after known, predictable errors.
+- Designed the architecture of state machine (frontend flow) using Xstate.
+- Implemented multiple state machines to guarantee the correct frontend flow and encapsulate frontend logic improving maintainability and reducing edge-case errors.
+
+### Soft achievements
+
+- Attended to daily meetings with the team to coordinate tasks and find potentials problems in the development of the solution.
+- Used Jira to organize and track the assignee tasks.
+- Followed the scrum methodology guaranteeing an agile development process.
+- Asked for help to others more experienced developers to solve difficult issues in my implementation/code.
+- Exposed in the daily meetings the progress of my tasks, helping to others to understand my progress and the implementation of my tasks.
+- Tested the new system capabilities with the Scrum Master and Product Owner.
+- Received questions and help request from others developers and helped to fix their issues making suggestions about how to test/implement a specific functionality.
+- Teach to fresh developers the architecture and flow implementation of frontend state machines.
+
+*Others team members*:
+<!-- maybe extend this with more public profiles? -->
+- [Eder Despaigne Herrera](https://cu.linkedin.com/in/eder-despaigne-herrera-4185501b6) (DevOps | SecOps | FinOps Engineer)
+- [Yanet Garcia](https://www.linkedin.com/in/yanetgarciar/) (Project Manager)
+- [Ailía Parra Fernández](https://www.linkedin.com/in/ail%C3%ADa-parra-fern%C3%A1ndez-46a98b250/) (Scrum Master)
+- [Reimer Malleza Romero](https://www.linkedin.com/in/reimer-malleza-romero-88a095238/) (Backend developer | Cloud developer)
+- [Adrian Oviedo Cabo](https://www.linkedin.com/in/adrian-oviedo-779a60362/) (Backend developer | Cloud developer)
+- [Julio Xavier]() (Backend developer | Cloud developer)
+- [Aleida Gonzalez](https://www.linkedin.com/in/aleidagonzalezguerrero/) (Frontend developer)
+
+Stack:
+: Amazon Web Services (AWS), Python, Serverless Framework, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js.
+<!-- extend the keywords section -->
+*keywords*:
+: AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), Serverless Framework, AWS CDK, XState, State Machine.
