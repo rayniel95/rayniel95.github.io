@@ -34,6 +34,7 @@ nav:
   - 😃 About me: index.md
   - 🏢 Work experience: 
     - datamart: 
+      - BCI PymePj: ./work_experience/datamart/bci_pyme_pj.md 
       - Payroll Advance: ./work_experience/datamart/payroll_advance.md 
       - Connect Improvement: ./work_experience/datamart/connect.md 
       - Onboarding: ./work_experience/datamart/onboarding.md  
