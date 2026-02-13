@@ -55,7 +55,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - [Ailía Parra Fernández](https://www.linkedin.com/in/ail%C3%ADa-parra-fern%C3%A1ndez-46a98b250/) (Scrum Master)
 - [Reimer Malleza Romero](https://www.linkedin.com/in/reimer-malleza-romero-88a095238/) (Backend developer | Cloud developer)
 - [Adrian Oviedo Cabo](https://www.linkedin.com/in/adrian-oviedo-779a60362/) (Backend developer | Cloud developer)
-- [Julio Xavier]() (Backend developer | Cloud developer)
+- Julio Xavier (Backend developer | Cloud developer)
 - [Aleida Gonzalez](https://www.linkedin.com/in/aleidagonzalezguerrero/) (Frontend developer)
 
 Stack:
