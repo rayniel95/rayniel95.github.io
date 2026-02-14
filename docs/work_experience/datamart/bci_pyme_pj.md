@@ -59,7 +59,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - [Aleida Gonzalez](https://www.linkedin.com/in/aleidagonzalezguerrero/) (Frontend developer)
 
 Stack:
-: Amazon Web Services (AWS), Python, Serverless Framework, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js.
+: Amazon Web Services (AWS), Python, Serverless Framework, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway.
 <!-- extend the keywords section -->
 *keywords*:
 : AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), Serverless Framework, AWS CDK, XState, State Machine.
