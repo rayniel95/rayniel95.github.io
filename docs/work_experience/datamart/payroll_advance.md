@@ -23,7 +23,7 @@ systems and employees can interact with the platform. My work was about to creat
 - Added the functionality to use a email custom template, that was store in AWS S3, to an AWS Lambda that send OTPs (One Time Password) to employees email. This help to add genericity to this microservice open the possibility to be used in others datamart products.
 - Implemented multiples AWS API Gateway (Rest API) with more than 20 endpoints that act as a proxy to an AWS Appsync (GraphQl) (or others microservices) and where the Rankmi system could communicate with datamart system.
 - Added AWS API Gateway natives validators to check the correctness of the request parameters sent by Rankmi systems. Reducing the numbers of errors in more than 80%.
-- Wrote multiple data transformation in AWS Api Gateway (AWS Appsync) using VTL prior to resend the request to a AWS Appsync (or other microservices).
+- Wrote multiple data transformation in AWS Api Gateway (and AWS Appsync) using VTL prior to resend the request to a AWS Appsync (or other microservices).
 - Added AWS Cloud Watch Log Groups to all the microservices to monitor the system and trace the errors.
 - Implemented a AWS Step Function to manage the workflow of multiple api calls to different microservice and data manipulation in a serverless way. Reducing the cost and execution time of the microservice.
 - Used AWS Lambda PowerTools to parse, check and validate the request sent to AWS Lambdas resources improving code readability, maintainability, quality, scalability and reutilization.
