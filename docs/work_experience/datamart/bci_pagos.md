@@ -24,7 +24,7 @@ My role involved helping implement both platforms. I developed the infrastructur
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Implemented most of the backend logic using an internal low code platform named Fleet. Reducing the errors in the code and producing more value in less time for the client.
+- Implemented most of the backend logic using an internal low-code platform named Fleet, reducing errors and delivering more value in less time for the client.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Found actively and reported bug in Fleet to backend and cloud developers. Testing the
