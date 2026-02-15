@@ -23,7 +23,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 ### Hard / Technical achievements
 
 - Teach XState to new frontend developer to guarantee the sharing of technical knowledge.
-- Implemented most of the backend logic using an internal low code platform named Fleet.
+- Implemented most of the backend logic using an internal low code platform named Fleet. Reducing the errors in the code and producing more value in less time for the client.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Found actively and reported bug in Fleet to backend and cloud developers. Testing the
@@ -33,6 +33,8 @@ platform and helping to its improvement.
 - Implemented AWS Appsync endpoints and connected it to API REST endpoints to execute
 the backend workflows.
 - Built a secure, custom, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration.
+- Implemented an endpoint for retrieve users from different groups using AWS Lambda and
+ AWS Lambda PowerTools.
 
 - Implemented multiple state machines and data orchestration using AWS Step Functions.
 - Implemented AWS Lambda functions to process and manipulate large JSON payloads and structured datasets, enabling scalable serverless data processing.
