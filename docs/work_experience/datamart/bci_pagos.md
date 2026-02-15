@@ -47,13 +47,12 @@ My role involved helping implement both platforms. I developed the infrastructur
 - Taught XState to a new frontend developer to ensure knowledge sharing.
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
-- [Eder Despaigne Herrera](https://cu.linkedin.com/in/eder-despaigne-herrera-4185501b6) (DevOps | SecOps | FinOps Engineer)
 - [Yanet Garcia](https://www.linkedin.com/in/yanetgarciar/) (Project Manager)
-- [Ailía Parra Fernández](https://www.linkedin.com/in/ail%C3%ADa-parra-fern%C3%A1ndez-46a98b250/) (Scrum Master)
-- [Reimer Malleza Romero](https://www.linkedin.com/in/reimer-malleza-romero-88a095238/) (Backend developer | Cloud developer)
-- [Adrian Oviedo Cabo](https://www.linkedin.com/in/adrian-oviedo-779a60362/) (Backend developer | Cloud developer)
-- Julio Xavier (Backend developer | Cloud developer)
-- [Aleida Gonzalez](https://www.linkedin.com/in/aleidagonzalezguerrero/) (Frontend developer)
+- [Mailen Edith Escobar Pompa](https://www.linkedin.com/in/mailen-edith-escobar-pompa-a87707221/) (Scrum Master)
+- [Rigoberto Peña Cabrera](https://www.linkedin.com/in/rigoberto-pe%C3%B1a-cabrera-02424899/) (Backend developer)
+- [Adrian Almaguel Guerra](https://www.linkedin.com/in/aalmaguelg/) (Backend developer)
+- [Rolando Llanes Batista](https://www.linkedin.com/in/rolando-llanes/) (Frontend developer)
+- [Jorge Arancibia Leiva](https://www.linkedin.com/in/jaranci/) (Frontend developer)
 
 Stack:
 : Amazon Web Services (AWS), Python, Serverless Framework, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway.
