@@ -32,6 +32,7 @@ platform and helping to its improvement.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
 - Implemented AWS Appsync endpoints and connected it to API REST endpoints to execute
 the backend workflows.
+- Built a secure, custom, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration.
 
 - Implemented multiple state machines and data orchestration using AWS Step Functions.
 - Implemented AWS Lambda functions to process and manipulate large JSON payloads and structured datasets, enabling scalable serverless data processing.
