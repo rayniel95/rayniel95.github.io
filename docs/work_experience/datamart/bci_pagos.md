@@ -44,8 +44,7 @@ My role involved helping implement both platforms. I developed the infrastructur
 - Exposed in the daily meetings the progress of my tasks, helping to others to understand my progress and the implementation of my tasks.
 - Tested the new system capabilities with the Scrum Master and Product Owner.
 - Received questions and help request from others developers and helped to fix their issues making suggestions about how to test/implement a specific functionality.
-- Teach XState to new frontend developer to guarantee the sharing of technical knowledge.
-
+- Taught XState to a new frontend developer to ensure knowledge sharing.
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
 - [Eder Despaigne Herrera](https://cu.linkedin.com/in/eder-despaigne-herrera-4185501b6) (DevOps | SecOps | FinOps Engineer)
