@@ -32,8 +32,7 @@ My role involved helping implement both platforms. I developed the infrastructur
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
 - Implemented AWS AppSync endpoints and connected them to REST API endpoints to execute backend workflows.
 - Built a secure, custom, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration.
-- Implemented an endpoint for retrieve users from different groups using AWS Lambda and
- AWS Lambda PowerTools improving code quality and readability.
+- Implemented an endpoint to retrieve users from different groups using AWS Lambda and Lambda PowerTools, improving code quality and readability.
 - Implemented multiple Python scripts to to process and manipulate large JSON payloads and structured datasets supporting the system functionalities.
 
 ### Soft achievements
