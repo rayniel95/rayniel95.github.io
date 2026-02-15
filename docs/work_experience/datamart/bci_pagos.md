@@ -22,7 +22,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Developed 10+ endpoints in a Django REST API server to support core system functionality.
+- Teach XState to new frontend developer.
 - Built a secure, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration, enabling email-based user verification.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Used the branching model of git flow to get a better organization in the project development.
