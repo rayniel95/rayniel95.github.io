@@ -35,6 +35,7 @@ the backend workflows.
 - Built a secure, custom, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration.
 - Implemented an endpoint for retrieve users from different groups using AWS Lambda and
  AWS Lambda PowerTools improving code quality and readability.
+- Implemented multiple Python scripts to to process and manipulate large JSON payloads and structured datasets supporting the system functionalities.
 
 - Implemented multiple state machines and data orchestration using AWS Step Functions.
 - Implemented AWS Lambda functions to process and manipulate large JSON payloads and structured datasets, enabling scalable serverless data processing.
