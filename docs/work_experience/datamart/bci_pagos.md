@@ -25,7 +25,6 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - Teach XState to new frontend developer.
 - Implemented most of the backend logic using an internal low code platform named Fleet.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
-- Used the branching model of git flow to get a better organization in the project development.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
