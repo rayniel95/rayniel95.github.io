@@ -22,7 +22,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Teach XState to new frontend developer.
+- Teach XState to new frontend developer to guarantee the sharing of technical knowledge.
 - Implemented most of the backend logic using an internal low code platform named Fleet.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
