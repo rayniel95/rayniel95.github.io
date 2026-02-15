@@ -23,7 +23,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 ### Hard / Technical achievements
 
 - Teach XState to new frontend developer.
-- Built a secure, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration, enabling email-based user verification.
+- Implemented most of the backend logic using an internal low code platform named Fleet.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Used the branching model of git flow to get a better organization in the project development.
 - Reported found bugs to front end developers to be fixed before users reported them.
