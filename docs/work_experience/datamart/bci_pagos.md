@@ -45,6 +45,7 @@ My role involved helping implement both platforms. I developed the infrastructur
 - Tested the new system capabilities with the Scrum Master and Product Owner.
 - Received questions and help request from others developers and helped to fix their issues making suggestions about how to test/implement a specific functionality.
 - Taught XState to a new frontend developer to ensure knowledge sharing.
+
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
 - [Yanet Garcia](https://www.linkedin.com/in/yanetgarciar/) (Project Manager)
