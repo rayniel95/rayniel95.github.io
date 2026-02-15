@@ -30,8 +30,7 @@ My role involved helping implement both platforms. I developed the infrastructur
 - Actively tested the Fleet platform, identifying and reporting bugs to backend and cloud developers to drive continuous improvement.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
-- Implemented AWS Appsync endpoints and connected it to API REST endpoints to execute
-the backend workflows.
+- Implemented AWS AppSync endpoints and connected them to REST API endpoints to execute backend workflows.
 - Built a secure, custom, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration.
 - Implemented an endpoint for retrieve users from different groups using AWS Lambda and
  AWS Lambda PowerTools improving code quality and readability.
