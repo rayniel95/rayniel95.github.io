@@ -17,7 +17,7 @@ Havana, Cuba
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
 
-This project is related to create a SaaS platform for chilean bank BCI. The basic idea of this project is to create a SaaS platform that could be used by BCI clients to open pyme (pequeñas y medianas empresas) accounts. The platform allow bank clients to follow a simple guided process from their phones to introduce their data and open the account. By the bank side there is another platform that communicate with the first, it us used to accept the client requests. My work was about to help to implement the two platforms. I implemented infrastructure as code using AWS, programmed backend logic and implemented most of the frontend logic in an encapsulate way using XState.
+This project is related to create a SaaS platform for chilean bank BCI. The basic idea of this project is to create a SaaS platform that could be used by BCI clients to contract POS (Point Of Sales) for their business. The platform allow bank clients to follow a simple guided process from their phones to introduce their data, how many POS they wanted and sign the contract. By the bank side there is another platform that communicate with the first, it us used to accept the client requests and fill possible client missing data. My work was about to help to implement the two platforms. I implemented infrastructure as code using AWS and programmed backend logic using Fleet (an internal low code platform).
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
