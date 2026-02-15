@@ -22,7 +22,6 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Teach XState to new frontend developer to guarantee the sharing of technical knowledge.
 - Implemented most of the backend logic using an internal low code platform named Fleet. Reducing the errors in the code and producing more value in less time for the client.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
@@ -37,14 +36,6 @@ the backend workflows.
  AWS Lambda PowerTools improving code quality and readability.
 - Implemented multiple Python scripts to to process and manipulate large JSON payloads and structured datasets supporting the system functionalities.
 
-- Implemented multiple state machines and data orchestration using AWS Step Functions.
-- Implemented AWS Lambda functions to process and manipulate large JSON payloads and structured datasets, enabling scalable serverless data processing.
-- Implemented multiple AWS CloudWatch Alarms for Step Functions to enable proactive monitoring and rapid detection of workflow failures.
-- Used AWS SSM Parameter Store to read and store parameters to enable parameter sharing between CloudFormation stacks.
-- Used AWS EventBridge to connect CloudWatch Alarms to AWS Systems Manager Automation runbooks to help automatically recover the system after known, predictable errors.
-- Designed the architecture of state machine (frontend flow) using Xstate.
-- Implemented multiple state machines to guarantee the correct frontend flow and encapsulate frontend logic improving maintainability and reducing edge-case errors.
-
 ### Soft achievements
 
 - Attended to daily meetings with the team to coordinate tasks and find potentials problems in the development of the solution.
@@ -54,7 +45,7 @@ the backend workflows.
 - Exposed in the daily meetings the progress of my tasks, helping to others to understand my progress and the implementation of my tasks.
 - Tested the new system capabilities with the Scrum Master and Product Owner.
 - Received questions and help request from others developers and helped to fix their issues making suggestions about how to test/implement a specific functionality.
-- Teach to fresh developers the architecture and flow implementation of frontend state machines.
+- Teach XState to new frontend developer to guarantee the sharing of technical knowledge.
 
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
