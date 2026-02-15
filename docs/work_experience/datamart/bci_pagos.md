@@ -27,8 +27,7 @@ My role involved helping implement both platforms. I developed the infrastructur
 - Implemented most of the backend logic using an internal low-code platform named Fleet, reducing errors and delivering more value in less time for the client.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
-- Found actively and reported bug in Fleet to backend and cloud developers. Testing the
-platform and helping to its improvement.
+- Actively tested the Fleet platform, identifying and reporting bugs to backend and cloud developers to drive continuous improvement.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
 - Implemented AWS Appsync endpoints and connected it to API REST endpoints to execute
