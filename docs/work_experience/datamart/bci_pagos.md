@@ -1,9 +1,9 @@
-## **Project name: BCI PymePj**
+## **Project name: BCI Pagos**
 
 [Datamart](https://www.linkedin.com/company/datamartcl/) ([Web page](https://datamart.cl/))
 
 ##### Team:
-: LendbotBCI
+: OrionTech
 
 ##### Client:
 : [BCI](https://www.bci.cl)
@@ -11,7 +11,7 @@
 ##### Role:
 : Backend developer | Cloud developer
 
-*February, 2023 – June, 2024*
+*June, 2024 - July, 2025*
 
 Havana, Cuba
 
