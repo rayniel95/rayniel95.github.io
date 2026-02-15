@@ -27,7 +27,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Found actively and reported bug in Fleet to backend and cloud developers. Testing the
-platform helping to its improvement.
+platform and helping to its improvement.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
 - Implemented multiple state machines and data orchestration using AWS Step Functions.
