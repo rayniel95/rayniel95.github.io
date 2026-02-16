@@ -13,7 +13,7 @@ This project is a clinic history admin dashboard. With the dashboard is possible
 - Implemented a dashboard that communicate with the blockchain and the subgraphs to store, "edit" and "delete" the information.
 
 Stack:
-: Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK.
+: Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK, Hardhat, Hardhat Ignition, React Query, RainbowKit, Pinata, React Admin, Viem, Solidity.
 
 *keywords*:
 : Blockchain, Cryptography, Frontend, HTML, Web App.
