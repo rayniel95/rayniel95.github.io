@@ -11,7 +11,7 @@
 ##### Role:
 : Backend developer | Cloud developer
 
-*June, 2024 - July, 2025*
+*August, 2025 - December, 2025*
 
 Havana, Cuba
 
