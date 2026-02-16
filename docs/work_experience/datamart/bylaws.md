@@ -6,7 +6,7 @@
 : Bylaws
 
 ##### Client:
-: [BCI](https://www.bci.cl)
+: [Datamart](https://www.linkedin.com/company/datamartcl/) ([Web page](https://datamart.cl/))
 
 ##### Role:
 : Backend developer | Cloud developer
