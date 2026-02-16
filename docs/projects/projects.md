@@ -6,7 +6,7 @@ Personal project
 
 This project is a clinical history admin dashboard. Through the dashboard, it is possible to store information about patients, admins, and doctors, or add information about drug exposures and patient notes. All the information is stored as NFTs (Non-Fungible Tokens) on the Sepolia (Ethereum) testnet.
 
-- Implemented NFTs (ERC 721) smart contracts for admin, doctor, patients, drug exposure and notes using inheritance to improve code readability and reutilization.
+- Implemented ERC-721 NFT smart contracts for admins, doctors, patients, drug exposures, and notes using inheritance to improve code readability and reusability.
 - Used openzeppelin contract to guarantee security, code readability and code reutilization.
 - Implemented a script for automatic contract deployment using Hardhat Ignition reducing the contract deployment complexity and time.
 - Implemented subgraphs for blockchain data query in an efficient and faster way.
