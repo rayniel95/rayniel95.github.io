@@ -1,3 +1,22 @@
+## [**Raymed**](https://rayniel95.github.io/raymed/)
+
+Personal project
+
+*September 2023 - November 2023*
+
+This is a basic blockchain explorer for the Ethereum blockchain. It has all the core features. View the last 5 blocks and transactions, the block list, transactions inside a block, sender and receiver addresses in a transaction, and search by transaction hash, address, or block hash.
+
+- Implemented routing for all pages using the Next.js App Router.
+- Developed reusable components to reduce code redundancy and improve readability.
+- Implemented a responsive design using the Bootstrap grid system.
+- Implemented a polling mechanism to read the latest blocks every five seconds.
+
+Stack:
+: Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK.
+
+*keywords*:
+: Blockchain, Cryptography, Frontend, HTML, Web App.
+
 ## [**blockexplorer**](https://rayniel95.github.io/blockexplorer/)
 
 Personal project
