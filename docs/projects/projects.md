@@ -4,7 +4,7 @@ Personal project
 
 *January 2025 - February 2025*
 
-This is a basic blockchain explorer for the Ethereum blockchain. It has all the core features. View the last 5 blocks and transactions, the block list, transactions inside a block, sender and receiver addresses in a transaction, and search by transaction hash, address, or block hash.
+This project is a clinic history admin dashboard. With the dashboard is possible to  store information of the patients, admins, doctors or add information about drug exposures, notes of the patients. All the information is store as NFTs (Non Fungible Tokens) in Sepolia (Ethereum) testnet.
 
 - Implemented routing for all pages using the Next.js App Router.
 - Developed reusable components to reduce code redundancy and improve readability.
