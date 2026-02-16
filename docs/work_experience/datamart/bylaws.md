@@ -3,7 +3,7 @@
 [Datamart](https://www.linkedin.com/company/datamartcl/) ([Web page](https://datamart.cl/))
 
 ##### Team:
-: OrionTech
+: Bylaws
 
 ##### Client:
 : [BCI](https://www.bci.cl)
