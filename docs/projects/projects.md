@@ -9,7 +9,7 @@ This is a basic blockchain explorer for the Ethereum blockchain. It has all the 
 - Implemented routing for all pages using the Next.js App Router.
 - Developed reusable components to reduce code redundancy and improve readability.
 - Implemented a responsive design using the Bootstrap grid system.
-- Implemented a polling mechanism for read the latest blocks each five seconds.
+- Implemented a polling mechanism to read the latest blocks every five seconds.
 
 Stack:
 : Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK.
