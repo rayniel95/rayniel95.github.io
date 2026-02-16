@@ -6,11 +6,10 @@ Personal project
 
 This is a basic blockchain explorer for the Ethereum blockchain. It has all the core features. View the last 5 blocks and transactions, the block list, transactions inside a block, sender and receiver addresses in a transaction, and search by transaction hash, address, or block hash.
 
-- Implemented multiple routes for each page using app router.
+ Implemented routing for all pages using the Next.js App Router.
 - Implemented reutilizable components reducing innecessary code and improving readability.
 - Use Bootstrap grid layout to create a responsive design.
-- Created the necessaries modifications to edit the fields of the artifact that could not be edited previously.
-- Implemented the functionalities to sign the artifact data structure using X509 certificates.
+- Implemented a polling mechanism for read the latest blocks each five seconds.
 
 Stack:
 : Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK.
