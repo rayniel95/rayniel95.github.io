@@ -8,7 +8,7 @@ This project is a clinical history admin dashboard. Through the dashboard, it is
 
 - Implemented ERC-721 NFT smart contracts for admins, doctors, patients, drug exposures, and notes using inheritance to improve code readability and reusability.
 - Used OpenZeppelin contracts to ensure security, code readability, and reusability.
-- Implemented a script for automatic contract deployment using Hardhat Ignition reducing the contract deployment complexity and time.
+- Automated contract deployment using Hardhat Ignition, significantly reducing complexity and deployment time.
 - Implemented subgraphs for blockchain data query in an efficient and faster way.
 - Implemented a dashboard that communicate with the blockchain and the subgraphs to store, "edit" and "delete" the information.
 
