@@ -10,7 +10,7 @@ This project is a clinical history admin dashboard. Through the dashboard, it is
 - Used OpenZeppelin contracts to ensure security, code readability, and reusability.
 - Automated contract deployment using Hardhat Ignition, significantly reducing complexity and deployment time.
 - Implemented subgraphs for querying blockchain data in a more efficient and faster way.
-- Implemented a dashboard that communicate with the blockchain and the subgraphs to store, "edit" and "delete" the information.
+- Developed a dashboard that interacts with the blockchain and subgraphs to store, update, and manage information.
 
 Stack:
 : Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK, Hardhat, Hardhat Ignition, React Query, RainbowKit, Pinata, React Admin, Viem, Solidity.
