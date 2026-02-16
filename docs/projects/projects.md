@@ -18,6 +18,8 @@ Stack:
 *keywords*:
 : Blockchain, Cryptography, Frontend, HTML, Web App, NFT, Medical Record.
 
+---
+
 ## [**blockexplorer**](https://rayniel95.github.io/blockexplorer/)
 
 Personal project
@@ -36,6 +38,8 @@ Stack:
 
 *keywords*:
 : Blockchain, Cryptography, Frontend, HTML, Web App.
+
+---
 
 <!-- TODO - add the velocity test project and the image processor project -->
 ## [**Network Parameters Signer**][16722939611573859034]
