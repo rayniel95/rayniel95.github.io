@@ -6,7 +6,7 @@ Personal project
 
 This is a basic blockchain explorer for the Ethereum blockchain. It has all the core features. View the last 5 blocks and transactions, the block list, transactions inside a block, sender and receiver addresses in a transaction, and search by transaction hash, address, or block hash.
 
-- Extended the commands of the command line adding more options to create a more personalized artifact.
+- Implemented multiple routes for each page using app router.
 - JSON format was used to obtain a standardized input format for the artifact options.
 - Created the necessaries modifications to edit the fields of the artifact that could not be edited previously.
 - Implemented the functionalities to sign the artifact data structure using X509 certificates.
