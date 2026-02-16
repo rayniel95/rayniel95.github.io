@@ -1,4 +1,4 @@
-## **Project name: BCI Pagos**
+## **Project name: Bylaws**
 
 [Datamart](https://www.linkedin.com/company/datamartcl/) ([Web page](https://datamart.cl/))
 
