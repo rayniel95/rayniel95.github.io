@@ -8,7 +8,7 @@ This is a basic blockchain explorer for the Ethereum blockchain. It has all the 
 
 - Implemented multiple routes for each page using app router.
 - Implemented reutilizable components reducing innecessary code and improving readability.
-- JSON format was used to obtain a standardized input format for the artifact options.
+- Use Bootstrap grid layout to create a responsive design.
 - Created the necessaries modifications to edit the fields of the artifact that could not be edited previously.
 - Implemented the functionalities to sign the artifact data structure using X509 certificates.
 
