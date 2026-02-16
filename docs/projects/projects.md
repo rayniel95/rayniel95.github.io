@@ -9,7 +9,8 @@ This project is a clinic history admin dashboard. With the dashboard is possible
 - Implemented NFTs (ERC 721) smart contracts for admin, doctor, patients, drug exposure and notes using inheritance to improve code readability and reutilization.
 - Used openzeppelin contract to guarantee security, code readability and code reutilization.
 - Implemented a script for automatic contract deployment using Hardhat Ignition reducing the contract deployment complexity and time.
-- Implemented a polling mechanism to read the latest blocks every five seconds.
+- Implemented subgraphs for blockchain data query in an efficient and faster way.
+ 
 
 Stack:
 : Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK.
