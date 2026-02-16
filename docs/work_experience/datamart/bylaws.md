@@ -48,12 +48,10 @@ My role involved helping implement both platforms. I developed the infrastructur
 
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
-- [Yanet Garcia](https://www.linkedin.com/in/yanetgarciar/) (Project Manager)
-- [Mailen Edith Escobar Pompa](https://www.linkedin.com/in/mailen-edith-escobar-pompa-a87707221/) (Scrum Master)
-- [Rigoberto Peña Cabrera](https://www.linkedin.com/in/rigoberto-pe%C3%B1a-cabrera-02424899/) (Backend developer)
-- [Adrian Almaguel Guerra](https://www.linkedin.com/in/aalmaguelg/) (Backend developer)
-- [Rolando Llanes Batista](https://www.linkedin.com/in/rolando-llanes/) (Frontend developer)
-- [Jorge Arancibia Leiva](https://www.linkedin.com/in/jaranci/) (Frontend developer)
+- [Masiel Villalba](https://www.linkedin.com/in/masiiie/) (Backend developer | Prompt Engineer)
+- [Odelvis Fernandez Izquierdo](https://www.linkedin.com/in/odelvis-fernandez-izquierdo-565a41188/) (Software engineer | Software Architect | Cloud Architect)
+- [Yahima Vigo](https://www.linkedin.com/in/yahima-vigo/) (Scrum Master | Project Manager)
+- [Daniel de la Osa](https://www.linkedin.com/in/daniel-de-la-osa-24a6271b5/) (Software Architect)
 
 Stack:
 : Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway, Lambda PowerTools, JSON.
