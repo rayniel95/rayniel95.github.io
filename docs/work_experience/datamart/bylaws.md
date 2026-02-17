@@ -48,7 +48,7 @@ This project involved developing a service for extract structured data from comp
 - [Roger Concepción Ferrán](https://www.linkedin.com/in/roger-concepcion-ferran-66ab0015a/)
 
 Stack:
-: Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Node.js, AWS Apigateway, Lambda PowerTools, JSON.
+: Amazon Web Services (AWS), Python, BitBucket, Boto3, Postman, AWS Lambda Functions, JSON, AWS S3, Pydantic.
 <!-- extend the keywords section -->
 *keywords*:
 : AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), AWS CDK.
