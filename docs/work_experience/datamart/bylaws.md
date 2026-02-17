@@ -22,7 +22,7 @@ This project involved developing a service to extract structured data from compa
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Implemented a comparator that use previously extracted JSONs by hand to check automatically the correctness of the LLM response.
+- Implemented a comparator that uses previously extracted JSONs manually to automatically check the accuracy of the LLM responses.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Received issues found by others team members to be fixed for me before users reported them.
