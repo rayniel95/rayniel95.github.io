@@ -25,13 +25,9 @@ This project involved developing a service for extract structured data from comp
 - Implemented a comparator that use previously extracted JSONs by hand to check automatically the correctness of the LLM response.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
-- Actively tested the Fleet platform, identifying and reporting bugs to backend and cloud developers to drive continuous improvement.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
-- Implemented AWS AppSync endpoints and connected them to REST API endpoints to execute backend workflows.
-- Built a secure, custom, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration.
-- Implemented an endpoint to retrieve users from different groups using AWS Lambda and Lambda PowerTools, improving code quality and readability.
-- Implemented multiple Python scripts to process and manipulate large JSON payloads and structured datasets, supporting core system functionality.
+- Implemented the backend logic to receive the company RUT, search the company creation contract, send it to LLM and receive the structured JSON file.
 
 ### Soft achievements
 
