@@ -51,4 +51,4 @@ Stack:
 : Amazon Web Services (AWS), Python, BitBucket, Boto3, Postman, AWS Lambda Functions, JSON, AWS S3, Pydantic.
 <!-- extend the keywords section -->
 *keywords*:
-: AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), AWS CDK.
+: AWS Lambda Functions, REST API, IA, LLM, GTP4o, JSON.
