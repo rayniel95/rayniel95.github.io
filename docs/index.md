@@ -13,7 +13,7 @@
 ## Summary
 I am a Spanish computer scientist who graduated from the University of Havana, Cuba, and currently live in Spain. I completed my degree in November 2020. I am passionate about building software and exploring different technologies. While I am not an expert in any single technology, I prefer to research and select the best tool for each problem. That said, in previous roles I have often used the same technology repeatedly due to client requirements.
 
-I am a hard-working, inquisitive, creative, and enthusiastic professional with a strong theoretical background in distributed systems, machine learning, blockchain technology, programming, and mathematics. I bring over four years of experience in software development, with skills in collaboration, adaptability, and communication. I enjoy building software-based products from scratch into polished solutions that clients can use daily.
+I am a hard-working, inquisitive, creative, proactive, and enthusiastic professional with a strong theoretical background in distributed systems, machine learning, blockchain technology, programming, and mathematics. I bring over four years of experience in software development, with skills in collaboration, adaptability, and communication. I enjoy building software-based products from scratch into polished solutions that clients can use daily.
 
 **Actually I am looking for a job in Spain.**
 
