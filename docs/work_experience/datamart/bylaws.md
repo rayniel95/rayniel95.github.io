@@ -22,7 +22,7 @@ This project involved developing a service for extract structured data from comp
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Implemented most of the backend logic using an internal low-code platform named Fleet, reducing errors and delivering more value in less time for the client.
+- Implemented a comparator that use previously extracted JSONs by hand to check automatically the correctness of the LLM response.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Actively tested the Fleet platform, identifying and reporting bugs to backend and cloud developers to drive continuous improvement.
