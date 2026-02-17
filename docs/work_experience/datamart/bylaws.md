@@ -38,7 +38,6 @@ This project involved developing a service for extract structured data from comp
 - Exposed in the daily meetings the progress of my tasks, helping to others to understand my progress and the implementation of my tasks.
 - Tested the new system capabilities with the Scrum Master and Product Owner.
 - Received questions and help request from others developers and helped to fix their issues making suggestions about how to test/implement a specific functionality.
-- Taught XState to a new frontend developer to ensure knowledge sharing.
 
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
