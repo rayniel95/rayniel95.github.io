@@ -27,7 +27,7 @@ This project involved developing a service to extract structured data from compa
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
-- Implemented the backend logic to receive the company RUT, search the company creation contract, send it to LLM and receive the structured JSON file.
+- Implemented the backend logic to receive the company RUT, search for the company creation contract, send it to an LLM, and receive the structured JSON file.
 
 ### Soft achievements
 
