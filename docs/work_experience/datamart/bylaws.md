@@ -17,7 +17,7 @@ Havana, Cuba
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
 
-This project involved developing a service for extract structured data from company creation contracts in pdf. The service read the pdf, previously downloaded from the RES (Registro de Empresas y Sociedades), extract the contract text and send it to a LLM (Large Lenguage Model), the LLM generate a JSON object with the correct data. We use GPT4o as LLM for this service. My role involving the backend development and check the correctness of the LLM response.
+This project involved developing a service to extract structured data from company creation contracts in PDF format. The service read the PDFs, previously downloaded from the RES (Registro de Empresas y Sociedades), extracted the contract text, and sent it to an LLM (Large Language Model). Then, the LLM generated a JSON object with the structured data. We used GPT-4o as the LLM for this service. My role involved backend development and verifying the accuracy of the LLM responses.
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
