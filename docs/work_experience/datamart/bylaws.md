@@ -17,9 +17,7 @@ Havana, Cuba
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
 
-This project involved developing a SaaS platform for the Chilean bank BCI. The platform enables BCI clients to contract Point of Sale (POS) services for their businesses by following a simple, guided process from their mobile devices—where they enter their information, specify the number of POS terminals they need, and sign the contract digitally.  
-On the bank's side, a separate platform communicates with the client-facing application. It is used to review and approve client requests, as well as to complete any missing information.  
-My role involved helping implement both platforms. I developed the infrastructure as code using AWS and programmed the backend logic using Fleet, an internal low-code platform.
+This project involved developing a service for extract structured data from company creation contracts in pdf. The service read the pdf, previously downloaded from the RES (Registro de Empresas y Sociedades), extract the contract text and send it to a LLM (Large Lenguage Model), the LLM generate a JSON object with the correct data. We use GPT4o as LLM for this service. My role involving the backend development and check the correctness of the LLM response.
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
@@ -54,7 +52,7 @@ My role involved helping implement both platforms. I developed the infrastructur
 - [Daniel de la Osa](https://www.linkedin.com/in/daniel-de-la-osa-24a6271b5/) (Software Architect)
 
 Stack:
-: Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway, Lambda PowerTools, JSON.
+: Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Node.js, AWS Apigateway, Lambda PowerTools, JSON.
 <!-- extend the keywords section -->
 *keywords*:
-: AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), AWS CDK, XState, State Machine, low-code.
+: AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), AWS CDK.
