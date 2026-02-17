@@ -45,6 +45,7 @@ This project involved developing a service for extract structured data from comp
 - [Odelvis Fernandez Izquierdo](https://www.linkedin.com/in/odelvis-fernandez-izquierdo-565a41188/) (Software engineer | Software Architect | Cloud Architect)
 - [Yahima Vigo](https://www.linkedin.com/in/yahima-vigo/) (Scrum Master | Project Manager)
 - [Daniel de la Osa](https://www.linkedin.com/in/daniel-de-la-osa-24a6271b5/) (Software Architect)
+- [Roger Concepción Ferrán](https://www.linkedin.com/in/roger-concepcion-ferran-66ab0015a/)
 
 Stack:
 : Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Node.js, AWS Apigateway, Lambda PowerTools, JSON.
