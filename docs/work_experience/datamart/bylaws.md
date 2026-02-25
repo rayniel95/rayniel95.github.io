@@ -48,7 +48,7 @@ This project involved developing a service to extract structured data from compa
 - [Roger Concepción Ferrán](https://www.linkedin.com/in/roger-concepcion-ferran-66ab0015a/) (Backend developer)
 
 Stack:
-: Amazon Web Services (AWS), Python, BitBucket, Boto3, Postman, AWS Lambda Functions, JSON, AWS S3, Pydantic.
+: Amazon Web Services (AWS), Python, BitBucket, Boto3, Postman, AWS Lambda Functions, JSON, AWS S3, PydanticAI, Pydantic.
 <!-- extend the keywords section -->
 *keywords*:
 : AWS Lambda Functions, REST API, IA, LLM, GTP4o, JSON.
