@@ -11,9 +11,7 @@
 :envelope: rainyel.ramos@gmail.com
 
 ## Summary
-I am a Spanish computer scientist who graduated from the University of Havana, Cuba, and currently live in Spain. I completed my degree in November 2020. I am passionate about building software and exploring different technologies. While I am not an expert in any single technology, I prefer to research and select the best tool for each problem. That said, in previous roles I have often used the same technology repeatedly due to client requirements.
-
-I am a hard-working, inquisitive, creative, proactive, collaborative, and enthusiastic professional with a strong theoretical background. I enjoy building software-based products from scratch into polished solutions that clients can use daily.
+I am passionate about software development and exploring new technologies. I prefer to seek out and learn the tool that best solves the problem. However, in all previous roles, I have worked with the technologies required by the client. Hardworking, inquisitive, creative, collaborative, proactive, and detail-oriented. Accustomed to working with agile methodologies (SCRUM). I love developing software from the ground up and transforming it into a product that becomes indispensable to the client.
 
 **Actually I am looking for a job in Spain.**
 
