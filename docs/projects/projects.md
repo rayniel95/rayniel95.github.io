@@ -13,7 +13,7 @@ This project is a clinical history admin dashboard. Through the dashboard, it is
 - Developed a dashboard that interacts with the blockchain and subgraphs to store, update, and manage information.
 
 Stack:
-: Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK, Hardhat, Hardhat Ignition, React Query, RainbowKit, Pinata, React Admin, Viem, Solidity.
+: Typescript, React, Next.js, Node.js, Bootstrap, Alchemy SDK, Hardhat, Hardhat Ignition, React Query, RainbowKit, Pinata, React Admin, Viem, Solidity.
 
 *keywords*:
 : Blockchain, Cryptography, Frontend, HTML, Web App, NFT, Medical Record.
@@ -392,7 +392,12 @@ Stack:
 
 *November 2016 - December 2016*
 
-Implemented a very funny snake game in x86 assembly.
+This project aimed to implement the classic Snake game. It features a snake that eats apples, grows proportionally, and must avoid colliding with itself. This implementation was carried out entirely in x86 assembly.
+
+### Hard / Technical achievements
+
+- Implemented sound effects by accessing the computer's audio ports, modifying the frequency and playback duration.
+- Applied good programming practices by keeping procedures small and functional, adhering to the Single Responsibility Principle.
 
 Stack:
 : Assembly (x86), SASM, NASM, Quemu
