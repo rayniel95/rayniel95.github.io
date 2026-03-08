@@ -36,6 +36,8 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - Used AWS EventBridge to connect CloudWatch Alarms to AWS Systems Manager Automation runbooks to help automatically recover the system after known, predictable errors.
 - Designed the architecture of state machine (frontend flow) using Xstate.
 - Implemented multiple state machines to guarantee the correct frontend flow and encapsulate frontend logic improving maintainability and reducing edge-case errors.
+- Checked the correctness of the data stored in the database using multiple SQL queries.
+- Validated the data flow by querying the database with multiple SQL queries to check the data stored.
 
 ### Soft achievements
 
@@ -59,7 +61,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - [Aleida Gonzalez](https://www.linkedin.com/in/aleidagonzalezguerrero/) (Frontend developer)
 
 Stack:
-: Amazon Web Services (AWS), Python, Serverless Framework, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway.
+: Amazon Web Services (AWS), Python, Serverless Framework, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway, PostgreSQL, pgAdmin, SQL.
 <!-- extend the keywords section -->
 *keywords*:
 : AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), Serverless Framework, AWS CDK, XState, State Machine.
