@@ -28,6 +28,8 @@ This project involved developing a service to extract structured data from compa
 - Received issues found by others team members to be fixed for me before users reported them.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
 - Implemented the backend logic to receive the company RUT, search for the company creation contract, send it to an LLM, and receive the structured JSON file.
+- Checked the correctness of the data stored in the database using multiple SQL queries.
+- Validated the data flow by querying the database with multiple SQL queries to check the data stored.
 
 ### Soft achievements
 
@@ -48,7 +50,7 @@ This project involved developing a service to extract structured data from compa
 - [Roger Concepción Ferrán](https://www.linkedin.com/in/roger-concepcion-ferran-66ab0015a/) (Backend developer)
 
 Stack:
-: Amazon Web Services (AWS), Python, BitBucket, Boto3, Postman, AWS Lambda Functions, JSON, AWS S3, PydanticAI, Pydantic.
+: Amazon Web Services (AWS), Python, BitBucket, Boto3, Postman, AWS Lambda Functions, JSON, AWS S3, PydanticAI, Pydantic, SQL, PostgreSQL, pgAdmin.
 <!-- extend the keywords section -->
 *keywords*:
 : AWS Lambda Functions, REST API, IA, LLM, GTP4o, JSON.
