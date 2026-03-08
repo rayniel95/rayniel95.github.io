@@ -37,6 +37,7 @@ This project is related to increase the systems functionalities of datamart clie
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Used Postman to make queries to AWS Appsync endpoints.
+- Implemented endpoints to update, delete or insert data into the database.
 
 ### Soft achievements
 
@@ -63,7 +64,7 @@ This project is related to increase the systems functionalities of datamart clie
 - [Rubiel Gonzalez Labarta](https://cu.linkedin.com/in/rubiel-gonzalez-labarta) (Scrum Master)
 
 Stack:
-: Draw.io, Amazon Web Services (AWS), Python, Velocity Template Language (VTL), Serverless Framework, BitBucket, GraphQL, Boto3, GQL (GraphQL client), PyTest, AWS Appsync, Postman.
+: Draw.io, Amazon Web Services (AWS), Python, Velocity Template Language (VTL), Serverless Framework, BitBucket, GraphQL, Boto3, GQL (GraphQL client), PyTest, AWS Appsync, Postman, SQL.
 <!-- extend the keywords section -->
 *keywords*:
 : Architecture Diagrams, AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC).
