@@ -34,6 +34,8 @@ My role involved helping implement both platforms. I developed the infrastructur
 - Built a secure, custom, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration.
 - Implemented an endpoint to retrieve users from different groups using AWS Lambda and Lambda PowerTools, improving code quality and readability.
 - Implemented multiple Python scripts to process and manipulate large JSON payloads and structured datasets, supporting core system functionality.
+- Checked the correctness of the data stored in the database using multiple SQL queries.
+- Validated the data flow by querying the database with multiple SQL queries to check the data stored.
 
 ### Soft achievements
 
@@ -56,7 +58,7 @@ My role involved helping implement both platforms. I developed the infrastructur
 - [Jorge Arancibia Leiva](https://www.linkedin.com/in/jaranci/) (Frontend developer)
 
 Stack:
-: Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway, Lambda PowerTools, JSON.
+: Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway, Lambda PowerTools, JSON, SQL, PostgreSQL, pgAdmin.
 <!-- extend the keywords section -->
 *keywords*:
 : AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), AWS CDK, XState, State Machine, low-code.
