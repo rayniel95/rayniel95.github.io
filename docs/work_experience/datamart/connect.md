@@ -37,7 +37,7 @@ This project is related to increase the systems functionalities of datamart clie
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Used Postman to make queries to AWS Appsync endpoints.
-- Implemented endpoints to update, delete or insert data into the database.
+- Implemented endpoints that use SQL code to update, delete or insert data into the database.
 
 ### Soft achievements
 
