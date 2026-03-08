@@ -13,7 +13,7 @@ This project is a clinical history admin dashboard. Through the dashboard, it is
 - Developed a dashboard that interacts with the blockchain and subgraphs to store, update, and manage information.
 
 Stack:
-: Typescript, React, Next.js, Node.js, Bootstrap, Alchemy SDK, Hardhat, Hardhat Ignition, React Query, RainbowKit, Pinata, React Admin, Viem, Solidity.
+: Typescript, React, Next.js, Node.js, Bootstrap, Alchemy SDK, Hardhat, Hardhat Ignition, React Query, RainbowKit, Pinata, React Admin, Viem, Solidity, HTML, CSS.
 
 *keywords*:
 : Blockchain, Cryptography, Frontend, HTML, Web App, NFT, Medical Record.
@@ -34,7 +34,7 @@ This is a basic blockchain explorer for the Ethereum blockchain. It has all the 
 - Implemented a polling mechanism to read the latest blocks every five seconds.
 
 Stack:
-: Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK.
+: Typescript, Next.js, Node.js, Bootstrap, Alchemy SDK, HTML, CSS.
 
 *keywords*:
 : Blockchain, Cryptography, Frontend, HTML, Web App.
