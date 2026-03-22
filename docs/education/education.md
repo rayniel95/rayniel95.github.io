@@ -1,4 +1,15 @@
-TODO
+[Havana University](https://www.uh.cu/inicio/)
+
+Lic. Computer Science,
+
+*from 2015 to 2020*
+
+4.07/5 GPA
+
+**Activites and groups:**
+Member of Cryptography Institute of Havana University
+
+- [Computer Science degree certification](https://github.com/rayniel95/rayniel95.github.io/blob/master/docs/assets/documents/TITULO.pdf)
 <!-- 
 School Name (link to official website)
 
