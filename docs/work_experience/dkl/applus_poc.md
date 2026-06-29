@@ -15,7 +15,7 @@
 
 Ourense, Spain
 
-**Recommendation:** [Watch on Linkedin](https://www.linkedin.com/in/rainyel-ramos)
+**Recommendation:** [See on Linkedin](https://www.linkedin.com/in/rainyel-ramos)
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
 This project involved developing a proof-of-concept (POC) web platform for the accredited certification authority, Applus. The platform helps Applus standardize inspection processes, create new inspection workflows from regulatory standards using AI assistance, visualize the regulatory sources referenced in each inspection process, interact with an AI-powered chatbot to answer questions about inspection procedures, and migrate various Applus inspection process documents to the [Fieldeas](https://www.linkedin.com/company/fieldeas/?originalSubdomain=es) format. My role involved contributing to the design and implementation of the platform.
