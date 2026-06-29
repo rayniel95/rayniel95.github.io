@@ -56,7 +56,7 @@ This project involved developing a proof-of-concept (POC) web platform for the a
 - [Miguel Maricalva](https://www.linkedin.com/in/miguelmaricalva/) (Data Engineer | Software Engineer)
 
 Stack:
-: Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway, Lambda PowerTools, JSON, SQL, PostgreSQL, pgAdmin.
+: Python, Django Rest Framework, JSON, SQL, PostgreSQL, pgAdmin, Claude Code (Opus 4.7), Git, Github, React, Docker, docker-compose.
 <!-- extend the keywords section -->
 *keywords*:
-: AWS Lambda Functions, AWS Step Functions, AWS AppSync, AWS DynamoDB, AWS CloudFormation, AWS ApiGateway, WebSockets, Code Migration, Infrastructure as Code (IaC), AWS CDK, XState, State Machine, low-code.
+: Agentic programming, AI Engineering.
