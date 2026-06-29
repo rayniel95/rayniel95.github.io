@@ -22,18 +22,12 @@ This project involved developing a proof-of-concept (POC) web platform for the a
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Implemented most of the backend logic using an internal low-code platform named Fleet, reducing errors and delivering more value in less time for the client.
-- Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
-- Reported found bugs to front end developers to be fixed before users reported them.
-- Actively tested the Fleet platform, identifying and reporting bugs to backend and cloud developers to drive continuous improvement.
-- Received issues found by others team members to be fixed for me before users reported them.
-- Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
-- Implemented AWS AppSync endpoints and connected them to REST API endpoints to execute backend workflows.
-- Built a secure, custom, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration.
-- Implemented an endpoint to retrieve users from different groups using AWS Lambda and Lambda PowerTools, improving code quality and readability.
-- Implemented multiple Python scripts to process and manipulate large JSON payloads and structured datasets, supporting core system functionality.
-- Checked the correctness of the data stored in the database using multiple SQL queries.
-- Validated the data flow by querying the database with multiple SQL queries to check the data stored.
+- Contributed to the design of the platform's architecture, collaborating on the overall system structure and technical decisions.
+- Designed and implemented a feature that enables users to visualize the regulatory sources referenced at each step of an inspection process, providing direct traceability between inspection procedures and the corresponding regulatory requirements.
+- Extended a library that were used for extract document sections into one that extract and convert sections of regulatory documents into HTML, enabling large language models (LLMs) to process the information more efficiently and accurately.
+- Leveraged AI-assisted development workflows for brainstorming, system design, implementation, testing, debugging, and bug fixing, improving development efficiency while reducing model hallucinations through effective prompting and validation techniques.
+- Verified and validated AI-generated code before integration, preventing incorrect design and implementation decisions caused by model hallucinations and ensuring code quality.
+- Used AI to rapidly understand large and unfamiliar codebases, significantly reducing onboarding time and accelerating development on the project.
 
 ### Soft achievements
 
