@@ -16,9 +16,7 @@
 Ourense, Spain
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
-
-This project involved developing a proof of concept (POC) web platform for the certification acredited autority, Applus. The platform help to Applus to standarize the inpection processes; to create new inspecion processes, from norms, using an AI-assisted workflow; to visualize the normative sources cited in the inspection process; to make questions, about the inspection process, to an AI-assisted chatbot and to migrate the differents Applus inpsection process resulting documents to [Fieldeas](https://www.linkedin.com/company/fieldeas/?originalSubdomain=es) format. 
-My role involved helping to design and implement the platform. 
+This project involved developing a proof-of-concept (POC) web platform for the accredited certification authority, Applus. The platform helps Applus standardize inspection processes, create new inspection workflows from regulatory standards using AI assistance, visualize the regulatory sources referenced in each inspection process, interact with an AI-powered chatbot to answer questions about inspection procedures, and migrate various Applus inspection process documents to the [Fieldeas](https://www.linkedin.com/company/fieldeas/?originalSubdomain=es) format. My role involved contributing to the design and implementation of the platform.
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
