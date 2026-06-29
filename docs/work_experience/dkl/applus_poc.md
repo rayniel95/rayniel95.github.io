@@ -49,12 +49,13 @@ This project involved developing a proof-of-concept (POC) web platform for the a
 
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
-- [Yanet Garcia](https://www.linkedin.com/in/yanetgarciar/) (Project Manager)
-- [Mailen Edith Escobar Pompa](https://www.linkedin.com/in/mailen-edith-escobar-pompa-a87707221/) (Scrum Master)
-- [Rigoberto Peña Cabrera](https://www.linkedin.com/in/rigoberto-pe%C3%B1a-cabrera-02424899/) (Backend developer)
-- [Adrian Almaguel Guerra](https://www.linkedin.com/in/aalmaguelg/) (Backend developer)
-- [Rolando Llanes Batista](https://www.linkedin.com/in/rolando-llanes/) (Frontend developer)
-- [Jorge Arancibia Leiva](https://www.linkedin.com/in/jaranci/) (Frontend developer)
+- [Carlos Fleitas Aparicio](https://www.linkedin.com/in/carlos-fleitas/) (Data Engineer | Software Engineer)
+- [Alessa Pérez Roque](https://www.linkedin.com/in/alessa-p%C3%A9rez-roque-6ba55b125/) (Data Engineer | Software Engineer)
+- [Juan David Menéndez del Cueto](https://www.linkedin.com/in/juan-david-men%C3%A9ndez-del-cueto-0a255a22a/) (Data Engineer | Software Engineer)
+- Luis Marti (AI Engineer | Data Engieer)
+- [Jose Alfredo Vega](https://www.linkedin.com/in/javf1975/) (Founder)
+- [Gabriel Llobera Salas](https://www.linkedin.com/in/gabriel-llobera-salas-b4a500142/) (Tech Leader)
+- [Miguel Maricalva](https://www.linkedin.com/in/miguelmaricalva/) (Data Engineer | Software Engineer)
 
 Stack:
 : Amazon Web Services (AWS), Python, BitBucket, GraphQL, Boto3, AWS Appsync, Postman, AWS Lambda Functions, AWS CDK Framework, Typescript, Django Rest Framework, AWS Step Functions, AWS DynamoDB, Xstate.js, Node.js, AWS Apigateway, Lambda PowerTools, JSON, SQL, PostgreSQL, pgAdmin.
