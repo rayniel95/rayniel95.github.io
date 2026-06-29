@@ -41,11 +41,9 @@ This project involved developing a proof-of-concept (POC) web platform for the a
 - Attended to daily meetings with the team to coordinate tasks and find potentials problems in the development of the solution.
 - Used Jira to organize and track the assignee tasks.
 - Followed the scrum methodology guaranteeing an agile development process.
-- Asked for help to others more experienced developers to solve difficult issues in my implementation/code.
 - Exposed in the daily meetings the progress of my tasks, helping to others to understand my progress and the implementation of my tasks.
-- Tested the new system capabilities with the Scrum Master and Product Owner.
-- Received questions and help request from others developers and helped to fix their issues making suggestions about how to test/implement a specific functionality.
-- Taught XState to a new frontend developer to ensure knowledge sharing.
+- Participated in pair programming sessions with teammates to design the system, define implementation tasks, and help distribute work across the team.
+
 
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
