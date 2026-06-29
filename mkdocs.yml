@@ -34,6 +34,7 @@ nav:
   - 😃 About me: index.md
   - 🏢 Work experience: 
     - datamart: 
+      - Applus-poc: ./work_experience/dkl/applus_poc.md
       - Bylaws: ./work_experience/datamart/bylaws.md
       - BCI Pagos: ./work_experience/datamart/bci_pagos.md
       - BCI PymePj: ./work_experience/datamart/bci_pyme_pj.md 
