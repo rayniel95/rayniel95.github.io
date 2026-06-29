@@ -18,8 +18,7 @@ Ourense, Spain
 **Recommendation:** [See on Linkedin](https://www.linkedin.com/in/rainyel-ramos)
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
-This project involved developing a proof-of-concept (POC) web platform for the accredited certification authority, Applus. The platform helps Applus standardize inspection processes, create new inspection workflows from regulatory standards using AI assistance, visualize the regulatory sources referenced in each inspection process, interact with an AI-powered chatbot to answer questions about inspection procedures, and migrate various Applus inspection process documents to the [Fieldeas](https://www.linkedin.com/company/fieldeas/?originalSubdomain=es) format. My role involved contributing to the design and implementation of the platform.
-
+This project involved developing a proof-of-concept (POC) web platform for the accredited certification authority, Applus. The platform helps Applus standardize inspection processes, create new inspection workflows from regulatory standards using AI assistance, visualize the regulatory sources referenced in each inspection process, interact with an AI-powered chatbot to answer questions about inspection procedures, and migrate various Applus inspection process documents to the [Fieldeas](https://www.linkedin.com/company/fieldeas/?originalSubdomain=es) format. Contributed to the platform's architecture and implementation by designing modules and class structures, leveraging AI to generate implementation code, and validating the generated code through comprehensive edge-case testing to ensure correctness and reliability.
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
@@ -43,7 +42,6 @@ This project involved developing a proof-of-concept (POC) web platform for the a
 - Followed the scrum methodology guaranteeing an agile development process.
 - Exposed in the daily meetings the progress of my tasks, helping to others to understand my progress and the implementation of my tasks.
 - Participated in pair programming sessions with teammates to design the system, define implementation tasks, and help distribute work across the team.
-
 
 *Others team members*:
 <!-- maybe extend this with more public profiles? -->
