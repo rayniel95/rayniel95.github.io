@@ -1,8 +1,6 @@
 [Havana University](https://www.uh.cu/inicio/)
 
-Lic. Computer Science,
-
-**Degree homologated in Spain. Contact me to view the official recognition certificate.**
+Lic. Computer Science, **Degree homologated in Spain. Contact me to view the official recognition certificate.**
 
 *from 2015 to 2020*
 
