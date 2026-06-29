@@ -17,11 +17,8 @@ Ourense, Spain
 
 <!-- who is the client, what the client have, what the client want, what i can do -->
 
-This project involved developing a proof of concept (POC) web platform for the certification acredited autority, Applus. 
-
-The platform enables BCI clients to contract Point of Sale (POS) services for their businesses by following a simple, guided process from their mobile devices—where they enter their information, specify the number of POS terminals they need, and sign the contract digitally.  
-On the bank's side, a separate platform communicates with the client-facing application. It is used to review and approve client requests, as well as to complete any missing information.  
-My role involved helping implement both platforms. I developed the infrastructure as code using AWS and programmed the backend logic using Fleet, an internal low-code platform.
+This project involved developing a proof of concept (POC) web platform for the certification acredited autority, Applus. The platform help to Applus to standarize the inpection processes; to create new inspecion processes, from norms, using an AI-assisted workflow; to visualize the normative sources cited in the inspection process; to make questions, about the inspection process, to an AI-assisted chatbot and to migrate the differents Applus inpsection process resulting documents to [Fieldeas](https://www.linkedin.com/company/fieldeas/?originalSubdomain=es) format. 
+My role involved helping to design and implement the platform. 
 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
