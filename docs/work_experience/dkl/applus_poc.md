@@ -23,10 +23,10 @@ This project involved developing a proof-of-concept (POC) web platform for the a
 ### Hard / Technical achievements
 
 - Contributed to the design of the platform's architecture, collaborating on the overall system structure and technical decisions.
-- Designed and implemented a feature that enables users to visualize the regulatory sources referenced at each step of an inspection process, providing direct traceability between inspection procedures and the corresponding regulatory requirements.
-- Extended a library that were used for extract document sections into one that extract and convert sections of regulatory documents into HTML, enabling large language models (LLMs) to process the information more efficiently and accurately.
+- Designed and implemented, using Python, React and AI assisted development; a feature that enables users to visualize the regulatory sources referenced at each step of an inspection process, providing direct traceability between inspection procedures and the corresponding regulatory requirements.
+- Extended, using Python, docling and AI assisted development; a library that were used for extract document sections into one that extract and convert sections of regulatory documents into HTML, enabling large language models (LLMs) to process the information more efficiently and accurately.
 - Leveraged AI-assisted development workflows for brainstorming, system design, implementation, testing, debugging, and bug fixing, improving development efficiency while reducing model hallucinations through effective prompting and validation techniques.
-- Verified and validated AI-generated code before integration, preventing incorrect design and implementation decisions caused by model hallucinations and ensuring code quality.
+- Reviewed, tested, and validated AI-generated Python code before integration, ensuring correctness and preventing design and implementation errors resulting from model hallucinations.
 - Used AI to rapidly understand large and unfamiliar codebases, significantly reducing onboarding time and accelerating development on the project.
 
 ### Soft achievements
