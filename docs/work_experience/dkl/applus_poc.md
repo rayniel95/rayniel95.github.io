@@ -9,7 +9,7 @@
 : [Applus](https://www.applus.com/es/es/)
 
 ##### Role:
-: Software Engineer
+: Software Engineer | Data Engineer
 
 *April, 2026 - June, 2026*
 
@@ -42,7 +42,7 @@ This project involved developing a proof-of-concept (POC) web platform for the a
 - [Carlos Fleitas Aparicio](https://www.linkedin.com/in/carlos-fleitas/) (Data Engineer | Software Engineer)
 - [Alessa Pérez Roque](https://www.linkedin.com/in/alessa-p%C3%A9rez-roque-6ba55b125/) (Data Engineer | Software Engineer)
 - [Juan David Menéndez del Cueto](https://www.linkedin.com/in/juan-david-men%C3%A9ndez-del-cueto-0a255a22a/) (Data Engineer | Software Engineer)
-- Luis Marti (AI Engineer | Data Engieer)
+- Luis Marti (AI Engineer | Data Engineer)
 - [Jose Alfredo Vega](https://www.linkedin.com/in/javf1975/) (Founder)
 - [Gabriel Llobera Salas](https://www.linkedin.com/in/gabriel-llobera-salas-b4a500142/) (Tech Leader)
 - [Miguel Maricalva](https://www.linkedin.com/in/miguelmaricalva/) (Data Engineer | Software Engineer)
