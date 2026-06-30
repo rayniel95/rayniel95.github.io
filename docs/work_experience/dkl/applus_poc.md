@@ -51,4 +51,4 @@ Stack:
 : Python, Django Rest Framework, JSON, SQL, PostgreSQL, pgAdmin, Claude Code (Opus 4.7), Git, Github, React, Docker, docker-compose, docling (Python library).
 <!-- extend the keywords section -->
 *keywords*:
-: Agentic programming, AI Engineering.
+: Agentic programming, AI Engineering, containers.
