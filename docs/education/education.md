@@ -2,6 +2,8 @@
 
 Lic. Computer Science, **Degree homologated in Spain. Contact me to view the official recognition certificate.**
 
+**Grado homologado en España. Contactar para acceder a la credencial.**
+
 *from 2015 to 2020*
 
 4.07/5 GPA
