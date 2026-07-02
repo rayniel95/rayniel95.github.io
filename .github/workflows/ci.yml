@@ -11,8 +11,8 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: pip install mkdocs-static-i18n
+      - run: pip install mkdocs-material # TODO - fix the version to avoid breaking changes
+      - run: pip install mkdocs-git-revision-date-localized-plugin # TODO - fix the version to avoid breaking changes
+      - run: pip install mkdocs-static-i18n # TODO - fix the version to avoid breaking changes
       - run: mkdocs gh-deploy --force
  
