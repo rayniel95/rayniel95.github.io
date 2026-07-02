@@ -11,7 +11,9 @@ theme:
     - navigation.top
   icon:
     repo: fontawesome/brands/github
-    
+  language: es
+  alternate_language: en
+
 markdown_extensions:
   - attr_list
   - pymdownx.progressbar
@@ -27,34 +29,73 @@ markdown_extensions:
   - extra
 
 plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      languages:
+        - locale: es
+          default: true
+          name: Español
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            😃 Sobre mí: 😃 About me
+            🏢 Experiencia laboral: 🏢 Work experience
+            DKL: DKL
+            Applus-poc: Applus-poc
+            datamart: datamart
+            Estatutos: Bylaws
+            BCI Pagos: BCI Pagos
+            BCI PymePj: BCI PymePj
+            Adelanto de Nómina: Payroll Advance
+            Mejora de Connect: Connect Improvement
+            Onboarding: Onboarding
+            elasbit: elasbit
+            Solana LadyBugs: Solana LadyBugs
+            agTrace: agTrace
+            AgTrace Blockchain: AgTrace Blockchain
+            Universidad de La Habana: Havana University
+            Universidad de Artemisa: Artemisa University
+            💻 Proyectos: 💻 Projects
+            💪 Habilidades: 💪 Skills
+            📝 Educación: 📝 Education
+            📜 Licencias y certificaciones: 📜 Licences and certifications
+            ❤️ Experiencia como voluntario: ❤️ Volunteer experience
+            📖 Cursos: 📖 Courses
+            🏆Calificaciones: 🏆Test scores
+            🇪🇸🇬🇧 Idiomas: 🇪🇸🇬🇧 Languages
+            📚 Publicaciones: 📚 Publications
   - git-revision-date-localized:
       type: date
 
-nav: 
-  - 😃 About me: index.md
-  - 🏢 Work experience: 
-    - DKL:
-      - Applus-poc: ./work_experience/dkl/applus_poc.md
-    - datamart: 
-      - Bylaws: ./work_experience/datamart/bylaws.md
-      - BCI Pagos: ./work_experience/datamart/bci_pagos.md
-      - BCI PymePj: ./work_experience/datamart/bci_pyme_pj.md 
-      - Payroll Advance: ./work_experience/datamart/payroll_advance.md 
-      - Connect Improvement: ./work_experience/datamart/connect.md 
-      - Onboarding: ./work_experience/datamart/onboarding.md  
-    - elasbit:
-      - Solana LadyBugs: ./work_experience/solana_ladybugs.md
-    - agTrace:
-      - AgTrace Blockchain: ./work_experience/agtrace_blockchain.md
-    - Havana University: ./work_experience/havana_university.md
-    - Artemisa University: ./work_experience/artemisa_university.md
-    
-  - 💻 Projects: ./projects/projects.md
-  - 💪 Skills: ./skills/skills.md
-  - 📝 Education: ./education/education.md
-  - 📜 Licences and certifications: ./licences_and_certifications/licences_and_certifications.md
-  - ❤️ Volunteer experience: ./volunteer_experience/volunteer_experience.md
-  - 📖 Courses: ./courses/courses.md
-  - 🏆Test scores: ./test_scores/test_scores.md
-  - 🇪🇸🇬🇧 Languages: ./languages/languages.md
-  - 📚 Publications: ./publications/publications.md
+nav:
+  - 😃 Sobre mí: index.md
+  - 🏢 Experiencia laboral:
+      - DKL:
+          - Applus-poc: ./work_experience/dkl/applus_poc.md
+      - datamart:
+          - Estatutos: ./work_experience/datamart/bylaws.md
+          - BCI Pagos: ./work_experience/datamart/bci_pagos.md
+          - BCI PymePj: ./work_experience/datamart/bci_pyme_pj.md
+          - Adelanto de Nómina: ./work_experience/datamart/payroll_advance.md
+          - Mejora de Connect: ./work_experience/datamart/connect.md
+          - Onboarding: ./work_experience/datamart/onboarding.md
+      - elasbit:
+          - Solana LadyBugs: ./work_experience/solana_ladybugs.md
+      - agTrace:
+          - AgTrace Blockchain: ./work_experience/agtrace_blockchain.md
+      - Universidad de La Habana: ./work_experience/havana_university.md
+      - Universidad de Artemisa: ./work_experience/artemisa_university.md
+
+  - 💻 Proyectos: ./projects/projects.md
+  - 💪 Habilidades: ./skills/skills.md
+  - 📝 Educación: ./education/education.md
+  - 📜 Licencias y certificaciones: ./licences_and_certifications/licences_and_certifications.md
+  - ❤️ Experiencia como voluntario: ./volunteer_experience/volunteer_experience.md
+  - 📖 Cursos: ./courses/courses.md
+  - 🏆Calificaciones: ./test_scores/test_scores.md
+  - 🇪🇸🇬🇧 Idiomas: ./languages/languages.md
+  - 📚 Publicaciones: ./publications/publications.md
