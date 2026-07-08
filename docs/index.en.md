@@ -11,7 +11,7 @@
 :envelope: rainyel.ramos@gmail.com
 
 ## Summary
-Software Engineer with almost 5 years of experience developing backend applications and cloud solutions on AWS. I have designed and implemented scalable, maintainable architectures using primarily Python and Node.js (TypeScript). I quickly adapt to new technologies and programming languages whenever project requirements demand it. In addition to my professional experience, I have developed personal projects using Rust, Go, Solidity, React, C#, Prolog, and x86 Assembly, which allows me to approach problems from a broad perspective and choose the most appropriate technology for each use case. I enjoy tackling complex technical challenges, continuously learning new technologies, and collaborating in Agile (Scrum) teams to build high-quality software that delivers business value.
+Software Engineer with nearly 5 years of experience developing backend applications and cloud solutions on AWS. I have designed and implemented scalable, maintainable architectures using primarily Python and Node.js (TypeScript). I quickly adapt to new technologies and programming languages whenever project requirements demand it. In addition to my professional experience, I have developed personal projects using Rust, Go, Solidity, React, C#, Prolog, and x86 Assembly, which allows me to approach problems from a broad perspective and choose the most appropriate technology for each use case. I enjoy tackling complex technical challenges, continuously learning new technologies, and collaborating in Agile (Scrum) teams to build high-quality software that delivers business value.
 
 **Actually I am looking for a job in Spain.**
 
