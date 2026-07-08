@@ -24,8 +24,8 @@ Este proyecto está relacionado con aumentar las funcionalidades de los sistemas
 - Añadí los validadores nativos de AWS API Gateway para verificar la corrección de los parámetros de las solicitudes enviadas por los sistemas de Rankmi. Reduciendo el número de errores en más de un 80%.
 - Escribí múltiples transformaciones de datos en AWS API Gateway (y AWS Appsync) usando VTL antes de reenviar la solicitud a un AWS Appsync (u otros microservicios).
 - Añadí AWS CloudWatch Log Groups a todos los microservicios para monitorear el sistema y rastrear los errores.
-- Implementé un AWS Step Function para gestionar el flujo de trabajo de múltiples llamadas a API a diferentes microservicios y manipulación de datos de forma serverless. Reduciendo el costo y el tiempo de ejecución del microservicio.
-- Usé AWS Lambda PowerTools para parsear, verificar y validar las solicitudes enviadas a los recursos AWS Lambda mejorando la legibilidad, mantenibilidad, calidad, escalabilidad y reutilización del código.
+- Implementé un AWS Step Function, con AWS CDK, Node.js (Typescript), para gestionar el flujo de trabajo de múltiples llamadas a API a diferentes microservicios y manipulación de datos de forma serverless. Reduciendo el costo y el tiempo de ejecución del microservicio.
+- Usé AWS Lambda PowerTools, con Python, para parsear, verificar y validar las solicitudes enviadas a los recursos AWS Lambda mejorando la legibilidad, mantenibilidad, calidad, escalabilidad y reutilización del código.
 - Diseñé e implementé un GraphQL Schema con más de 20 endpoints que incluyen mutations, queries y subscriptions (comunicación a través de websockets con el frontend) y fue usado por un AWS Appsync para gestionar la mayor parte de la lógica del sistema.
 - Usé las mejores prácticas de seguridad para la autenticación de usuarios con JWT (JSON Web Tokens) a través de AWS Cognito. Permitiendo la comunicación con el sistema solo a los usuarios que estaban autenticados en Rankmi.
 - Creé y corregí múltiples endpoints usando Django Rest Framework mejorando la legibilidad del código.

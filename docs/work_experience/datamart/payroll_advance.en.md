@@ -25,8 +25,8 @@ systems and employees can interact with the platform. My work was about to creat
 - Added AWS API Gateway natives validators to check the correctness of the request parameters sent by Rankmi systems. Reducing the numbers of errors in more than 80%.
 - Wrote multiple data transformation in AWS Api Gateway (and AWS Appsync) using VTL prior to resend the request to a AWS Appsync (or other microservices).
 - Added AWS Cloud Watch Log Groups to all the microservices to monitor the system and trace the errors.
-- Implemented a AWS Step Function to manage the workflow of multiple api calls to different microservice and data manipulation in a serverless way. Reducing the cost and execution time of the microservice.
-- Used AWS Lambda PowerTools to parse, check and validate the request sent to AWS Lambdas resources improving code readability, maintainability, quality, scalability and reutilization.
+- Implemented a AWS Step Function, with AWS CDK, Node.js (Typescript), to manage the workflow of multiple api calls to different microservice and data manipulation in a serverless way. Reducing the cost and execution time of the microservice.
+- Used AWS Lambda PowerTools, with Python, to parse, check and validate the request sent to AWS Lambdas resources improving code readability, maintainability, quality, scalability and reutilization.
 - Designed and implemented a GraphQl Shema with more than 20 endpoints that include mutations, queries and subscriptions (communication through websockets with the frontend) and was used by an AWS Appsync to manage most of the logic of the system.
 - Used best security practice for users authentication with JWT (Json Web Tokens) through AWS Cognito. Allowing to communicate with the system to just the users that were authenticated in Rankmi.
 - Created and fixed multiples endpoints using Django Rest Framework improving code readability.
