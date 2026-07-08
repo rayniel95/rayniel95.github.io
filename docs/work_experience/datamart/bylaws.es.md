@@ -22,12 +22,12 @@ Este proyecto consistió en desarrollar un servicio para extraer datos estructur
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Logros técnicos
 
-- Implementé un comparador que usa JSONs extraídos manualmente previamente para verificar automáticamente la precisión de las respuestas del LLM.
-- Participé en sesiones de programación en pareja con compañeros para corregir bugs o revisar código, mejorando la calidad y legibilidad del código.
+- Implementé, usando Python, un comparador que usa JSONs extraídos manualmente de forma previa para verificar automáticamente la precisión de las respuestas del LLM.
+- Participé en sesiones de programación en pareja, con compañeros, para corregir bugs o revisar código, mejorando la calidad y legibilidad del código.
 - Reporté bugs encontrados a los desarrolladores frontend para que fueran corregidos antes de que los usuarios los reportaran.
 - Recibí issues encontrados por otros miembros del equipo para ser corregidos por mí antes de que los usuarios los reportaran.
 - Validé la funcionalidad de la API REST y el cumplimiento de contratos usando Postman, asegurando que los endpoints cumplieran con las especificaciones esperadas de request/response.
-- Implementé la lógica backend para recibir el RUT de la empresa, buscar el contrato de creación de la empresa, enviarlo a un LLM y recibir el archivo JSON estructurado.
+- Implementé la lógica backend, usando Python, para recibir el RUT de la empresa, buscar el contrato de creación de la empresa, enviarlo a un LLM y recibir el archivo JSON estructurado.
 - Verifiqué la corrección de los datos almacenados en la base de datos usando múltiples consultas SQL.
 - Validé el flujo de datos consultando la base de datos con múltiples consultas SQL para revisar los datos almacenados.
 

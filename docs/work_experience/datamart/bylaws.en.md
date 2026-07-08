@@ -22,12 +22,12 @@ This project involved developing a service to extract structured data from compa
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Implemented a comparator that uses previously extracted JSONs manually to automatically check the accuracy of the LLM responses.
+- Implemented, using Python, a comparator that uses previously extracted JSONs manually to automatically check the accuracy of the LLM responses.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Reported found bugs to front end developers to be fixed before users reported them.
 - Received issues found by others team members to be fixed for me before users reported them.
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
-- Implemented the backend logic to receive the company RUT, search for the company creation contract, send it to an LLM, and receive the structured JSON file.
+- Implemented the backend logic, using Python, to receive the company RUT, search for the company creation contract, send it to an LLM, and receive the structured JSON file.
 - Checked the correctness of the data stored in the database using multiple SQL queries.
 - Validated the data flow by querying the database with multiple SQL queries to check the data stored.
 
