@@ -31,8 +31,8 @@ Mi rol involucró ayudar a implementar ambas plataformas. Desarrollé la infraes
 - Recibí issues encontrados por otros miembros del equipo para ser corregidos por mí antes de que los usuarios los reportaran.
 - Validé la funcionalidad de la API REST y el cumplimiento de contratos usando Postman, asegurando que los endpoints cumplieran con las especificaciones esperadas de request/response.
 - Implementé endpoints de AWS AppSync y los conecté a endpoints de API REST para ejecutar los flujos de trabajo del backend.
-- Construí un servicio seguro y personalizado de OTP (One-Time Password) serverless usando AWS Lambda y DynamoDB con expiración basada en TTL.
-- Implementé un endpoint para obtener usuarios de diferentes grupos usando AWS Lambda y Lambda PowerTools, mejorando la calidad y legibilidad del código.
+- Construí un servicio seguro y personalizado de OTP (One-Time Password) serverless usando AWS Lambda, DynamoDB, Node.js (Typescript) y Python con expiración basada en TTL.
+- Implementé un endpoint para obtener usuarios de diferentes grupos usando AWS Lambda, Lambda PowerTools y Python, mejorando la calidad y legibilidad del código.
 - Implementé múltiples scripts en Python para procesar y manipular grandes payloads JSON y conjuntos de datos estructurados, soportando la funcionalidad principal del sistema.
 - Verifiqué la corrección de los datos almacenados en la base de datos usando múltiples consultas SQL.
 - Validé el flujo de datos consultando la base de datos con múltiples consultas SQL para revisar los datos almacenados.
