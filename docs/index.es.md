@@ -11,7 +11,12 @@
 :envelope: rainyel.ramos@gmail.com
 
 ## Resumen
-Soy una persona apasionada por el desarrollo de software y la exploración de nuevas tecnologías. Prefiero buscar y aprender la herramienta que mejor resuelva el problema. Sin embargo, en todos mis roles anteriores he trabajado con las tecnologías requeridas por el cliente. Soy trabajador, curioso, creativo, colaborativo, proactivo y orientado al detalle. Acostumbrado a trabajar con metodologías ágiles (SCRUM). Me encanta desarrollar software desde cero y transformarlo en un producto que se vuelva indispensable para el cliente.
+Ingeniero de Software con más de 4 años de experiencia en el desarrollo de aplicaciones backend y soluciones cloud sobre AWS. He diseñando e implementando arquitecturas escalables y mantenibles utilizando principalmente Python y Node.js (TypeScript). Me adapto con rapidez a nuevas tecnologías y lenguajes cuando 
+el proyecto lo requiere. Además de mi experiencia profesional, he desarrollado proyectos personales con 
+Rust, Go, Solidity, React, C#, Prolog y ensamblador x86, lo que me permite abordar los problemas desde 
+una perspectiva amplia y elegir la tecnología más adecuada para cada caso. Disfruto enfrentándome a retos 
+técnicos, aprendiendo continuamente y colaborando en equipos ágiles (Scrum) para construir software de 
+calidad que aporte valor al negocio.
 
 **Actualmente estoy buscando trabajo en España.**
 
