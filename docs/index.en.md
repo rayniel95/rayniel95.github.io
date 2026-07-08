@@ -11,7 +11,7 @@
 :envelope: rainyel.ramos@gmail.com
 
 ## Summary
-I am passionate about software development and exploring new technologies. I prefer to seek out and learn the tool that best solves the problem. However, in all previous roles, I have worked with the technologies required by the client. Hardworking, inquisitive, creative, collaborative, proactive, and detail-oriented. Accustomed to working with agile methodologies (SCRUM). I love developing software from the ground up and transforming it into a product that becomes indispensable to the client.
+Software Engineer with over 4 years of experience developing backend applications and cloud solutions on AWS. I have designed and implemented scalable, maintainable architectures using primarily Python and Node.js (TypeScript). I quickly adapt to new technologies and programming languages whenever project requirements demand it. In addition to my professional experience, I have developed personal projects using Rust, Go, Solidity, React, C#, Prolog, and x86 Assembly, which allows me to approach problems from a broad perspective and choose the most appropriate technology for each use case. I enjoy tackling complex technical challenges, continuously learning new technologies, and collaborating in Agile (Scrum) teams to build high-quality software that delivers business value.
 
 **Actually I am looking for a job in Spain.**
 
