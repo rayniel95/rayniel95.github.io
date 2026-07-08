@@ -11,7 +11,7 @@
 :envelope: rainyel.ramos@gmail.com
 
 ## Resumen
-Ingeniero de Software con más de 4 años de experiencia en el desarrollo de aplicaciones backend y soluciones cloud sobre AWS. He diseñando e implementando arquitecturas escalables y mantenibles utilizando principalmente Python y Node.js (TypeScript). Me adapto con rapidez a nuevas tecnologías y lenguajes cuando 
+Ingeniero de Software con casi 5 años de experiencia en el desarrollo de aplicaciones backend y soluciones cloud sobre AWS. He diseñando e implementando arquitecturas escalables y mantenibles utilizando principalmente Python y Node.js (TypeScript). Me adapto con rapidez a nuevas tecnologías y lenguajes cuando 
 el proyecto lo requiere. Además de mi experiencia profesional, he desarrollado proyectos personales con 
 Rust, Go, Solidity, React, C#, Prolog y ensamblador x86, lo que me permite abordar los problemas desde 
 una perspectiva amplia y elegir la tecnología más adecuada para cada caso. Disfruto enfrentándome a retos 
