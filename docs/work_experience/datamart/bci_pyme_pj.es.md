@@ -22,7 +22,7 @@ Este proyecto está relacionado con la creación de una plataforma SaaS para el 
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Logros técnicos
 
-- Desarrollé más de 10 endpoints en un servidor Django REST API para soportar la funcionalidad principal del sistema.
+- Desarrollé más de 10 endpoints, en un servidor Django REST API con Pyhton, para soportar la funcionalidad principal del sistema.
 - Construí un servicio seguro de OTP (One-Time Password) serverless usando AWS Lambda y DynamoDB con expiración basada en TTL, habilitando verificación de usuarios por email.
 - Participé en sesiones de programación en pareja con compañeros para corregir bugs o revisar código, mejorando la calidad y legibilidad del código.
 - Usé el modelo de branching de git flow para obtener una mejor organización en el desarrollo del proyecto.
@@ -31,9 +31,9 @@ Este proyecto está relacionado con la creación de una plataforma SaaS para el 
 - Validé la funcionalidad de la API REST y el cumplimiento de contratos usando Postman, asegurando que los endpoints cumplieran con las especificaciones esperadas de request/response.
 - Implementé múltiples state machines y orquestación de datos usando AWS Step Functions.
 - Implementé funciones AWS Lambda para procesar y manipular grandes payloads JSON y conjuntos de datos estructurados, habilitando procesamiento serverless escalable.
-- Implementé múltiples AWS CloudWatch Alarms para Step Functions para habilitar monitoreo proactivo y detección rápida de fallos en los flujos de trabajo.
+- Implementé múltiples AWS CloudWatch Alarms para AWS Step Functions, utilizando Node.js (Typescript) y AWS CDK, para habilitar monitoreo proactivo y detección rápida de fallos en los flujos de trabajo.
 - Usé AWS SSM Parameter Store para leer y almacenar parámetros y habilitar el intercambio de parámetros entre stacks de CloudFormation.
-- Usé AWS EventBridge para conectar CloudWatch Alarms a runbooks de AWS Systems Manager Automation para ayudar a recuperar automáticamente el sistema después de errores conocidos y predecibles.
+- Usé AWS EventBridge para conectar AWS CloudWatch Alarms a runbooks de AWS Systems Manager Automation para ayudar a recuperar automáticamente el sistema después de errores conocidos y predecibles. Para ello utilicé Python, Node.js (Typescript) y AWS CDK.
 - Diseñé la arquitectura de la state machine (flujo frontend) usando XState.
 - Implementé múltiples state machines para garantizar el flujo correcto del frontend y encapsular la lógica del frontend mejorando la mantenibilidad y reduciendo errores de casos extremos.
 - Verifiqué la corrección de los datos almacenados en la base de datos usando múltiples consultas SQL.

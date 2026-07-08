@@ -22,7 +22,7 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 <!-- small description about the client and its requirements or problems, how I solve it -->
 ### Hard / Technical achievements
 
-- Developed 10+ endpoints in a Django REST API server to support core system functionality.
+- Developed 10+ endpoints, in a Django REST API server with Python, to support core system functionality.
 - Built a secure, serverless OTP (One-Time Password) service using AWS Lambda and DynamoDB with TTL-based expiration, enabling email-based user verification.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Used the branching model of git flow to get a better organization in the project development.
@@ -31,9 +31,9 @@ This project is related to create a SaaS platform for chilean bank BCI. The basi
 - Validated REST API functionality and contract compliance using Postman, ensuring endpoints met expected request/response specifications.
 - Implemented multiple state machines and data orchestration using AWS Step Functions.
 - Implemented AWS Lambda functions to process and manipulate large JSON payloads and structured datasets, enabling scalable serverless data processing.
-- Implemented multiple AWS CloudWatch Alarms for Step Functions to enable proactive monitoring and rapid detection of workflow failures.
+- Implemented multiple AWS CloudWatch Alarms for AWS Step Functions, using Node.js (Typescript) and AWS CDK, to enable proactive monitoring and rapid detection of workflow failures.
 - Used AWS SSM Parameter Store to read and store parameters to enable parameter sharing between CloudFormation stacks.
-- Used AWS EventBridge to connect CloudWatch Alarms to AWS Systems Manager Automation runbooks to help automatically recover the system after known, predictable errors.
+- Used AWS EventBridge to connect CloudWatch Alarms to AWS Systems Manager Automation runbooks to help automatically recover the system after known, predictable errors. For this I used Python, Node.js (Typescript) and AWS CDK.
 - Designed the architecture of state machine (frontend flow) using Xstate.
 - Implemented multiple state machines to guarantee the correct frontend flow and encapsulate frontend logic improving maintainability and reducing edge-case errors.
 - Checked the correctness of the data stored in the database using multiple SQL queries.
