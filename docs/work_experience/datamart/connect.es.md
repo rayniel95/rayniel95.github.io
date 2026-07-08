@@ -32,7 +32,7 @@ Este proyecto está relacionado con aumentar las funcionalidades de los sistemas
 - Usé AWS SSM para leer y almacenar parámetros y garantizar el paso de parámetros entre AWS Stacks.
 - Usé el modelo de branching de git flow para obtener una mejor organización en el desarrollo del proyecto.
 - Extendí las capacidades del sistema añadiendo nuevas clases en Python a una jerarquía de clases siguiendo las mejores prácticas de Programación Orientada a Objetos y ayudando a encapsular, extender y reutilizar el nuevo código en el futuro.
-- Monitoreé periódicamente las colas AWS SQS para alertar sobre posibles issues en el sistema ayudando a resolver errores antes de que los usuarios los reportaran.
+- Monitoreé periódicamente las colas AWS SQS para alertar sobre posibles fallos en el sistema ayudando a resolver errores antes de que los usuarios los reportaran.
 - Probé las plantillas VTL de AWS Appsync usando AWS SDK para garantizar la corrección de la solución y para mejorar la calidad y legibilidad del código.
 - Reporté bugs encontrados a los desarrolladores frontend para que fueran corregidos antes de que los usuarios los reportaran.
 - Recibí issues encontrados por otros miembros del equipo para ser corregidos por mí antes de que los usuarios los reportaran.
