@@ -24,10 +24,10 @@ Este proyecto está relacionado con aumentar las funcionalidades del sistema de 
 ### Logros técnicos
 
 - Implementé una función AWS Lambda para mapear documentos JSON a otros datos.
-- Usé funciones AWS Lambda para implementar las funcionalidades del backend.
+- Usé funciones AWS Lambda, con Python, para implementar las funcionalidades del backend.
 - Implementé AWS Step Functions usando Serverless Framework y el plugin de Step Functions.
-- Implementé Event Rules para las step functions, conectando la step function a AWS EventBridge.
-- Añadí capacidades de logging a las step functions ayudando a ver todo el trace de ejecución de la step function en AWS CloudWatch.
+- Implementé AWS Event Rules para las AWS Step Functions, conectando la Step Function a AWS EventBridge.
+- Añadí capacidades de logging a las AWS Step Functions ayudando a ver toda la traza de ejecución de la AWS Step Function en AWS CloudWatch.
 - Dividí el código serverless (código de serverless framework y cloud formation) en múltiples archivos para mejorar la organización, legibilidad y calidad del código.
 - Usé AWS SSM para leer y almacenar parámetros y garantizar el paso de parámetros entre AWS Stacks.
 - Usé el modelo de branching de git flow para obtener una mejor organización en el desarrollo del proyecto.

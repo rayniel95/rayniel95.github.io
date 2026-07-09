@@ -24,7 +24,7 @@ This project is related to increase the system functionalities of Falabella Bank
 ### Hard / Technical achievements
 
 - Implemented an AWS Lambda function for map JSON documents into other data.
-- Used AWS Lambda functions to implement the backend functionalities.
+- Used AWS Lambda functions, with Python, to implement the backend functionalities.
 - Implemented AWS Step Functions using Serverless Framework and the Step Functions plugin.
 - Implemented Event Rules for the step functions, connecting the step function to AWS Event Bridge.
 - Added logging capabilities to the step functions helping to view all the step function execution trace in AWS Cloud Watch.
