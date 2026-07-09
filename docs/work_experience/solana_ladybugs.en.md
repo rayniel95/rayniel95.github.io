@@ -19,14 +19,14 @@ Elasbit is a Chilean company that had the idea to create a NFT collection and so
 <!-- NOTE - what i did and how this help to the project -->
 - Proposed the use of cryptographic techniques (e.g. password salting) to store the user data on the smart contract improving security.
 - Designed, in coordination with the Product Manager, the smart contract.
-- Implemented and deployed the smart contract.
+- Implemented and deployed the smart contract using Rust programming language.
 - Designed and implemented a state machine for the smart contract to guarantee a correct information flow improving security.
 - Implemented a technique to serialize floating point numbers in Anchor, helping to add new functionalities to the smart contract.
 - Tested the smart contract to guarantee the correctness of the solution.
 - Participated in pair programming sessions with teammates to fix bug or reviewing code, improving code quality and readability.
 - Implemented an AWS Lambda function to query the blockchain to know the different status of the sent transactions.
 - Used AWS Lambda functions to implement the backend functionalities.
-- Designed, implemented and tested the frontend state machines using XState, guaranteeing a correct information flow in the frontend, improving code quality and readability, improving security and helping to separate the frontend logic from the components.
+- Designed, implemented and tested the frontend state machines using XState, Node.js (Typescript), Mocha and Chai. Guaranteeing a correct information flow in the frontend, improving code quality and readability, improving security and helping to separate the frontend logic from the components.
 - Helped to design the frontend state machines to get a visual representation of the frontend information flow.
 - Used the pattern of actor model in the state machines of the frontend improving code quality.
 - Researched about Solend (lending/borrow platform in Solana) and Jupiter (swap aggregator platform in Solana) and how to use its APIs.

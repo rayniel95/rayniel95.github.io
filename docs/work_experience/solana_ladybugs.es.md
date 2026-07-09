@@ -19,14 +19,14 @@ Elasbit es una empresa chilena que tuvo la idea de crear una colección de NFTs 
 <!-- NOTE - qué hice y cómo esto ayudó al proyecto -->
 - Propuse el uso de técnicas criptográficas (p. ej. salting de contraseñas) para almacenar los datos del usuario en el smart contract mejorando la seguridad.
 - Diseñé, en coordinación con el Product Manager, el smart contract.
-- Implementé y desplegué el smart contract.
+- Implementé y desplegué el contrato inteligente usando Rust.
 - Diseñé e implementé una state machine para el smart contract para garantizar un flujo de información correcto mejorando la seguridad.
 - Implementé una técnica para serializar números de punto flotante en Anchor, ayudando a añadir nuevas funcionalidades al smart contract.
 - Probé el smart contract para garantizar la corrección de la solución.
 - Participé en sesiones de programación en pareja con compañeros para corregir bugs o revisar código, mejorando la calidad y legibilidad del código.
-- Implementé una función AWS Lambda para consultar la blockchain y conocer los diferentes estados de las transacciones enviadas.
+- Implementé una función AWS Lambda, usando Python, para consultar la blockchain y conocer los diferentes estados de las transacciones enviadas.
 - Usé funciones AWS Lambda para implementar las funcionalidades del backend.
-- Diseñé, implementé y probé las state machines del frontend usando XState, garantizando un flujo de información correcto en el frontend, mejorando la calidad y legibilidad del código, mejorando la seguridad y ayudando a separar la lógica del frontend de los componentes.
+- Diseñé, implementé y probé las state machines del frontend usando XState, Node.js (Typescript), Mocha y Chai. Garantizando un flujo de información correcto en el frontend, mejorando la calidad y legibilidad del código, mejorando la seguridad y ayudando a separar la lógica del frontend de los componentes.
 - Ayudé a diseñar las state machines del frontend para obtener una representación visual del flujo de información del frontend.
 - Usé el patrón de actor model en las state machines del frontend mejorando la calidad del código.
 - Investigué sobre Solend (plataforma de lending/borrow en Solana) y Jupiter (plataforma agregadora de swaps en Solana) y cómo usar sus APIs.
