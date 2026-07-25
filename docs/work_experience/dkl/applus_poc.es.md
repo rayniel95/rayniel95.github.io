@@ -26,7 +26,7 @@ Este proyecto consistió en desarrollar una plataforma web prueba de concepto (P
 - Diseñé e implementé, usando Python, React y desarrollo asistido por IA; una funcionalidad que permite a los usuarios visualizar las fuentes regulatorias referenciadas en cada paso de un proceso de inspección, proporcionando trazabilidad directa entre los procedimientos de inspección y los requisitos regulatorios correspondientes.
 - Extendí, usando Python, docling y desarrollo asistido por IA; una biblioteca que se usaba para extraer secciones de documentos a otra que extrae y convierte secciones de documentos regulatorios a HTML, permitiendo que los modelos de lenguaje grandes (LLMs) procesen la información de forma más eficiente y precisa.
 - Aproveché flujos de trabajo de desarrollo asistido por IA para lluvia de ideas, diseño de sistemas, implementación, pruebas, depuración y corrección de errores, mejorando la eficiencia del desarrollo y reduciendo las alucinaciones del modelo mediante técnicas efectivas de prompting y validación.
-- Revisé, probé y validé código Python generado por IA antes de integrarlo, garantizando la corrección y previniendo errores de diseño e implementación derivados de alucinaciones del modelo.
+- Revisé, probé y validé código Python generado por IA antes de integrarlo, utilizando test unitarios con pytest, garantizando la corrección y previniendo errores de diseño e implementación derivados de alucinaciones del modelo.
 - Usé IA para comprender rápidamente codebases grandes y desconocidas, reduciendo significativamente el tiempo de incorporación y acelerando el desarrollo en el proyecto.
 
 ### Logros personales
@@ -48,7 +48,7 @@ Este proyecto consistió en desarrollar una plataforma web prueba de concepto (P
 - [Miguel Maricalva](https://www.linkedin.com/in/miguelmaricalva/) (Ingeniero de Datos | Ingeniero de Software)
 
 Stack:
-: Python, Django Rest Framework, JSON, SQL, PostgreSQL, pgAdmin, Claude Code (Opus 4.7), Git, Github, React, Docker, docker-compose, docling (librería de Python), Api Rest.
+: Python, Django Rest Framework, JSON, SQL, PostgreSQL, pgAdmin, Claude Code (Opus 4.7), Git, Github, React, Docker, docker-compose, docling (librería de Python), Api Rest, pytest, PydanticAi.
 <!-- extend the keywords section -->
 *keywords*:
 : Programación agéntica, Ingeniería de IA, contenedores.
