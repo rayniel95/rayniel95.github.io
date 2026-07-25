@@ -19,7 +19,7 @@ Elasbit es una empresa chilena que tuvo la idea de crear una colección de NFTs 
 <!-- NOTE - qué hice y cómo esto ayudó al proyecto -->
 - Propuse el uso de técnicas criptográficas (p. ej. salting de contraseñas) para almacenar los datos del usuario en el smart contract mejorando la seguridad.
 - Diseñé, en coordinación con el Product Manager, el smart contract.
-- Implementé y desplegué el contrato inteligente usando Rust.
+- Implementé y desplegué el contrato inteligente, para los NFTs, usando Rust.
 - Diseñé e implementé una state machine para el smart contract para garantizar un flujo de información correcto mejorando la seguridad.
 - Implementé una técnica para serializar números de punto flotante en Anchor, ayudando a añadir nuevas funcionalidades al smart contract.
 - Probé el smart contract para garantizar la corrección de la solución.
